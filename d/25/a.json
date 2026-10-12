@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-107.144427,39.410049],"type":"Point"},"properties":{"cause":"Fire","comment":"Emergency power outage for Structure Fire * Estimated restoration time 8PM","crewAssigned":true,"id":"386499","nbrOut":6,"planned":false,"timeOff":1791839697000},"type":"Feature"}
 ]}
