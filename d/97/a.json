@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.325876,47.411975],"type":"Point"},"properties":{"AffectedCustomers":13,"Cause":"Under Investigation","CommunityName":"South Wenatchee","CrewDispatched":"","EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1801,"OutageID":"6acd24093c0f1b7887c1e443","ProjectedDuration":null,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 12, 11:14 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 12, 11:14 AM","Status":"Active"},"type":"Feature"}
+
 ]}
