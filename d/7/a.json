@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.057,41.496],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":7,"etr":"Before 06:30 PM on 10/12","icon":"standard","latitude":41.496,"longitude":-124.057,"outCount":1,"reported":"02:00 PM on 10/12","zip":"95548"},"type":"Feature"},
+{"geometry":{"coordinates":[-124.057,41.496],"type":"Point"},"properties":{"cause":"Trees","crewStatus":"Crews Notified","custOut":7,"etr":"Before 06:30 PM on 10/12","icon":"standard","latitude":41.496,"longitude":-124.057,"outCount":1,"reported":"02:00 PM on 10/12","zip":"95548"},"type":"Feature"},
 {"geometry":{"coordinates":[-122.944,41.572],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":4,"etr":"Before 05:00 PM on 10/12","icon":"planned","latitude":41.572,"longitude":-122.944,"outCount":1,"reported":"09:33 AM on 10/12","zip":"96032"},"type":"Feature"}
 ]}
