@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.588108,38.239096],"type":"Point"},"properties":{"currentAffected":13,"fieldValues":{"currentAffected":"13","energizationStatus":"Verified","geographicAorIDs":"Pueblo East","outageStepOffTime":"2026-10-12T18:41:15Z","publishedEtr":"2026-10-12T20:40:31Z"},"geoJSONPolygon":null,"id":"6acd2bf778cae0263361ecb3","lat":38.23909607,"lon":-104.5881079,"serviceType":"Electric"},"type":"Feature"}
+
 ]}

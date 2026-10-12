@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-119.179174,46.590071],[-119.179022,46.59046],[-119.179201,46.590336],[-119.179174,46.590071]]],"type":"Polygon"},{"coordinates":[-119.179129,46.590287],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"CONTRACT CREW / MAINTENACE 7-3PM","id":"200214","nbrOut":3,"planned":false,"timeOff":1791817145000},"type":"Feature"},
-{"geometry":{"coordinates":[-119.032201,46.75162],"type":"Point"},"properties":{"id":"200220","nbrOut":1,"planned":false,"timeOff":1791838901000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-119.179174,46.590071],[-119.179022,46.59046],[-119.179201,46.590336],[-119.179174,46.590071]]],"type":"Polygon"},{"coordinates":[-119.179129,46.590287],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"CONTRACT CREW / MAINTENACE 7-3PM","id":"200214","nbrOut":3,"planned":false,"timeOff":1791817145000},"type":"Feature"}
 ]}
