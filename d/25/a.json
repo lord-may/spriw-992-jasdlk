@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-107.140276,39.405732],"type":"Point"},"properties":{"cause":"Fire","comment":"Emergency outage due to structure fire * Restoration time unknown","crewAssigned":true,"id":"386497","nbrOut":21,"planned":false,"timeOff":1791836785000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.540148,39.653722],"type":"Point"},"properties":{"crewAssigned":false,"id":"386498","nbrOut":1,"planned":false,"timeOff":1791836902000},"type":"Feature"}
 ]}
