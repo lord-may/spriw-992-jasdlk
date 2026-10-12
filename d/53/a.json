@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-119.179174,46.590071],[-119.179022,46.59046],[-119.179201,46.590336],[-119.179174,46.590071]]],"type":"Polygon"},{"coordinates":[-119.179129,46.590287],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"CONTRACT CREW / MAINTENACE 7-3PM","id":"200214","nbrOut":3,"planned":false,"timeOff":1791817145000},"type":"Feature"},
 {"geometry":{"coordinates":[-119.027431,46.743889],"type":"Point"},"properties":{"comment":"CONTRACT CREW / MAINTENANCE 8-2","id":"200216","nbrOut":2,"planned":false,"timeOff":1791819938000},"type":"Feature"},
-{"geometry":{"coordinates":[-119.204525,46.694146],"type":"Point"},"properties":{"comment":"MEMBER REPORTED BLOWN FUSE / CREW IN ROUTE","id":"200217","nbrOut":1,"planned":false,"timeOff":1791820386323},"type":"Feature"},
 {"geometry":{"coordinates":[-119.213409,46.78484],"type":"Point"},"properties":{"id":"200219","nbrOut":2,"planned":false,"timeOff":1791824961000},"type":"Feature"}
 ]}
