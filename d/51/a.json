@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-105.95141,37.393597],[-105.947332,37.393961],[-105.91837,37.430286],[-105.921271,37.459527],[-105.927793,37.467834],[-105.983956,37.47254],[-106.003036,37.470971],[-106.020706,37.445471],[-106.021263,37.437497],[-105.992508,37.414797],[-105.95141,37.393597]]],"type":"Polygon"},{"coordinates":[-105.966169,37.43876],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"EQUIPMENT(MATERIAl FAILURE, CORROSION)","crewAssigned":true,"id":"264821","nbrOut":277,"planned":false,"timeOff":1791829655483},"type":"Feature"}
 ]}
