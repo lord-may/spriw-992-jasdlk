@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-107.77788,37.261263],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-12T15:42:47.533-06:00","outageName":"2548 COUNTY RD 225","outagePoint":{"lat":37.26126257443258,"lng":-107.7778804891341},"outageRecID":"2026-10-12-0093","outageStartTime":"2026-10-12T15:37:48-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
