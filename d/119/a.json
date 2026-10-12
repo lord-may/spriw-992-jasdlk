@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-116.743135,47.824552],"type":"Point"},"properties":{"ETR":"2:00PM Wed Oct 14","MembersOut":"162","description":["Members","162","Time Off","9:00AM Wed Oct 14","Est Time On","2:00PM Wed Oct 14"],"name":"355755","style":"KMLStyler_4"},"type":"Feature"},
+{"geometry":{"coordinates":[-116.895788,47.730207],"type":"Point"},"properties":{"ETR":"4:30PM Tue Oct 13","MembersOut":"6","description":["Members","6","Time Off","2:30PM Tue Oct 13","Est Time On","4:30PM Tue Oct 13"],"name":"355757","style":"KMLStyler_4"},"type":"Feature"}
+]}
