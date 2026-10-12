@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.944398,33.555666],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Double Tree Ranch Rd to Mockingbird Ln and 56th St to Invergordon Rd","Cause":"Planned outage","City":"Paradise Valley","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13071,"Ticket":"7186479977","customers":112,"datastatus":"current","etr":1791807600000,"latLong":"33.555666163814_-111.9443976162","off":1791790560000,"outageimpact":"Large","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
+
 ]}
