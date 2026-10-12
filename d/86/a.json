@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-122.920388,46.678309],[-122.919265,46.682068],[-122.928724,46.682438],[-122.925086,46.680102],[-122.920388,46.678309]]],"type":"Polygon"},{"coordinates":[-122.923002,46.680866],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Public Damage / Customer Damage","estimateTime":1791842400000,"id":"213692","nbrOut":8,"planned":true,"timeOff":1791835200000},"type":"Feature"}
 ]}
