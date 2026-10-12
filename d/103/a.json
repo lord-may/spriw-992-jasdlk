@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.83998,48.080064],"type":"Point"},"properties":{"id":"334481","nbrOut":4,"timeOff":1791825301779},"type":"Feature"},
-{"geometry":{"coordinates":[-122.796528,48.058046],"type":"Point"},"properties":{"id":"334482","nbrOut":3,"timeOff":1791825394924},"type":"Feature"}
+
 ]}
