@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.667,45.597],"type":"Point"},"properties":{"cause":"Wildlife","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:00 PM on 10/13","icon":"standard","latitude":45.597,"longitude":-122.667,"outCount":1,"reported":"05:44 PM on 10/12","zip":"97211"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.667,45.597],"type":"Point"},"properties":{"cause":"Wildlife","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:00 PM on 10/13","icon":"standard","latitude":45.597,"longitude":-122.667,"outCount":1,"reported":"05:44 PM on 10/12","zip":"97211"},"type":"Feature"},
+{"geometry":{"coordinates":[-121.33,44.047],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 10:00 PM on 10/12","icon":"standard","latitude":44.047,"longitude":-121.33,"outCount":1,"reported":"06:42 PM on 10/12","zip":"97702"},"type":"Feature"}
 ]}
