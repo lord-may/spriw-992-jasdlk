@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.289472,31.556335],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":3,"GlobalID":"7b51286b-6ff3-44f0-9b87-e60f2fcc6f89","INCIDENT_ID":21186,"MetersRestored":4,"OBJECTID":2,"REGION":"Sierra Vista","STATUS":"Power Out","TIME_OUTAGE":1791471901000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1791482701000},"type":"Feature"},
-{"geometry":{"coordinates":[-110.301745,31.550514],"type":"Point"},"properties":{"CAUSE":"Investigating","CUSTOMER_COUNT":1,"GlobalID":"7182aa70-7b20-4861-a759-c4af2279d43e","INCIDENT_ID":21196,"MetersRestored":0,"OBJECTID":1,"REGION":"Sierra Vista","STATUS":"Power Out","TIME_OUTAGE":1791823860000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1791834660000},"type":"Feature"}
+
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-104.824453,41.165508],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne North","outageStepOffTime":"2026-10-13T13:45:45Z","publishedEtr":"2026-10-13T15:35:49Z"},"geoJSONPolygon":null,"id":"6ace360d78cae0263362573d","lat":41.16550832,"lon":-104.8244533,"serviceType":"Electric"},"type":"Feature"}
 ]}
