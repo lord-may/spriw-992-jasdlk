@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.871511,64.912621],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T13:27:08.79-08:00","outageName":"MOS R3 TRA_327733","outagePoint":{"lat":64.91262137310831,"lng":-147.87151096512702},"outageRecID":"2026-10-13-0152","outageStartTime":"2026-10-13T13:17:25-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
