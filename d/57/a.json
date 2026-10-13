@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-122.694129,47.174173],[-122.693716,47.174588],[-122.695189,47.180212],[-122.697336,47.178844],[-122.697166,47.176878],[-122.697094,47.176121],[-122.694129,47.174173]]],"type":"Polygon"},{"coordinates":[-122.695603,47.177159],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"New Outage, Cause Unknown","id":"261869","nbrOut":15,"planned":false,"timeOff":1791871260000},"type":"Feature"}
+
 ]}
