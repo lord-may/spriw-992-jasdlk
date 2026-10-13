@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-117.6109,33.4292],[-117.6066,33.4305],[-117.6019,33.4323],[-117.6026,33.4345],[-117.6061,33.4378],[-117.6075,33.4391],[-117.6098,33.44039],[-117.6121,33.4412],[-117.6131,33.4407],[-117.6161,33.438],[-117.6123,33.4304],[-117.6109,33.4292]]],"type":"Polygon"},{"coordinates":[-117.60942,33.43507],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Our equipment has been damaged and our crews need to make repairs.","es-US":"Nuestro equipo esta dañado y nuestro personal necesita realizar reparaciones.","orig":"Device/Equipment Damaged"},"circuits":"200","cluster":false,"comments":null,"communities":"San Clemente/ Talega","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"791","etr":"2026-10-13T03:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-12T11:02:24Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
