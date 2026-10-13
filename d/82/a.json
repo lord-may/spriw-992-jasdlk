@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-149.767688,61.12532],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"MICHAEL PHILLIPS","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"OMSS 212","LATITUDE":"61.12532","LONGITUDE":"-149.767688","OUTAGE_START":"10/12/2026 19:41","OUTAGE_STATUS":"Crew Dispatched","STAGE":"En Route"},"type":"Feature"}
 ]}
