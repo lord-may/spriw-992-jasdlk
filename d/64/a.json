@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-111.58974,37.765354],"type":"Point"},"properties":{"crewAssigned":true,"id":"301853","nbrOut":1,"planned":false,"timeOff":1791828525384},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-112.0629,36.216011],[-112.063026,36.217062],[-112.080516,36.290017],[-112.130139,36.413026],[-112.33465,36.593634],[-112.335162,36.593843],[-112.238296,36.452806],[-112.0629,36.216011]]],"type":"Polygon"},{"coordinates":[-112.174139,36.403837],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Trees outside Right of way","crewAssigned":false,"id":"301918","nbrOut":17,"planned":false,"timeOff":1791851752000},"type":"Feature"},
 {"geometry":{"coordinates":[-112.082241,37.626633],"type":"Point"},"properties":{"crewAssigned":false,"id":"301963","nbrOut":1,"planned":false,"timeOff":1791909880000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-112.664484,37.519401],[-112.664457,37.519529],[-112.664367,37.52042],[-112.664421,37.520698],[-112.665221,37.520726],[-112.665311,37.520448],[-112.665158,37.519472],[-112.664484,37.519401]]],"type":"Polygon"},{"coordinates":[-112.664825,37.520099],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned Outage","crewAssigned":true,"id":"301966","nbrOut":11,"planned":false,"timeOff":1791910214000},"type":"Feature"},
-{"geometry":{"coordinates":[-112.054753,37.568689],"type":"Point"},"properties":{"crewAssigned":false,"id":"301967","nbrOut":1,"planned":false,"timeOff":1791910754000},"type":"Feature"}
+{"geometry":{"coordinates":[-112.054753,37.568689],"type":"Point"},"properties":{"crewAssigned":false,"id":"301967","nbrOut":1,"planned":false,"timeOff":1791910754000},"type":"Feature"},
+{"geometry":{"coordinates":[-111.419734,37.905275],"type":"Point"},"properties":{"crewAssigned":false,"id":"301968","nbrOut":1,"planned":false,"timeOff":1791914783000},"type":"Feature"}
 ]}
