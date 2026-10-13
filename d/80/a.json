@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.983625,33.599595],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Cactus Rd to Shaw Butte Dr and Paradise Village Parkway West to Tatum Blvd","Cause":"Temporary equipment problems","City":"Phoenix","Comments":"We are working to restore the power outage caused by temporary problems with our equipment.","MediaLink":null,"OBJECTID":13129,"Ticket":"7186480445","customers":9,"datastatus":"current","etr":1791915600000,"latLong":"33.599595435955_-111.9836245604","off":1791902460000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
