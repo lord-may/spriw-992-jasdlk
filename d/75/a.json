@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.201958,47.979006],"type":"Point"},"properties":{"Cause":"No data","CustomersImpacted":0,"DeviceLocationIDs":"","ETR":"","IncidentId":"None","IncidentName":"No incidents","IsPlanned":false,"Start":"2026-10-13T23:23:01.528663Z","Status":"None","Updated":"2026-10-13T23:23:01.528663Z"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.201958,47.979006],"type":"Point"},"properties":{"Cause":"No data","CustomersImpacted":0,"DeviceLocationIDs":"","ETR":"","IncidentId":"None","IncidentName":"No incidents","IsPlanned":false,"Start":"2026-10-13T23:38:01.646558Z","Status":"None","Updated":"2026-10-13T23:38:01.646558Z"},"type":"Feature"}
 ]}
