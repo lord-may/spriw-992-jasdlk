@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.289272,31.567158],"type":"Point"},"properties":{"CAUSE":"Investigating","CUSTOMER_COUNT":14,"GlobalID":"a4922aed-f1c6-4ddc-a170-ee378efd8471","INCIDENT_ID":21200,"MetersRestored":0,"OBJECTID":1,"REGION":"Sierra Vista","STATUS":"Power Out","TIME_OUTAGE":1791921904000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1791932704000},"type":"Feature"}
+
 ]}
