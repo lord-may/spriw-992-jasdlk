@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-151.038157,61.171986],"type":"Point"},"properties":{"CITY":"BELUGA","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"BGSS 6126","LATITUDE":"61.171986","LONGITUDE":"-151.038157","OUTAGE_START":"10/13/2026 06:51","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.954708,61.181478],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"TNSS 132","LATITUDE":"61.181478","LONGITUDE":"-149.954708","OUTAGE_START":"10/13/2026 08:18","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.954708,61.181478],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"_LINEWORKS","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"TNSS 132","LATITUDE":"61.181478","LONGITUDE":"-149.954708","OUTAGE_START":"10/13/2026 08:18","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.732757,61.215885],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DBSS 152","LATITUDE":"61.215885","LONGITUDE":"-149.732757","OUTAGE_START":"10/13/2026 08:32","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
