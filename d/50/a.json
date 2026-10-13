@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-120.456812,40.23306],[-120.454665,40.236071],[-120.454539,40.236825],[-120.456507,40.241159],[-120.458205,40.239328],[-120.456812,40.23306]]],"type":"Polygon"},{"coordinates":[-120.456435,40.237292],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Other planned","comment":"PLANNED OUTAGE FOR TRANSFORMER CHANGE OUTS. INDIVIDUAL LOCATIONS WILL BE ENERGIZED THROUGH OUT THE DAY AS CHANGE OUTS ARE COMPLETE.","crewAssigned":false,"estimateTime":1791928800000,"id":"231922","nbrOut":8,"planned":true,"timeOff":1791905222533},"type":"Feature"}
 ]}
