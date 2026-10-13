@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-106.38853,39.644585],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for underground electrical maintenance in the South Frontage Road area in Vail.","crewAssigned":true,"estimateTime":1791910800000,"id":"386079","nbrOut":37,"planned":true,"timeOff":1791899700000},"type":"Feature"}
 ]}
