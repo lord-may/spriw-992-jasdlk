@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-149.72835,61.219299],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"DOMINIC HODGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DBSS 152","LATITUDE":"61.219299","LONGITUDE":"-149.72835","OUTAGE_START":"10/14/2026 09:12","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.792079,61.119592],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"_LINEWORKS","CUSTOMERS_AFFECTED":"3","EST_RESTORATION":"-","FEEDER":"OMSS 412","LATITUDE":"61.119592","LONGITUDE":"-149.792079","OUTAGE_START":"10/14/2026 15:11","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
