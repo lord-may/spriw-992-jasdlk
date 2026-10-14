@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-123.376058,46.99266],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195046","nbrOut":1,"planned":false,"timeOff":1792005232737},"type":"Feature"}
 ]}
