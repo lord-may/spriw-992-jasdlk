@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.522886,32.981413],"type":"Point"},"properties":{"APSArea":"Southeastern Arizona","Boundary":"Lindbergh Ave. to Northern Ave. and Arizona Blvd to 4th St.","Cause":"Planned outage","City":"Coolidge","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13165,"Ticket":"7186480511","customers":15,"datastatus":"current","etr":1791934500000,"latLong":"32.981412812541_-111.522886289","off":1791921600000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
 ]}
