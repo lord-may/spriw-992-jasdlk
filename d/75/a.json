@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-122.147627,47.852335],[-122.148314,47.852335],[-122.148314,47.850204],[-122.147627,47.850204],[-122.147627,47.852335]]],"type":"Polygon"},"properties":{"Cause":"Pending Investigation","CustomersImpacted":2,"DeviceLocationIDs":"[\"40504874\",\"40117142\"]","ETR":"2026-10-14T23:30:00Z","IncidentBounds":"[-122.148327,47.850203,-122.147635,47.85234]","IncidentId":"b6c136da-c5aa-4a75-96c3-2aeb07c9636f","IncidentName":"2870801648","IsPlanned":false,"Start":"2026-10-14T21:17:35Z","Status":"Outage Reported","Updated":"2026-10-14T21:18:12.7320985Z"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.201958,47.979006],"type":"Point"},"properties":{"Cause":"No data","CustomersImpacted":0,"DeviceLocationIDs":"","ETR":"","IncidentId":"None","IncidentName":"No incidents","IsPlanned":false,"Start":"2026-10-14T21:38:01.5232668Z","Status":"None","Updated":"2026-10-14T21:38:01.5232668Z"},"type":"Feature"}
 ]}
