@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.548566,37.765777],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T18:51:51.147-07:00","outageName":"64032286","outagePoint":{"lat":37.7657773712345,"lng":-121.54856635998088},"outageRecID":"2026-10-13-0080","outageStartTime":"2026-10-13T18:51:31-07:00","outageWorkStatus":"","streetsAffected":["West Huntington Avenue"],"verified":false},"type":"Feature"}
 ]}
