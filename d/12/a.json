@@ -16,8 +16,10 @@
 {"geometry":{"coordinates":[-121.774854,45.302516],"type":"Point"},"properties":{"eventId":"2512368","lat":"45.30251635","long":"-121.77485439","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.765834,45.508058],"type":"Point"},"properties":{"eventId":"2512378","lat":"45.50805761","long":"-122.76583357","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.848807,45.433116],"type":"Point"},"properties":{"eventId":"2512379","lat":"45.43311565","long":"-122.84880699","totalCustomersImpacted":7},"type":"Feature"},
-{"geometry":{"coordinates":[-122.675043,45.40945],"type":"Point"},"properties":{"eventId":"2512383","lat":"45.40945030","long":"-122.67504292","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.713981,45.411061],"type":"Point"},"properties":{"eventId":"2512384","lat":"45.41106101","long":"-122.71398140","totalCustomersImpacted":5},"type":"Feature"},
 {"geometry":{"coordinates":[-122.651697,45.499614],"type":"Point"},"properties":{"eventId":"2512386","lat":"45.49961379","long":"-122.65169685","totalCustomersImpacted":7},"type":"Feature"},
-{"geometry":{"coordinates":[-122.674817,45.51392],"type":"Point"},"properties":{"eventId":"2512392","lat":"45.51392046","long":"-122.67481657","totalCustomersImpacted":1},"type":"Feature"}
+{"geometry":{"coordinates":[-122.674817,45.51392],"type":"Point"},"properties":{"eventId":"2512392","lat":"45.51392046","long":"-122.67481657","totalCustomersImpacted":1},"type":"Feature"},
+{"geometry":{"coordinates":[-122.37417,45.312583],"type":"Point"},"properties":{"eventId":"2512393","lat":"45.31258272","long":"-122.37416995","totalCustomersImpacted":3},"type":"Feature"},
+{"geometry":{"coordinates":[-122.374185,45.31344],"type":"Point"},"properties":{"eventId":"2512394","lat":"45.31343992","long":"-122.37418481","totalCustomersImpacted":1},"type":"Feature"},
+{"geometry":{"coordinates":[-122.866776,45.155737],"type":"Point"},"properties":{"eventId":"2512395","lat":"45.15573690","long":"-122.86677648","totalCustomersImpacted":65},"type":"Feature"}
 ]}
