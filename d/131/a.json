@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.841665,40.390935],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T13:29:33.22-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T11:29:33.257-06:00","outageName":"T_1814","outagePoint":{"lat":40.390934920854676,"lng":-111.84166450617002},"outageRecID":"2026-10-14-0022","outageStartTime":"2026-10-14T11:29:05-06:00","outageWorkStatus":"","streetsAffected":["E 200 N","E 300 N","N 500 E"],"verified":false},"type":"Feature"}
+
 ]}
