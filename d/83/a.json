@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-115.204257,36.190719],"type":"Point"},"properties":{"CAUSEDESC":"Pole-mounted Transformer Problem","ERTDATETIME":"10/13/2026 08:30:00 PM","EVENTID":"1863678","LATITUDE":36.1907186,"LONGITUDE":-115.2042568,"NUMCUSTDEENERGIZED":9,"STARTDATETIME":"10/13/2026 01:11:12 PM","XCORD":2170156,"YCORD":13145002},"type":"Feature"},
-{"geometry":{"coordinates":[-119.787043,39.514134],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1863771","LATITUDE":39.5141339,"LONGITUDE":-119.7870432,"NUMCUSTDEENERGIZED":6,"STARTDATETIME":"10/13/2026 09:29:46 PM","XCORD":854341,"YCORD":14362016},"type":"Feature"}
+{"geometry":{"coordinates":[-119.787043,39.514134],"type":"Point"},"properties":{"CAUSEDESC":"Planned Shutdown for Service Improvement","ERTDATETIME":null,"EVENTID":"1863771","LATITUDE":39.5141339,"LONGITUDE":-119.7870432,"NUMCUSTDEENERGIZED":6,"STARTDATETIME":"10/13/2026 09:29:46 PM","XCORD":854341,"YCORD":14362016},"type":"Feature"}
 ]}
