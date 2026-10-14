@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.13048,37.440398],"type":"Point"},"properties":{"cause":"Equipment Replacement","code":"102","crewAssigned":false,"customersOutInitially":31,"customersOutNow":31,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T17:00:00-07:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-14T08:02:25.027-07:00","outageName":"HO4","outagePoint":{"lat":37.440397744844894,"lng":-122.13048042229792},"outageRecID":"2026-10-14-0038","outageStartTime":"2026-10-14T08:00:00-07:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
