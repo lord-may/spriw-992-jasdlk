@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-123.285,44.937],"type":"Point"},"properties":{"cause":"Emergency Repair","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 09:00 PM on 10/13","icon":"standard","latitude":44.937,"longitude":-123.285,"outCount":1,"reported":"02:46 PM on 10/13","zip":"97338"},"type":"Feature"},
 {"geometry":{"coordinates":[-122.667,45.597],"type":"Point"},"properties":{"cause":"Wildlife","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:30 PM on 10/14","icon":"standard","latitude":45.597,"longitude":-122.667,"outCount":1,"reported":"05:52 PM on 10/13","zip":"97211"},"type":"Feature"},
-{"geometry":{"coordinates":[-123.64,42.162],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":93,"etr":"Assessing","icon":"planned","latitude":42.162,"longitude":-123.64,"outCount":1,"reported":"08:52 AM on 10/13","zip":"97523"},"type":"Feature"},
-{"geometry":{"coordinates":[-120.836,44.337],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Arrived","custOut":2,"etr":"Assessing","icon":"standard","latitude":44.337,"longitude":-120.836,"outCount":1,"reported":"08:58 AM on 10/13","zip":"97754"},"type":"Feature"}
+{"geometry":{"coordinates":[-123.64,42.162],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":93,"etr":"Assessing","icon":"planned","latitude":42.162,"longitude":-123.64,"outCount":1,"reported":"08:52 AM on 10/13","zip":"97523"},"type":"Feature"}
 ]}
