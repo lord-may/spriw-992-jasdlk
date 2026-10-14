@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.16985,46.348912],"type":"Point"},"properties":{"id":"200262","nbrOut":2,"planned":false,"timeOff":1791987639000},"type":"Feature"}
+{"geometry":{"coordinates":[-119.16985,46.348912],"type":"Point"},"properties":{"comment":"CREW IN ROUTE","id":"200262","nbrOut":2,"planned":false,"timeOff":1791987639000},"type":"Feature"}
 ]}
