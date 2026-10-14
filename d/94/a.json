@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.80829,64.833473],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T19:01:36.39-08:00","outageName":"PGS R2 SER_3270809","outagePoint":{"lat":64.8334726330269,"lng":-147.80829047498938},"outageRecID":"2026-10-13-0156","outageStartTime":"2026-10-13T18:57:23-08:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
