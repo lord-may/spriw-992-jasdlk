@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.190754,46.585768],"type":"Point"},"properties":{"comment":"CONTRACT CREW MAINTENANCE","id":"200263","nbrOut":1,"planned":false,"timeOff":1791989005000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-119.027952,46.743828],[-119.026955,46.743852],[-119.027224,46.755473],[-119.027377,46.760883],[-119.032201,46.75162],[-119.027952,46.743828]]],"type":"Polygon"},{"coordinates":[-119.028859,46.751651],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"CONTRACT CREW CONSTRUCTION","id":"200265","nbrOut":5,"planned":false,"timeOff":1791989422000},"type":"Feature"}
 ]}
