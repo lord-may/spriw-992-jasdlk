@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":null,"properties":{"Actions":null,"ClosingDispatcher":null,"CostEstimate":null,"CrewDispatched":true,"CrewResponsible":null,"CustomerResponsible":null,"CustomersOutInitially":null,"CustomersOutNow":24,"CustomersRestored":0,"CustomersServed":null,"Dispatcher":null,"District":null,"EstimatedTime":null,"Feeder":null,"Fields":{"oID":"2026-10-14-0028"},"MapLocation":null,"Notes":null,"OutageEndTime":null,"OutageLocation":{"X":-118.10339093066752,"Y":34.147200017760184},"OutageName":"S-5 CKT PARTIAL OUTAGE","OutagePolygon":null,"OutageRecID":"2026-10-14-0028","OutageStartTime":"2026-10-14T13:20:05-07:00","OutagedPhase":null,"PriorityCustomers":null,"Status":null,"Substation":null,"SuspectedCause":null,"TroubledElement":null,"UplineElement":null,"Verified":true,"VerifiedCause":null},"type":"Feature"}
+
 ]}
