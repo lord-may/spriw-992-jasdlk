@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-120.656828,47.561535],[-120.652899,47.560963],[-120.648838,47.573732],[-120.652767,47.574304],[-120.656828,47.561535]]],"type":"Polygon"},"properties":{"AffectedCustomers":30,"Cause":"Under Investigation","CommunityName":"East Leavenworth","CrewDispatched":"","EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1810,"OutageID":"6ad00c232a111b402df4dafc","ProjectedDuration":null,"Shape__Area":4726989.784301758,"Shape__Length":11513.114952911134,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 14, 04:09 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 14, 04:09 PM","Status":"Active"},"type":"Feature"}
+
 ]}
