@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.551575,34.414611],"type":"Point"},"properties":{"cause":"NO OUTAGE","comment":"There is currently no outage at this location. We tested the meter for power and we have good voltage. If your meter has a display then there is power to the meter. We recommend to check all your breakers, including the main disconnect out by the meter. Be sure you turn the main breaker all the way off & then back on. If that does not rectify the problem, you may need to contact an electrician as NEC does not provide a service for equipment on your side of the meter. Thank you","crewAssigned":false,"id":"535301","nbrOut":1,"planned":false,"timeOff":1791990009405},"type":"Feature"},
 {"geometry":{"coordinates":[-109.91157,34.111682],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"535302","nbrOut":1,"planned":false,"timeOff":1791992183000},"type":"Feature"},
-{"geometry":{"coordinates":[-109.266553,34.124949],"type":"Point"},"properties":{"crewAssigned":false,"id":"535303","nbrOut":1,"planned":false,"timeOff":1791993709000},"type":"Feature"}
+{"geometry":{"coordinates":[-109.266553,34.124949],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"535303","nbrOut":1,"planned":false,"timeOff":1791993709000},"type":"Feature"}
 ]}
