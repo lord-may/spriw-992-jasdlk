@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-119.756625,39.161677],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1863795","LATITUDE":39.1616774,"LONGITUDE":-119.7566248,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"10/14/2026 06:22:41 AM","XCORD":859004,"YCORD":14233393},"type":"Feature"}
 ]}
