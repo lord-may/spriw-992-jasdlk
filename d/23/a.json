@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.54065,38.506805],"type":"Point"},"properties":{"AFFECTEDAREA":"Pocket/Greenhaven","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"320","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Today at  10:45 PM","EVENTNUMBER":"J26101400162","OUTAGEBEGINTIME":"Today at  8:54 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"20 - ASSESSING","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.540649893045","Y_COORD":"38.5068052540987","name":"320","style":"Style4"},"type":"Feature"}
 ]}
