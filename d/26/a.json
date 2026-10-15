@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.974506,39.037001],"type":"Point"},"properties":{"cause":"Weather-Snow, Ice (not trees)","crewAssigned":true,"estimateTime":1792099800000,"id":"251388","nbrOut":2,"planned":false,"timeOff":1792023653000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.842534,38.487289],"type":"Point"},"properties":{"cause":"Cause unknown","crewAssigned":true,"estimateTime":1792101600000,"id":"251395","nbrOut":1,"planned":false,"timeOff":1792090270000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.842534,38.487289],"type":"Point"},"properties":{"cause":"Cause unknown","crewAssigned":true,"estimateTime":1792101600000,"id":"251395","nbrOut":1,"planned":false,"timeOff":1792090270000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-108.009603,39.030449],[-108.007321,39.030525],[-108.002955,39.033065],[-108.008471,39.035228],[-108.00972,39.033714],[-108.009872,39.031474],[-108.009603,39.030449]]],"type":"Polygon"},{"coordinates":[-108.007258,39.032702],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause unknown","crewAssigned":false,"estimateTime":1792108800000,"id":"251397","nbrOut":9,"planned":false,"timeOff":1792101585000},"type":"Feature"}
 ]}
