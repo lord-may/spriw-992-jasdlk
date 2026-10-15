@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.721,42.201],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":8,"etr":"Assessing","icon":"planned","latitude":42.201,"longitude":-121.721,"outCount":1,"reported":"06:57 PM on 10/14","zip":"97603"},"type":"Feature"}
+{"geometry":{"coordinates":[-121.721,42.201],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":42,"etr":"Before 11:30 PM on 10/14","icon":"planned","latitude":42.201,"longitude":-121.721,"outCount":1,"reported":"10:09 PM on 10/14","zip":"97603"},"type":"Feature"}
 ]}
