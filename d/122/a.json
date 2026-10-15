@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-109.952394,32.394907],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":1,"GlobalID":"8e834136-75bb-46f4-86ac-6223593530e1","INCIDENT_ID":21216,"MetersRestored":0,"OBJECTID":1,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1792085928000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
+{"geometry":{"coordinates":[-109.952394,32.394907],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":1,"GlobalID":"c132d9ae-4db1-4b4f-8f41-fe03243b6911","INCIDENT_ID":21216,"MetersRestored":0,"OBJECTID":2,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1792085928000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-110.312527,31.970487],"type":"Point"},"properties":{"CAUSE":"Investigating","CUSTOMER_COUNT":1,"GlobalID":"b8176de2-9c0f-4aa4-b928-7db74cc9d847","INCIDENT_ID":21218,"MetersRestored":0,"OBJECTID":1,"REGION":"Benson","STATUS":"Power Out","TIME_OUTAGE":1792094600000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1792105400000},"type":"Feature"}
 ]}
