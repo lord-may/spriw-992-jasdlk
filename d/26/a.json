@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-107.974506,39.037001],"type":"Point"},"properties":{"cause":"Weather-Snow, Ice (not trees)","crewAssigned":true,"estimateTime":1792099800000,"id":"251388","nbrOut":2,"planned":false,"timeOff":1792023653000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.940684,38.609064],"type":"Point"},"properties":{"cause":"Cause unknown","crewAssigned":false,"estimateTime":1792092600000,"id":"251394","nbrOut":1,"planned":false,"timeOff":1792084853000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.940684,38.609064],"type":"Point"},"properties":{"cause":"Cause unknown","comment":"We are aware of the outage and crews are responding at this time.","crewAssigned":true,"estimateTime":1792092600000,"id":"251394","nbrOut":1,"planned":false,"timeOff":1792084853000},"type":"Feature"}
 ]}
