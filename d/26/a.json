@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.974506,39.037001],"type":"Point"},"properties":{"cause":"Weather-Snow, Ice (not trees)","crewAssigned":false,"estimateTime":1792099800000,"id":"251388","nbrOut":2,"planned":false,"timeOff":1792023653000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.821172,38.467732],"type":"Point"},"properties":{"cause":"Cause unknown","crewAssigned":true,"estimateTime":1792071000000,"id":"251390","nbrOut":1,"planned":false,"timeOff":1792057669000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.974506,39.037001],"type":"Point"},"properties":{"cause":"Weather-Snow, Ice (not trees)","crewAssigned":true,"estimateTime":1792099800000,"id":"251388","nbrOut":2,"planned":false,"timeOff":1792023653000},"type":"Feature"}
 ]}
