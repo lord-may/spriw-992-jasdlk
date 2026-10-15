@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-120.018316,47.839027],[-120.018412,47.838715],[-120.015289,47.838279],[-120.015193,47.83859],[-120.018316,47.839027]]],"type":"Polygon"},"properties":{"AffectedCustomers":17,"Cause":"Scheduled work being conducted in the area","CommunityName":"Chelan","CrewDispatched":null,"EndTimeFormatted":"Oct 15, 03:00 PM","EstimatedEndTime":null,"OBJECTID":1811,"OutageID":"6ad0f9e22a111b402df4e3cf","ProjectedDuration":null,"Shape__Area":90991.69415283203,"Shape__Length":1799.1308201662382,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Oct 15, 03:00 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 15, 09:00 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 15, 09:00 AM","Status":"Active"},"type":"Feature"}
 ]}
