@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-121.721,42.201],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":43,"etr":"Before 01:30 AM on 10/15","icon":"planned","latitude":42.201,"longitude":-121.721,"outCount":1,"reported":"10:09 PM on 10/14","zip":"97603"},"type":"Feature"},
-{"geometry":{"coordinates":[-124.009,44.986],"type":"Point"},"properties":{"cause":"Multiple outages in the area","crewStatus":"Crews Arrived","custOut":5,"etr":"Assessing","icon":"standard","latitude":44.986,"longitude":-124.009,"outCount":2,"reported":"12:25 AM on 10/15","zip":"97367"},"type":"Feature"}
+{"geometry":{"coordinates":[-124.009,44.986],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":4,"etr":"Before 05:00 AM on 10/15","icon":"planned","latitude":44.986,"longitude":-124.009,"outCount":1,"reported":"12:25 AM on 10/15","zip":"97367"},"type":"Feature"}
 ]}
