@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.229024,45.73642],"type":"Point"},"properties":{"cause":"420 Trees","code":"420","crewAssigned":true,"customersOutInitially":54,"customersOutNow":34,"customersRestored":20,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T18:44:00.933-07:00","outageName":"","outagePoint":{"lat":45.736419622801264,"lng":-118.22902409704393},"outageRecID":"2026-10-14-0084","outageStartTime":"2026-10-14T12:32:14-07:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
