@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-117.594429,47.644913],"type":"Point"},"properties":{"cause":"Member Requested","comment":"Temp disconnect 783168","crewAssigned":true,"id":"527207","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792076974000},"type":"Feature"}
 ]}
