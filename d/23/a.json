@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.351382,38.673367],"type":"Point"},"properties":{"AFFECTEDAREA":"North Highlands","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26101500025","OUTAGEBEGINTIME":"Today at  7:30 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.351381734735","Y_COORD":"38.6733667294734","name":"1","style":"Style3"},"type":"Feature"}
 ]}
