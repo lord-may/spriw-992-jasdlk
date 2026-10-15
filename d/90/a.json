@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.827251,47.461411],"type":"Point"},"properties":{"cause":"106 OH Tree on Pri Line/XFMR","crewAssigned":true,"id":"367191","nbrOut":1,"timeOff":1792088730790},"type":"Feature"},
-{"geometry":{"coordinates":[-122.827251,47.461411],"type":"Point"},"properties":{"cause":"101 OH Equipment Failure","crewAssigned":true,"id":"367193","nbrOut":2,"timeOff":1792088730000},"type":"Feature"},
 {"geometry":{"coordinates":[-123.068457,47.116019],"type":"Point"},"properties":{"cause":"226 UG Xfmr Failure","crewAssigned":true,"id":"367196","nbrOut":1,"timeOff":1792093455021},"type":"Feature"}
 ]}
