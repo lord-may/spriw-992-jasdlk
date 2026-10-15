@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.525389,64.795296],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T16:56:27.453-08:00","outageName":"SFS R2 SER_18128680","outagePoint":{"lat":64.79529557304737,"lng":-147.52538890757458},"outageRecID":"2026-10-14-0164","outageStartTime":"2026-10-14T16:52:18-08:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
