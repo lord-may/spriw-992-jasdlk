@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-106.300522,40.046281],"type":"Point"},"properties":{"id":"255900","nbrOut":13,"planned":true,"timeOff":1791471600000},"type":"Feature"},
-{"geometry":{"coordinates":[-105.846163,40.257484],"type":"Point"},"properties":{"id":"255907","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1791472619000},"type":"Feature"}
+{"geometry":{"coordinates":[-105.846163,40.257484],"type":"Point"},"properties":{"id":"255907","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1791472619000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.003809,40.990768],"type":"Point"},"properties":{"comment":"A crew is enroute to the outage in your area. Estimated time of restoration is not yet available.","id":"256020","lifeCycleStatus":"Crew Assigned","nbrOut":61,"planned":false,"timeOff":1792069454000},"type":"Feature"}
 ]}
