@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-114.620943,32.661358],"type":"Point"},"properties":{"APSArea":"Southwestern Arizona","Boundary":"Mesa Verde Wy to Los Cielos Wy and Los Encatos Dr to Los Arcos Dr","Cause":"Temporary equipment problems","City":"Yuma","Comments":"We are working to restore the power outage caused by temporary problems with our equipment.","MediaLink":null,"OBJECTID":13188,"Ticket":"7186480842","customers":10,"datastatus":"current","etr":1792055700000,"latLong":"32.661358349978_-114.6209432536","off":1792050420000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
