@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-109.923242,32.010292],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":1,"GlobalID":"735f4b33-0c51-4353-ad28-7643da6dc9c3","INCIDENT_ID":21209,"MetersRestored":0,"OBJECTID":1,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1792013740000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1792024540000},"type":"Feature"}
+
 ]}
