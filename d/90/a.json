@@ -1,7 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.813758,47.490494],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"367172","nbrOut":1,"timeOff":1792065964000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.810605,47.494057],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"367174","nbrOut":1,"timeOff":1792065964000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.822112,47.483307],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"367177","nbrOut":1,"timeOff":1792065964000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.808988,47.493068],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"367178","nbrOut":2,"timeOff":1792065964000},"type":"Feature"},
-{"geometry":{"coordinates":[-123.484395,47.110548],"type":"Point"},"properties":{"cause":"Planned Outage","crewAssigned":true,"estimateTime":1792094400000,"id":"367190","lifeCycleStatus":"Planned Outage","nbrOut":40,"timeOff":1792086068000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.827251,47.461411],"type":"Point"},"properties":{"cause":"106 OH Tree on Pri Line/XFMR","crewAssigned":true,"id":"367191","nbrOut":1,"timeOff":1792088730790},"type":"Feature"},
+{"geometry":{"coordinates":[-122.827251,47.461411],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"367193","nbrOut":2,"timeOff":1792089303026},"type":"Feature"}
 ]}
