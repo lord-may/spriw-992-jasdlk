@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.774922,61.222735],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DBSS 132","LATITUDE":"61.222735","LONGITUDE":"-149.774922","OUTAGE_START":"10/16/2026 01:29","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.776724,61.22148],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"9","EST_RESTORATION":"-","FEEDER":"DBSS 132","LATITUDE":"61.22148","LONGITUDE":"-149.776724","OUTAGE_START":"10/16/2026 01:29","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.774922,61.222735],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JON BIRKHOLZ","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DBSS 132","LATITUDE":"61.222735","LONGITUDE":"-149.774922","OUTAGE_START":"10/16/2026 01:29","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.776724,61.22148],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JON BIRKHOLZ","CUSTOMERS_AFFECTED":"9","EST_RESTORATION":"-","FEEDER":"DBSS 132","LATITUDE":"61.22148","LONGITUDE":"-149.776724","OUTAGE_START":"10/16/2026 01:29","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
