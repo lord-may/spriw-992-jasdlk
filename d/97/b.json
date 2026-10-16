@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-120.708901,47.803905],[-120.697617,47.762528],[-120.611933,47.773108],[-120.623151,47.814493],[-120.708901,47.803905]]],"type":"Polygon"},"properties":{"AffectedCustomers":718,"Cause":"Under Investigation","CommunityName":"Plain","CrewDispatched":null,"EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1812,"OutageID":"6ad273e12a111b402df4f910","ProjectedDuration":null,"Shape__Area":328734571.01745605,"Shape__Length":73535.21597009803,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 16, 11:58 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 16, 11:58 AM","Status":"Active"},"type":"Feature"}
+
 ]}
