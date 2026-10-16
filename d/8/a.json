@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.39,46.418],"type":"Point"},"properties":{"cause":"Damaged Line","crewStatus":"Crews Notified","custOut":1,"etr":"Before 08:00 PM on 10/15","icon":"standard","latitude":46.418,"longitude":-120.39,"outCount":1,"reported":"01:08 PM on 10/15","zip":"98948"},"type":"Feature"}
+{"geometry":{"coordinates":[-120.39,46.418],"type":"Point"},"properties":{"cause":"Damaged Line","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"standard","latitude":46.418,"longitude":-120.39,"outCount":1,"reported":"01:08 PM on 10/15","zip":"98948"},"type":"Feature"}
 ]}
