@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.8555,64.932303],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":22,"customersOutNow":22,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T23:17:08.527-08:00","outageName":"MOS R3 FUS_3428","outagePoint":{"lat":64.93230298782234,"lng":-147.85550041453155},"outageRecID":"2026-10-15-0176","outageStartTime":"2026-10-15T23:11:17-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
