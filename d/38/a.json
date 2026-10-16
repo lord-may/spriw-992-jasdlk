@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-111.343008,32.449559],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"389910","nbrOut":1,"planned":true,"timeOff":1792077027000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.291149,32.364708],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"389914","nbrOut":1,"planned":true,"timeOff":1792094948000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.305576,32.353735],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"389915","nbrOut":1,"planned":true,"timeOff":1792095655000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.15085,32.426041],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"389919","nbrOut":1,"planned":false,"timeOff":1792108976000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.15111,32.424927],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"389923","nbrOut":10,"planned":false,"timeOff":1792108976000},"type":"Feature"}
 ]}
