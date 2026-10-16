@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.29975,34.18037],"type":"Point"},"properties":{"currentAffected":11,"fieldValues":{"areaName":"N/A","displayID":"J.E.26.10.00068","outageStepOffTime":"2026-10-16T15:36:54Z","publishedEtr":"2026-10-16T19:15:00Z"},"geoJSONPolygon":null,"id":"6ad244a2e0fc81361d55ad7f","lat":34.1803697667408,"lon":-118.29975013198,"serviceType":"Electric"},"type":"Feature"}
+
 ]}
