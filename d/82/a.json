@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.881804,61.218103],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JON BIRKHOLZ","CUSTOMERS_AFFECTED":"2","EST_RESTORATION":"-","FEEDER":"BKR-3522","LATITUDE":"61.218103","LONGITUDE":"-149.881804","OUTAGE_START":"10/15/2026 19:06","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.881804,61.218103],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JON BIRKHOLZ","CUSTOMERS_AFFECTED":"2","EST_RESTORATION":"-","FEEDER":"BKR-3522","LATITUDE":"61.218103","LONGITUDE":"-149.881804","OUTAGE_START":"10/15/2026 19:06","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.910322,61.179256],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"SPSS 312","LATITUDE":"61.179256","LONGITUDE":"-149.910322","OUTAGE_START":"10/15/2026 19:45","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
