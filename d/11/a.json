@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.725,44.349],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":7,"etr":"Before 03:30 PM on 10/16","icon":"planned","latitude":44.349,"longitude":-106.725,"outCount":1,"reported":"01:03 PM on 10/16","zip":"82834"},"type":"Feature"},
 {"geometry":{"coordinates":[-105.907,42.869],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 11:30 PM on 10/16","icon":"standard","latitude":42.869,"longitude":-105.907,"outCount":1,"reported":"01:06 PM on 10/16","zip":"82637"},"type":"Feature"},
-{"geometry":{"coordinates":[-108.829,41.706],"type":"Point"},"properties":{"cause":"Pole Fire","crewStatus":"Crews Notified","custOut":2,"etr":"Assessing","icon":"standard","latitude":41.706,"longitude":-108.829,"outCount":1,"reported":"10:00 AM on 10/16","zip":"82901"},"type":"Feature"},
-{"geometry":{"coordinates":[-106.704,44.363],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 06:00 PM on 10/16","icon":"standard","latitude":44.363,"longitude":-106.704,"outCount":1,"reported":"12:42 PM on 10/16","zip":"82834"},"type":"Feature"}
+{"geometry":{"coordinates":[-108.359,44.834],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:30 PM on 10/16","icon":"standard","latitude":44.834,"longitude":-108.359,"outCount":1,"reported":"03:27 PM on 10/16","zip":"82431"},"type":"Feature"}
 ]}

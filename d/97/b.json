@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-120.158426,47.883363],[-120.157894,47.88217],[-120.154001,47.882956],[-120.154534,47.884149],[-120.158426,47.883363]]],"type":"Polygon"},"properties":{"AffectedCustomers":54,"Cause":"Under Investigation","CommunityName":"Manson","CrewDispatched":"","EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1813,"OutageID":"6ad296e92a111b402df53854","ProjectedDuration":null,"Shape__Area":453182.1626586914,"Shape__Length":2903.2827320029573,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 16, 02:26 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 16, 02:26 PM","Status":"Active"},"type":"Feature"}
 ]}
