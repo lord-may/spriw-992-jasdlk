@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-119.789298,39.500853],"type":"Point"},"properties":{"CAUSEDESC":"Planned Shutdown for Service Improvement","ERTDATETIME":null,"EVENTID":"1864103","LATITUDE":39.5008532341558,"LONGITUDE":-119.78929807595001,"NUMCUSTDEENERGIZED":8,"STARTDATETIME":"10/15/2026 09:04:46 PM","XCORD":853555,"YCORD":14357199},"type":"Feature"}
 ]}
