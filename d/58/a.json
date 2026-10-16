@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.808691,47.290118],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"527248","nbrOut":1,"planned":false,"timeOff":1792132201000},"type":"Feature"}
+{"geometry":{"coordinates":[-118.808691,47.290118],"type":"Point"},"properties":{"cause":"Cause Being Investigated","comment":"Inland Power is aware of a power outage in your area.\n\nWe will provide an updated estimated time of restoration as soon as it becomes available.\n\nThank you for your patience and understanding.","crewAssigned":false,"id":"527248","nbrOut":1,"planned":false,"timeOff":1792132201000},"type":"Feature"}
 ]}
