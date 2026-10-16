@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.529141,44.407343],"type":"Point"},"properties":{"currentAffected":28,"fieldValues":{"currentAffected":"28","energizationStatus":"Predicted","geographicAorIDs":"Northern Hills East","outageStepOffTime":"2026-10-16T16:07:56Z","publishedEtr":"2026-10-16T18:16:42Z"},"geoJSONPolygon":null,"id":"6ad24dea78cae0263367f600","lat":44.40734335,"lon":-103.5291411,"serviceType":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-104.607971,38.248766],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Pueblo East","outageStepOffTime":"2026-10-16T16:56:46Z","publishedEtr":"2026-10-16T18:56:47Z"},"geoJSONPolygon":null,"id":"6ad2574f78cae02633680e02","lat":38.2487656,"lon":-104.6079712,"serviceType":"Electric"},"type":"Feature"}
 ]}
