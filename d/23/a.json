@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.206643,38.682514],"type":"Point"},"properties":{"AFFECTEDAREA":"Orangevale","CALLCOUNT":"0","CAUSE_CODE":"PLANNED OUTAGE","CUSTOMERSIMPACTED":"9","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Today at  4:00 PM","EVENTNUMBER":"J26101600028","OUTAGEBEGINTIME":"Today at  8:21 AM","OUTAGEDESCRIPTION":"Planned maintenance","OUTAGE_STATUS":"40 - REPAIR IN PROGRESS","PLANNEDOUTAGE":"Planned maintenance","X_COORD":"-121.206643404822","Y_COORD":"38.6825142546945","name":"9","style":"Style1"},"type":"Feature"}
 ]}
