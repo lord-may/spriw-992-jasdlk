@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.010791,43.030944],"type":"Point"},"properties":{"adminstatus":"Crew At Site","comments":"Blown arrestor started a line fire. Fire is out. \n\nLine crew out after hours - Clancy Erickson - Truck 73, Karson Miles -  truck 48 as well as Todd Merritt truck 19","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"22531","lat":"43.0309435683487","lng":"-111.01079126985","name":"TC (107736 US HWY 89) <13271774>","priority":null,"starttime":"Oct 16 2026  4:36PM","status1":"","status2":"Unknown","substation":null,"totalaffected":"1","totalcalls":"0","totalouttime":null,"totalxfmr":null,"type":"Primary Fault"},"type":"Feature"}
+
 ]}
