@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-110.76428,43.485054],"type":"Point"},"properties":{"adminstatus":"Crew Assigned","comments":"Observation: CRCCRCLink:10:54 PM:CRC Ticket. Call taken by DJW-10/16/2026 10:54:43 PM:  Partial Power. Main Fuse/Breaker not reset. Inside Fuses/Breakers not reset. Unsure if neighbors out. CSR did not relay fees. *** Callback #:307-733-2200 ***  Repeat Call.   *** CALLER NAME: CRC ***  ## Verified location.  DETAILS: GOES WITH TKT #3\n","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"22532","lat":"43.4850542739203","lng":"-110.764279549821","name":"TC (407 N GLENWOOD ST) <18366493>","priority":null,"starttime":"Oct 16 2026 10:54PM","status1":"","status2":"Unknown","substation":null,"totalaffected":"5","totalcalls":"0","totalouttime":null,"totalxfmr":null,"type":"Primary Fault"},"type":"Feature"}
 ]}
