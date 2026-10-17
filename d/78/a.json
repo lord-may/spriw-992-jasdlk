@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.84886,20.238974],"type":"Point"},"properties":{"affectedAreas":["Kohala"],"centerPoint":{"srid":4326,"x":-155.84885951298997,"y":20.238974187763198},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 07:20 PM HST","outageCause":"Unavailable","outageId":45988,"outageStartTime":"Today at 03:35 PM HST","outageStatus":1,"radius":0.0070710678118791415,"totalCustomersAffected":1},"type":"Feature"},
-{"geometry":{"coordinates":[-154.91139,19.505957],"type":"Point"},"properties":{"affectedAreas":["Keonepoko"],"centerPoint":{"srid":4326,"x":-154.91138952587644,"y":19.505957315504848},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 07:20 PM HST","outageCause":"Unavailable","outageId":45992,"outageStartTime":"Today at 05:43 PM HST","outageStatus":1,"radius":0.022493147589757446,"totalCustomersAffected":345},"type":"Feature"}
+
 ]}
