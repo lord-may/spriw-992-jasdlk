@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.854587,44.488294],"type":"Point"},"properties":{"currentAffected":90,"fieldValues":{"currentAffected":"90","energizationStatus":"Restored Pending Calls","geographicAorIDs":"Northern Hills North","outageStepOffTime":"2026-10-17T16:38:59Z","publishedEtr":"2026-10-17T19:30:00Z"},"geoJSONPolygon":null,"id":"6ad3a53c78cae0263368b6e8","lat":44.48829444,"lon":-103.854587,"serviceType":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-105.033424,41.393295],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne North","outageStepOffTime":"2026-10-17T19:19:30Z","publishedEtr":"2026-10-17T21:19:31Z"},"geoJSONPolygon":null,"id":"6ad3ca4378cae0263368c5f1","lat":41.39329457,"lon":-105.0334236,"serviceType":"Electric"},"type":"Feature"}
 ]}
