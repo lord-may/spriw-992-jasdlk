@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.767181,19.095886],"type":"Point"},"properties":{"affectedAreas":["Naalehu"],"centerPoint":{"srid":4326,"x":-155.76718096721697,"y":19.0958859110391},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 11:05 AM HST","outageCause":"Unavailable","outageId":46034,"outageStartTime":"Today at 10:51 AM HST","outageStatus":1,"radius":0.007071067811881653,"totalCustomersAffected":1},"type":"Feature"}
+
 ]}
