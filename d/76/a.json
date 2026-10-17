@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.854587,44.488294],"type":"Point"},"properties":{"currentAffected":90,"fieldValues":{"currentAffected":"90","energizationStatus":"Partially Restored","geographicAorIDs":"Northern Hills North","outageStepOffTime":"2026-10-17T16:38:59Z","publishedEtr":"2026-10-17T18:41:32Z"},"geoJSONPolygon":null,"id":"6ad3a53c78cae0263368b6e8","lat":44.48829444,"lon":-103.854587,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-103.854587,44.488294],"type":"Point"},"properties":{"currentAffected":90,"fieldValues":{"currentAffected":"90","energizationStatus":"Partially Restored","geographicAorIDs":"Northern Hills North","outageStepOffTime":"2026-10-17T16:38:59Z","publishedEtr":"2026-10-17T19:30:00Z"},"geoJSONPolygon":null,"id":"6ad3a53c78cae0263368b6e8","lat":44.48829444,"lon":-103.854587,"serviceType":"Electric"},"type":"Feature"}
 ]}
