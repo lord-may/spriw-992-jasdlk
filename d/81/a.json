@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.955675,37.653721],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T05:20:08.73-07:00","outageName":"O56528855544277","outagePoint":{"lat":37.653721068388165,"lng":-120.95567456365305},"outageRecID":"2026-10-17-0096","outageStartTime":"2026-10-17T05:19:30-07:00","outageWorkStatus":"","streetsAffected":["Scenic Drive"],"verified":true},"type":"Feature"}
 ]}
