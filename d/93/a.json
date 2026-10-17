@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.695121,35.856381],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-17T09:41:46-07:00","outageName":"15072","outagePoint":{"lat":35.856380703679136,"lng":-115.69512129095537},"outageRecID":"2026-10-17-0088","outageStartTime":"2026-10-17T09:00:00-07:00","outageWorkStatus":"","streetsAffected":["COAL","COPPER"],"verified":true},"type":"Feature"}
+
 ]}
