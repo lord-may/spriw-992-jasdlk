@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.360759,33.660939],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Spring Meadow Dr. to Lava Dr. and Shumway Dr. to Camino Del Sol","Cause":"Faulted cable","City":"Sun City West","Comments":"Our crews are working to restore the outage caused by faulted cable.","MediaLink":null,"OBJECTID":13193,"Ticket":"7186481444","customers":48,"datastatus":"current","etr":1792184400000,"latLong":"33.6609385_-112.3607588","off":1792175460000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}
