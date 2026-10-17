@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-114.235356,48.171649],"type":"Point"},"properties":{"cause":"490 Maintenance, other","code":"490","crewAssigned":true,"customersOutInitially":74,"customersOutNow":74,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T22:14:49.203-07:00","outageName":"","outagePoint":{"lat":48.1716494764539,"lng":-114.23535647660984},"outageRecID":"2026-10-16-0154","outageStartTime":"2026-10-16T22:11:08-07:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
