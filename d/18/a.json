@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.668015,40.011138],"type":"Point"},"properties":{"AVGLAT":"40.011138000000003","AVGLONG":"-104.668014999999997","CASESTAT":"2","COORDCOUNT":"4","COORDLIST":"40.0119654915557,-104.669508570947,40.0126844993825,-104.668936365671,40.0099977402224,-104.66672109323,40.0099052869415,-104.666892469329","CURCUST":"2","DESC":"","DESC_CAUSE":"Motor vehicle","INITCUST":"2","NOTES":"[10/17/2026 10:3","OUTTIME":"2026-10-17 10:39:30","PLANNED":"0","PUBLICMSG":"Crews are working to restore power due to vehicle accident. Additional crews are being dispatched to assist restoration.","RESTORETIM":"","RESTRANGE":"","SERIAL":"26345","TYPE":"0","TypeSort":"3","WORKSTAT":"0"},"type":"Feature"}
+
 ]}
