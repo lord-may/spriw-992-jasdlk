@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.280592,38.675996],"type":"Point"},"properties":{"AFFECTEDAREA":"Citrus Heights","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26101600105","OUTAGEBEGINTIME":"10:18 PM on Oct 16","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"20 - ASSESSING","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.280591633847","Y_COORD":"38.675995686382","name":"1","style":"Style3"},"type":"Feature"}
+
 ]}
