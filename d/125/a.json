@@ -152,5 +152,7 @@
 {"geometry":{"coordinates":[-117.751006,33.854779],"type":"Point"},"properties":{"ID":"294348","endTime":"10/18/2026 11:00 AM","startTime":"10/18/2026 12:20 AM","type":"Current Electric Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-117.751391,33.854671],"type":"Point"},"properties":{"ID":"294348","endTime":"10/18/2026 11:00 AM","startTime":"10/18/2026 12:20 AM","type":"Current Electric Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-117.751401,33.854671],"type":"Point"},"properties":{"ID":"294348","endTime":"10/18/2026 11:00 AM","startTime":"10/18/2026 12:20 AM","type":"Current Electric Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-117.751804,33.85449],"type":"Point"},"properties":{"ID":"294348","endTime":"10/18/2026 11:00 AM","startTime":"10/18/2026 12:20 AM","type":"Current Electric Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-117.751804,33.85449],"type":"Point"},"properties":{"ID":"294348","endTime":"10/18/2026 11:00 AM","startTime":"10/18/2026 12:20 AM","type":"Current Electric Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-117.755636,33.870273],"type":"Point"},"properties":{"ID":"294355","endTime":"10/18/2026 4:00 PM","startTime":"10/18/2026 8:56 AM","type":"Current Electric Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-117.756179,33.86998],"type":"Point"},"properties":{"ID":"294355","endTime":"10/18/2026 4:00 PM","startTime":"10/18/2026 8:56 AM","type":"Current Electric Outage"},"type":"Feature"}
 ]}
