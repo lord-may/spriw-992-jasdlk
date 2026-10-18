@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-156.492881,20.920029],"type":"Point"},"properties":{"affectedAreas":["Wailuku"],"centerPoint":{"srid":4326,"x":-156.49288149408693,"y":20.920029204954194},"company":2,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 11:22 AM HST","outageCause":"Unavailable","outageId":29163,"outageStartTime":"Today at 11:10 AM HST","outageStatus":1,"radius":0.007071067811896726,"totalCustomersAffected":1},"type":"Feature"}
 ]}
