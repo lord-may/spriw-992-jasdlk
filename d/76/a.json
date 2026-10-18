@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-103.860807,44.493819],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Northern Hills North","outageStepOffTime":"2026-10-18T23:35:30Z","publishedEtr":"2026-10-19T01:35:34Z"},"geoJSONPolygon":null,"id":"6ad557c678cae0263368fd5e","lat":44.49381899,"lon":-103.8608073,"serviceType":"Electric"},"type":"Feature"}
 ]}
