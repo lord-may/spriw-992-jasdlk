@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-114.631675,32.580866],"type":"Point"},"properties":{"APSArea":"Southwestern Arizona","Boundary":"County 17th St and South Avenue A","Cause":"Temporary equipment problems","City":"Yuma","Comments":"We are working to restore the power outage caused by temporary problems with our equipment.","MediaLink":null,"OBJECTID":13208,"Ticket":"7186481703","customers":15,"datastatus":"current","etr":1792351800000,"latLong":"32.580865642715_-114.6316754046","off":1792336320000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
