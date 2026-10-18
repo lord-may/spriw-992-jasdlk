@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":null,"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"N/A","outageStepOffTime":"2026-10-18T13:14:07Z","publishedEtr":"2026-10-18T15:14:10Z"},"geoJSONPolygon":null,"id":"6ad4c62278cae0263368cfd0","lat":null,"lon":null,"serviceType":"Electric"},"type":"Feature"}
 ]}
