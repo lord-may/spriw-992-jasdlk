@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":null,"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"N/A","outageStepOffTime":"2026-10-18T13:14:07Z","publishedEtr":"2026-10-18T15:14:10Z"},"geoJSONPolygon":null,"id":"6ad4c62278cae0263368cfd0","lat":null,"lon":null,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":null,"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"N/A","outageStepOffTime":"2026-10-18T13:14:07Z","publishedEtr":"2026-10-18T15:14:10Z"},"geoJSONPolygon":null,"id":"6ad4c62278cae0263368cfd0","lat":null,"lon":null,"serviceType":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-104.569099,38.273875],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Pueblo East","outageStepOffTime":"2026-10-18T13:47:28Z","publishedEtr":"2026-10-18T15:47:32Z"},"geoJSONPolygon":null,"id":"6ad4cdf478cae0263368d075","lat":38.27387496,"lon":-104.5690993,"serviceType":"Electric"},"type":"Feature"}
 ]}
