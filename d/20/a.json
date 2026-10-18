@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.439553,34.214435],"type":"Point"},"properties":{"CENTROID_LAT":34.214435,"CENTROID_LNG":-118.439553,"CITY_NAM":"PANORAMA CITY","COUNT_IN_RANK":9,"COUNT_OTHERS":null,"ETR_DATETIME":1792263600000,"ETR_DATETIME_CHAR":"10/17/2026 19:00","FAC_JOB_STATUS_NAM":"CREWS WORKING","OBJECTID":263529,"OUTAGE_RANK":1},"type":"Feature"}
+
 ]}
