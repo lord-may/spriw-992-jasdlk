@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.83232,40.400077],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-19T13:10:44.1-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T11:10:44.273-06:00","outageName":"T_937","outagePoint":{"lat":40.400076944757885,"lng":-111.83231996353794},"outageRecID":"2026-10-19-0023","outageStartTime":"2026-10-19T11:10:21-06:00","outageWorkStatus":"","streetsAffected":["E 900 N","N 1040 E"],"verified":false},"type":"Feature"}
+
 ]}
