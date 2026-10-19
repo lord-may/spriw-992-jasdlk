@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.318063,47.898371],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527320","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792447636522},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-117.223695,46.673889],[-117.205998,46.681254],[-117.205773,46.682321],[-117.223695,46.673889]]],"type":"Polygon"},{"coordinates":[-117.211819,46.679153],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"527324","nbrOut":4,"planned":false,"timeOff":1792449631000},"type":"Feature"}
 ]}
