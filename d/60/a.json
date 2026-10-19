@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-114.069764,46.27195],[-114.069791,46.272068],[-114.070123,46.272161],[-114.069764,46.27195]]],"type":"Polygon"},{"coordinates":[-114.069889,46.272062],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cable Dig-in","crewAssigned":true,"estimateTime":1792445400000,"id":"331907","nbrOut":3,"planned":false,"timeOff":1792434146000},"type":"Feature"}
 ]}
