@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-113.983088,48.49702],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T09:44:29.83-07:00","outageName":"","outagePoint":{"lat":48.49701975971963,"lng":-113.9830879516359},"outageRecID":"2026-10-19-0158","outageStartTime":"2026-10-19T08:40:01-07:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-114.431543,48.165461],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-19T09:41:20.497-07:00","outageName":"","outagePoint":{"lat":48.16546051785348,"lng":-114.43154310169476},"outageRecID":"2026-10-19-0159","outageStartTime":"2026-10-19T09:40:34-07:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
