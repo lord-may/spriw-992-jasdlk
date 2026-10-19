@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-119.206345,45.887654],"type":"Point"},"properties":{"cause":"190 Planned","code":"190","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T11:48:10.547-07:00","outageName":"","outagePoint":{"lat":45.887653881924706,"lng":-119.20634478472888},"outageRecID":"2026-10-19-0108","outageStartTime":"2026-10-19T11:46:50-07:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
