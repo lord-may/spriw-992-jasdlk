@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.724578,38.048966],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Rocky Ford Central","outageStepOffTime":"2026-10-19T22:51:22Z","publishedEtr":"2026-10-20T00:41:27Z"},"geoJSONPolygon":null,"id":"6ad69eef78cae026336a25b4","lat":38.04896608,"lon":-103.7245777,"serviceType":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-104.816945,41.142601],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne South","outageStepOffTime":"2026-10-19T22:54:29Z","publishedEtr":"2026-10-20T00:44:33Z"},"geoJSONPolygon":null,"id":"6ad69fa978cae026336a280c","lat":41.14260133,"lon":-104.8169455,"serviceType":"Electric"},"type":"Feature"}
 ]}
