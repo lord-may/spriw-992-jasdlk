@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-111.073828,32.137202],"type":"Point"},"properties":{"cause":"98 OTHER NON-OUTAGE (SEE REMARKS)","id":"390034","nbrOut":1,"planned":false,"timeOff":1792417716772},"type":"Feature"},
 {"geometry":{"coordinates":[-110.711089,31.977976],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390035","nbrOut":1,"planned":true,"timeOff":1792422484000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.316948,32.302802],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390036","nbrOut":1,"planned":true,"timeOff":1792424563000},"type":"Feature"},
-{"geometry":{"coordinates":[-110.997741,31.934913],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390039","nbrOut":1,"planned":true,"timeOff":1792433132000},"type":"Feature"}
+{"geometry":{"coordinates":[-110.997741,31.934913],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390039","nbrOut":1,"planned":true,"timeOff":1792433132000},"type":"Feature"},
+{"geometry":{"coordinates":[-110.77486,31.952286],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390041","nbrOut":1,"planned":false,"timeOff":1792438695000},"type":"Feature"}
 ]}
