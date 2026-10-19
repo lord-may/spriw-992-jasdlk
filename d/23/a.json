@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.174188,38.454108],"type":"Point"},"properties":{"AFFECTEDAREA":"Wilton/Herald","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26101900035","OUTAGEBEGINTIME":"Today at  7:01 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.174188201889","Y_COORD":"38.4541080677922","name":"1","style":"Style3"},"type":"Feature"}
 ]}
