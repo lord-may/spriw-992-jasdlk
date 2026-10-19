@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-117.207193,47.921752],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527305","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792428149847},"type":"Feature"},
-{"geometry":{"coordinates":[-117.414937,48.026664],"type":"Point"},"properties":{"cause":"Public Digging","comment":"ASR en route - Inland Power is aware of an outage in your area. Once on site, we will update you on restoration efforts.\n\nThank you for your patience and understanding.","crewAssigned":true,"id":"527306","lifeCycleStatus":"Crew Assigned","nbrOut":2,"planned":false,"timeOff":1792427336000},"type":"Feature"}
+{"geometry":{"coordinates":[-117.414937,48.026664],"type":"Point"},"properties":{"cause":"Public Digging","comment":"Onsite making repairs","crewAssigned":true,"id":"527306","lifeCycleStatus":"Crew Assigned","nbrOut":2,"planned":false,"timeOff":1792427336000},"type":"Feature"},
+{"geometry":{"coordinates":[-117.576993,48.114256],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"527309","nbrOut":1,"planned":false,"timeOff":1792433603000},"type":"Feature"}
 ]}

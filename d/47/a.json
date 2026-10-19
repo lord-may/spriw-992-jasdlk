@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-109.994853,34.155507],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"535322","nbrOut":1,"planned":false,"timeOff":1792424352000},"type":"Feature"},
-{"geometry":{"coordinates":[-109.965496,34.164368],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"535323","nbrOut":1,"planned":false,"timeOff":1792424838000},"type":"Feature"}
+{"geometry":{"coordinates":[-109.965496,34.164368],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"535323","nbrOut":1,"planned":false,"timeOff":1792424838000},"type":"Feature"},
+{"geometry":{"coordinates":[-109.965747,33.833328],"type":"Point"},"properties":{"cause":"FIRE                          ","comment":"We are aware of the outage & crews are responding at this time. We will restore power as soon as possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":true,"id":"535326","nbrOut":4,"planned":false,"timeOff":1792433352000},"type":"Feature"}
 ]}
