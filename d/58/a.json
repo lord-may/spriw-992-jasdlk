@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-117.3415,47.050893],"type":"Point"},"properties":{"cause":"Planned Outage - Construction ","crewAssigned":true,"id":"527313","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792439148000},"type":"Feature"},
-{"geometry":{"coordinates":[-117.167757,47.828731],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":false,"id":"527314","nbrOut":1,"planned":false,"timeOff":1792439950089},"type":"Feature"},
-{"geometry":{"coordinates":[-117.575682,48.112294],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"527315","nbrOut":1,"planned":false,"timeOff":1792439756000},"type":"Feature"}
+{"geometry":{"coordinates":[-117.167757,47.828731],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527314","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792439950089},"type":"Feature"}
 ]}
