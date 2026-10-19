@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-115.520826,32.988447],[-115.521942,32.986881],[-115.51205,32.987367],[-115.520826,32.988447]]],"type":"Polygon"},"properties":{"Area":"Addresses Affected: 2","Circuit":"","CityID":2967,"CityName":"Brawley","CustomerAffected":"5","OutageLatitude":32.98769108885828,"OutageLongitude":-115.519603134838,"OutageReportInfo":"Scheduled Outage in Brawley","Outagedate":"10/19/26 04:00 PM","OutagedateDB":"2026-10-19T16:00:00","RestorationTime":"","Restorationdate":"10/19/26 06:00 PM","RestorationdateDB":"2026-10-19T18:00:00","STATUS":"Unresolved","ServiceTypeID":1,"Title":"Scheduled Outage","ZipCode":"92227"},"type":"Feature"}
 ]}
