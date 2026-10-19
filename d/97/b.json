@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-120.204297,47.258488],[-120.190174,47.254279],[-120.173067,47.280863],[-120.187196,47.285075],[-120.204297,47.258488]]],"type":"Polygon"},"properties":{"AffectedCustomers":20,"Cause":"Under Investigation","CommunityName":"Colockum","CrewDispatched":"","EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1818,"OutageID":"6ad572d52a111b402df5caf6","ProjectedDuration":null,"Shape__Area":40532207.01434326,"Shape__Length":28830.3525132597,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 18, 06:26 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 18, 06:26 PM","Status":"Active"},"type":"Feature"}
+
 ]}
