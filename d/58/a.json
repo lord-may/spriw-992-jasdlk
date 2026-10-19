@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.282444,47.92664],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527316","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792441950138},"type":"Feature"},
 {"geometry":{"coordinates":[-117.175859,47.844681],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527319","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792444547316},"type":"Feature"}
 ]}
