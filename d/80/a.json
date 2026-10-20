@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.601217,33.368086],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"West Winston Dr to West Allen St and South 257th Ave to South 255th Dr","Cause":"Planned outage","City":"Buckeye","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13264,"Ticket":"7186482199","customers":6,"datastatus":"current","etr":1792495740000,"latLong":"33.368086214365_-112.6012165903","off":1792492140000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
+
 ]}
