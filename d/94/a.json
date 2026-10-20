@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.808101,64.894817],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T03:37:11.43-08:00","outageName":"MOS R1 SER_8104400","outagePoint":{"lat":64.8948170410225,"lng":-147.8081012674535},"outageRecID":"2026-10-20-0210","outageStartTime":"2026-10-20T03:37:01-08:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
