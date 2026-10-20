@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.803,42.469],"type":"Point"},"properties":{"cause":"Multiple outages in the area","crewStatus":"Crews Arrived","custOut":22,"etr":"Assessing","icon":"standard","latitude":42.469,"longitude":-122.803,"outCount":2,"reported":"12:24 AM on 10/20","zip":"97524"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.803,42.469],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Arrived","custOut":17,"etr":"Before 07:00 AM on 10/20","icon":"standard","latitude":42.469,"longitude":-122.803,"outCount":1,"reported":"12:25 AM on 10/20","zip":"97524"},"type":"Feature"}
 ]}
