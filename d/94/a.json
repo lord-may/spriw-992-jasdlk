@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.98217,64.846828],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":5,"customersOutNow":0,"customersRestored":5,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-10-19T17:54:20-08:00","outageModifiedTime":"2026-10-19T17:58:12.803-08:00","outageName":"ETS R3 FUS_2138","outagePoint":{"lat":64.84682828545871,"lng":-147.98217006981275},"outageRecID":"2026-10-19-0209","outageStartTime":"2026-10-19T17:02:29-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
