@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-111.087653,32.15951],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"389818","nbrOut":1,"planned":true,"timeOff":1791474521000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.073828,32.137202],"type":"Point"},"properties":{"cause":"98 OTHER NON-OUTAGE (SEE REMARKS)","id":"390034","nbrOut":1,"planned":true,"timeOff":1792417716772},"type":"Feature"},
-{"geometry":{"coordinates":[-111.202943,32.551695],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390043","nbrOut":1,"planned":false,"timeOff":1792507191000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.202943,32.551695],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390043","nbrOut":1,"planned":false,"timeOff":1792507191000},"type":"Feature"},
+{"geometry":{"coordinates":[-110.976792,31.963322],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390044","nbrOut":1,"planned":false,"timeOff":1792509792000},"type":"Feature"}
 ]}
