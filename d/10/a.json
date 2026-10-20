@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.517,43.899],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":1,"etr":"Assessing","icon":"planned","latitude":43.899,"longitude":-111.517,"outCount":1,"reported":"11:25 AM on 10/20","zip":"83445"},"type":"Feature"}
+{"geometry":{"coordinates":[-111.517,43.899],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 03:30 PM on 10/20","icon":"planned","latitude":43.899,"longitude":-111.517,"outCount":1,"reported":"11:25 AM on 10/20","zip":"83445"},"type":"Feature"}
 ]}
