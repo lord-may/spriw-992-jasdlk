@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.49537,45.841885],"type":"Point"},"properties":{"affectedCustomerCount":13,"cause":"Planned Maintenance","estimatedRestoration":null,"key":"41752","lat":45.841885,"lon":-122.49537,"reported":"2026-10-20T08:30:00.000-07:00","status":null},"type":"Feature"}
 ]}
