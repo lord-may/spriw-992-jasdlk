@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-106.824132,39.187242],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for Transformer Upgrade in the Aspen area.","crewAssigned":true,"estimateTime":1792530000000,"id":"386791","nbrOut":9,"planned":false,"timeOff":1792522800000},"type":"Feature"}
 ]}
