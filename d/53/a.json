@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-119.027952,46.743828],[-119.026955,46.743852],[-119.027224,46.755473],[-119.027377,46.760883],[-119.032201,46.75162],[-119.027952,46.743828]]],"type":"Polygon"},{"coordinates":[-119.028859,46.751651],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"CONSTRUCTION/CONTRACT CREW","id":"200662","nbrOut":5,"planned":false,"timeOff":1792510068000},"type":"Feature"},
-{"geometry":{"coordinates":[-119.120847,46.431184],"type":"Point"},"properties":{"id":"200665","nbrOut":1,"planned":false,"timeOff":1792517330000},"type":"Feature"}
+{"geometry":{"coordinates":[-119.120847,46.431184],"type":"Point"},"properties":{"id":"200665","nbrOut":1,"planned":false,"timeOff":1792517330000},"type":"Feature"},
+{"geometry":{"coordinates":[-119.209142,46.37635],"type":"Point"},"properties":{"id":"200666","nbrOut":1,"planned":false,"timeOff":1792520866000},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.301239,45.845026],"type":"Point"},"properties":{"cause":"400 Decay/age of material/equipment","code":"400","crewAssigned":true,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T10:58:46.35-07:00","outageName":"","outagePoint":{"lat":45.84502632084113,"lng":-119.3012393720409},"outageRecID":"2026-10-20-0111","outageStartTime":"2026-10-20T01:14:26-07:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
