@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-109.287627,34.125507],"type":"Point"},"properties":{"cause":"MEMBER REQUESTED","crewAssigned":true,"id":"535337","nbrOut":1,"planned":false,"timeOff":1792509502000},"type":"Feature"}
+{"geometry":{"coordinates":[-109.287627,34.125507],"type":"Point"},"properties":{"cause":"MEMBER REQUESTED","crewAssigned":true,"id":"535337","nbrOut":1,"planned":false,"timeOff":1792509502000},"type":"Feature"},
+{"geometry":{"coordinates":[-110.599212,34.430639],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"535341","nbrOut":1,"planned":false,"timeOff":1792519663000},"type":"Feature"}
 ]}
