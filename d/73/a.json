@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-117.156447,46.106741],[-117.148928,46.116985],[-117.149979,46.118728],[-117.159492,46.122078],[-117.16137,46.12234],[-117.165996,46.118492],[-117.166445,46.116418],[-117.156447,46.106741]]],"type":"Polygon"},{"coordinates":[-117.157803,46.115665],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Other            ","comment":"CREW IS ON SITE MAKING REPAIRS, NO ETR AT THIS TIME.","crewAssigned":true,"estimateTime":1792531800000,"id":"323457","nbrOut":24,"planned":false,"timeOff":1792517054468},"type":"Feature"}
+
 ]}
