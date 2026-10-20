@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-107.828007,37.420128],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-20T08:55:42.753-06:00","outageName":"33054 HWY 550","outagePoint":{"lat":37.42012832549792,"lng":-107.82800657183236},"outageRecID":"2026-10-20-0278","outageStartTime":"2026-10-20T08:53:16-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

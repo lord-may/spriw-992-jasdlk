@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-108.713729,38.222236],[-108.709615,38.222377],[-108.707845,38.224635],[-108.728668,38.229039],[-108.745368,38.2222],[-108.713729,38.222236]]],"type":"Polygon"},{"coordinates":[-108.725533,38.224656],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Equipment Failure","crewAssigned":true,"estimateTime":1792515608000,"id":"237831","nbrOut":7,"planned":false,"timeOff":1792508228000},"type":"Feature"}
 ]}
