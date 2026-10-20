@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-107.076151,37.27467],"type":"Point"},"properties":{"cause":"790 Public, other","code":"790","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T08:31:27.477-06:00","outageName":"153 PINES DR","outagePoint":{"lat":37.27466964515364,"lng":-107.07615115749577},"outageRecID":"2026-10-20-0276","outageStartTime":"2026-10-20T08:29:09-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
