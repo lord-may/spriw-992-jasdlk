@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.013776,37.259869],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":9,"customersOutNow":9,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-20T13:04:04.097-06:00","outageName":"469 S 5TH/6TH ST ALLEY","outagePoint":{"lat":37.25986853605726,"lng":-107.01377583721661},"outageRecID":"2026-10-20-0283","outageStartTime":"2026-10-20T13:00:34-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
