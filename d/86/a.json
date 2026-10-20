@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.015295,46.660247],[-123.01552,46.660414],[-123.01596,46.660303],[-123.015295,46.660247]]],"type":"Polygon"},{"coordinates":[-123.015591,46.660321],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Public Damage / Customer Damage","id":"213805","nbrOut":3,"planned":false,"timeOff":1792536943000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-123.015295,46.660247],[-123.01552,46.660414],[-123.01596,46.660303],[-123.015295,46.660247]]],"type":"Polygon"},{"coordinates":[-123.015591,46.660321],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Public Damage / Customer Damage","id":"213805","nbrOut":3,"planned":false,"timeOff":1792536943000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.585155,46.525076],"type":"Point"},"properties":{"cause":"None Selected","id":"213806","nbrOut":2,"planned":false,"timeOff":1792540089000},"type":"Feature"}
 ]}
