@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-114.075585,40.737577],"type":"Point"},"properties":{"comment":"Scheduled power supplier outage 10/20/2026 - 07:00-16:00","id":"214185","nbrOut":2461,"planned":true,"timeOff":1792504800000},"type":"Feature"}
 ]}
