@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.033728,37.649055],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T09:06:06.703-07:00","outageName":"51909825","outagePoint":{"lat":37.64905514969707,"lng":-121.03372839409175},"outageRecID":"2026-10-20-0108","outageStartTime":"2026-10-20T09:06:00.693-07:00","outageWorkStatus":"","streetsAffected":["Jayhawk Way"],"verified":false},"type":"Feature"}
+
 ]}
