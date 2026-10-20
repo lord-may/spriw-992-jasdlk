@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.861047,37.306868],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":112,"customersOutNow":112,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T19:39:29.377-06:00","outageName":"83 EARL STREET","outagePoint":{"lat":37.30686833743731,"lng":-107.86104673155455},"outageRecID":"2026-10-19-0274","outageStartTime":"2026-10-19T19:37:42-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
