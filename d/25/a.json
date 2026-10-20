@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.958394,39.63993],"type":"Point"},"properties":{"cause":"Unknown Cause","comment":"Power is out in the Gypsum area. The cause is unknown at this time. Crews are responding and will restore power as quickly and safely as possible.\nNo estimated time of restoration.\nMembers may experience intermittent restoration and outages while we troubleshoot the cause.","crewAssigned":true,"id":"386934","nbrOut":2,"planned":false,"timeOff":1792513125000},"type":"Feature"}
+
 ]}
