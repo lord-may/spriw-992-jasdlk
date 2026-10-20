@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-123.159924,47.252144],"type":"Point"},"properties":{"cause":"102 OH Lines Down/Low","crewAssigned":true,"id":"367325","nbrOut":1,"timeOff":1792454141911},"type":"Feature"}
 ]}
