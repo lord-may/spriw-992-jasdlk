@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-105.390332,44.287041],"type":"Point"},"properties":{"currentAffected":2,"fieldValues":{"currentAffected":"2","energizationStatus":"Verified","geographicAorIDs":"Gillette West","outageStepOffTime":"2026-10-20T13:07:55Z","publishedEtr":"2026-10-20T14:57:58Z"},"geoJSONPolygon":null,"id":"6ad767ae78cae026336a51b1","lat":44.28704076,"lon":-105.3903318,"serviceType":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-105.390298,44.287106],"type":"Point"},"properties":{"currentAffected":15,"fieldValues":{"currentAffected":"15","energizationStatus":"Verified","geographicAorIDs":"Gillette West","outageStepOffTime":"2026-10-20T13:07:55Z","publishedEtr":"2026-10-20T14:57:58Z"},"geoJSONPolygon":null,"id":"6ad767ae78cae026336a51c7","lat":44.28710576,"lon":-105.3902976,"serviceType":"Electric"},"type":"Feature"}
 ]}
