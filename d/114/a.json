@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.27514,45.592236],"type":"Point"},"properties":{"affectedCustomerCount":24,"cause":"Vehicle accident","estimatedRestoration":null,"key":"41760","lat":45.592236,"lon":-122.27514,"reported":"2026-10-21T06:37:00.000-07:00","status":null},"type":"Feature"}
 ]}
