@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.756567,37.641699],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T14:13:51.877-07:00","outageName":"51887955","outagePoint":{"lat":37.641698794949725,"lng":-120.75656679494386},"outageRecID":"2026-10-21-0116","outageStartTime":"2026-10-21T14:13:27-07:00","outageWorkStatus":"","streetsAffected":["Welch Street"],"verified":false},"type":"Feature"}
 ]}
