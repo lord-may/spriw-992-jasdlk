@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.863,40.759],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:00 AM on 10/21","icon":"standard","latitude":40.759,"longitude":-111.863,"outCount":1,"reported":"02:56 AM on 10/21","zip":"84102"},"type":"Feature"},
+{"geometry":{"coordinates":[-111.863,40.759],"type":"Point"},"properties":{"cause":"Vehicle Accident","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:00 AM on 10/21","icon":"standard","latitude":40.759,"longitude":-111.863,"outCount":1,"reported":"02:56 AM on 10/21","zip":"84102"},"type":"Feature"},
 {"geometry":{"coordinates":[-112.318,40.61],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"standard","latitude":40.61,"longitude":-112.318,"outCount":1,"reported":"06:48 PM on 10/20","zip":"84074"},"type":"Feature"},
 {"geometry":{"coordinates":[-111.88,40.6],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":33,"etr":"Before 06:00 AM on 10/21","icon":"standard","latitude":40.6,"longitude":-111.88,"outCount":1,"reported":"12:07 AM on 10/21","zip":"84070"},"type":"Feature"}
 ]}
