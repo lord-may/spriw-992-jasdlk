@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.538193,38.25379],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Restored Pending Calls","geographicAorIDs":"Pueblo East","outageStepOffTime":"2026-10-21T17:27:15Z","publishedEtr":"2026-10-21T19:26:58Z"},"geoJSONPolygon":null,"id":"6ad8f83a78cae026336c82e5","lat":38.25378971,"lon":-104.5381933,"serviceType":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-103.753382,38.220449],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Rocky Ford Central","outageStepOffTime":"2026-10-21T18:20:39Z","publishedEtr":"2026-10-21T20:10:41Z"},"geoJSONPolygon":null,"id":"6ad9027978cae026336ca2b9","lat":38.22044871,"lon":-103.7533823,"serviceType":"Electric"},"type":"Feature"}
 ]}
