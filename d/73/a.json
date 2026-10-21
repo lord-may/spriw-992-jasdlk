@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-115.884666,46.364598],[-115.870643,46.375277],[-115.862244,46.39634],[-116.067805,46.414402],[-116.0804,46.413461],[-116.107673,46.409057],[-116.162524,46.398155],[-116.163943,46.397789],[-116.163287,46.386637],[-116.159434,46.381927],[-116.133436,46.374056],[-115.884666,46.364598]]],"type":"Polygon"},{"coordinates":[-116.012918,46.388458],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Other            ","comment":"CREW ENROUTE TO OUTAGE, NO ETR AT THIS TIME.","crewAssigned":true,"estimateTime":1792609200000,"id":"323458","nbrOut":297,"planned":false,"timeOff":1792593787587},"type":"Feature"}
+{"geometry":{"coordinates":[-115.93799,46.381382],"type":"Point"},"properties":{"cause":"Other            ","crewAssigned":true,"estimateTime":1792613700000,"id":"323478","nbrOut":2,"planned":false,"timeOff":1792598419000},"type":"Feature"}
 ]}
