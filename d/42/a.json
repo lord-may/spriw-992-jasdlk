@@ -36,6 +36,5 @@
 {"geometry":{"coordinates":[-159.493301,22.219589],"type":"Point"},"properties":{"id":"455194","nbrOut":1,"planned":false,"timeOff":1792516910000},"type":"Feature"},
 {"geometry":{"coordinates":[-159.362317,21.953123],"type":"Point"},"properties":{"id":"455211","nbrOut":1,"planned":false,"timeOff":1792535815000},"type":"Feature"},
 {"geometry":{"coordinates":[-159.500891,22.202964],"type":"Point"},"properties":{"id":"455213","nbrOut":1,"planned":false,"timeOff":1792537029842},"type":"Feature"},
-{"geometry":{"coordinates":[-159.455419,21.874174],"type":"Point"},"properties":{"id":"455216","nbrOut":1,"planned":false,"timeOff":1792538959000},"type":"Feature"},
 {"geometry":{"coordinates":[-159.35708,21.96597],"type":"Point"},"properties":{"id":"455217","nbrOut":1,"planned":false,"timeOff":1792539727000},"type":"Feature"}
 ]}

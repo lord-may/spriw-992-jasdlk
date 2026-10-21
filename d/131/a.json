@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.867745,40.426493],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-20T19:57:08-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T17:57:35-06:00","outageName":"UG182696","outagePoint":{"lat":40.42649298491766,"lng":-111.86774456143627},"outageRecID":"2026-10-20-0027","outageStartTime":"2026-10-20T17:57:08-06:00","outageWorkStatus":"","streetsAffected":["N 1120 W"],"verified":true},"type":"Feature"}
 ]}
