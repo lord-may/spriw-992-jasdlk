@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.814016,61.222919],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S14F1","LATITUDE":"61.222919","LONGITUDE":"-149.814016","OUTAGE_START":"10/21/2026 13:07","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.814016,61.222919],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRAD BALDRIDGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S14F1","LATITUDE":"61.222919","LONGITUDE":"-149.814016","OUTAGE_START":"10/21/2026 13:07","OUTAGE_STATUS":"Crew Dispatched","STAGE":"Accepted"},"type":"Feature"}
 ]}
