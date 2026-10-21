@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.678942,35.844429],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-20T11:03:54-07:00","outageName":"5106","outagePoint":{"lat":35.84442867688175,"lng":-115.67894191777148},"outageRecID":"2026-10-20-0110","outageStartTime":"2026-10-20T10:54:15-07:00","outageWorkStatus":"","streetsAffected":["SHAWNEE"],"verified":true},"type":"Feature"}
+
 ]}
