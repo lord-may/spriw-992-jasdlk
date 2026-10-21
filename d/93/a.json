@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.646604,35.823466],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T09:17:01.493-07:00","outageName":"5860C9725","outagePoint":{"lat":35.82346569980436,"lng":-115.64660353778326},"outageRecID":"2026-10-21-0116","outageStartTime":"2026-10-21T09:16:54-07:00","outageWorkStatus":"","streetsAffected":["W NICKEL"],"verified":false},"type":"Feature"}
 ]}
