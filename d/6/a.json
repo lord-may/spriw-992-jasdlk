@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.667,45.597],"type":"Point"},"properties":{"cause":"Trees","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 09:00 PM on 10/21","icon":"standard","latitude":45.597,"longitude":-122.667,"outCount":1,"reported":"05:43 PM on 10/20","zip":"97211"},"type":"Feature"},
 {"geometry":{"coordinates":[-123.385,42.349],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 10:00 PM on 10/20","icon":"standard","latitude":42.349,"longitude":-123.385,"outCount":1,"reported":"06:36 PM on 10/20","zip":"97527"},"type":"Feature"},
-{"geometry":{"coordinates":[-122.877,42.346],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":2,"etr":"Before 11:00 PM on 10/20","icon":"standard","latitude":42.346,"longitude":-122.877,"outCount":2,"reported":"07:29 PM on 10/20","zip":"97501"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.877,42.346],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Arrived","custOut":2,"etr":"Before 11:00 PM on 10/20","icon":"standard","latitude":42.346,"longitude":-122.877,"outCount":2,"reported":"07:29 PM on 10/20","zip":"97501"},"type":"Feature"},
+{"geometry":{"coordinates":[-122.675,45.54],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 11:30 PM on 10/20","icon":"standard","latitude":45.54,"longitude":-122.675,"outCount":1,"reported":"08:08 PM on 10/20","zip":"97227"},"type":"Feature"}
 ]}
