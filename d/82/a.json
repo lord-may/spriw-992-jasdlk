@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-149.879605,61.135529],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"SLSS 812","LATITUDE":"61.135529","LONGITUDE":"-149.879605","OUTAGE_START":"10/21/2026 03:41","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
