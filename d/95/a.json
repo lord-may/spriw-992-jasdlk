@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.75635,47.175104],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T09:19:31.297-07:00","outageName":"7361300","outagePoint":{"lat":47.17510427285295,"lng":-122.75634988415007},"outageRecID":"2026-10-21-0264","outageStartTime":"2026-10-21T06:55:19-07:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
