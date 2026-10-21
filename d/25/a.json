@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.197499,39.071936],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Marble area.","crewAssigned":true,"estimateTime":1792596600000,"id":"386940","nbrOut":2,"planned":true,"timeOff":1792593000000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.349548,39.407114],"type":"Point"},"properties":{"crewAssigned":false,"id":"386971","nbrOut":1,"planned":false,"timeOff":1792594254000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.280481,39.62298],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for underground electrical maintenance in the Black Gore Creek area.","crewAssigned":true,"id":"386928","nbrOut":1,"planned":true,"timeOff":1792594500000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.27996,39.621056],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Black Gore Creek area.","crewAssigned":true,"id":"386929","nbrOut":2,"planned":true,"timeOff":1792594500000},"type":"Feature"},
+{"geometry":{"coordinates":[-107.197499,39.071936],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Marble area.","crewAssigned":true,"estimateTime":1792596600000,"id":"386940","nbrOut":2,"planned":false,"timeOff":1792594896000},"type":"Feature"}
 ]}
