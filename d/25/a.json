@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.261172,39.454719],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Cattle Creek area.","crewAssigned":true,"estimateTime":1792587600000,"id":"386941","nbrOut":4,"planned":false,"timeOff":1792580100000},"type":"Feature"}
+
 ]}
