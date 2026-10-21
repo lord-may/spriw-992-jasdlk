@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-149.955856,61.182373],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"_LINEWORKS","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"TNSS 132","LATITUDE":"61.182373","LONGITUDE":"-149.955856","OUTAGE_START":"10/21/2026 08:27","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.875869,61.208427],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S6F7","LATITUDE":"61.208427","LONGITUDE":"-149.875869","OUTAGE_START":"10/21/2026 11:34","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.732887,61.223786],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DBSS 142","LATITUDE":"61.223786","LONGITUDE":"-149.732887","OUTAGE_START":"10/21/2026 11:54","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
