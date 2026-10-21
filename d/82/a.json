@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.879605,61.135529],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"SLSS 812","LATITUDE":"61.135529","LONGITUDE":"-149.879605","OUTAGE_START":"10/21/2026 03:41","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.879605,61.135529],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"EMMAUS FINAU","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"SLSS 812","LATITUDE":"61.135529","LONGITUDE":"-149.879605","OUTAGE_START":"10/21/2026 03:41","OUTAGE_STATUS":"Crew Dispatched","STAGE":"En Route"},"type":"Feature"},
 {"geometry":{"coordinates":[-149.955856,61.182373],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"_LINEWORKS","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"TNSS 132","LATITUDE":"61.182373","LONGITUDE":"-149.955856","OUTAGE_START":"10/21/2026 08:27","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
