@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-120.467241,47.481289],[-120.46548,47.480943],[-120.46395,47.484517],[-120.465711,47.484863],[-120.467241,47.481289]]],"type":"Polygon"},"properties":{"AffectedCustomers":11,"Cause":"Scheduled work being conducted in the area","CommunityName":"Yaksum Canyon","CrewDispatched":null,"EndTimeFormatted":"Oct 21, 03:00 PM","EstimatedEndTime":null,"OBJECTID":1822,"OutageID":"6ad8e5152a111b402df63056","ProjectedDuration":null,"Shape__Area":615501.9143066406,"Shape__Length":3621.870226142217,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Oct 21, 03:00 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 21, 09:12 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 21, 09:12 AM","Status":"Active"},"type":"Feature"}
+
 ]}
