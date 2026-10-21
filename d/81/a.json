@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.991632,37.722062],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T20:43:54.76-07:00","outageName":"49560418","outagePoint":{"lat":37.72206150131977,"lng":-120.99163197096591},"outageRecID":"2026-10-20-0110","outageStartTime":"2026-10-20T19:10:22.27-07:00","outageWorkStatus":"","streetsAffected":["Chenault Drive"],"verified":false},"type":"Feature"}
+
 ]}
