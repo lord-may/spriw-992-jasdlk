@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.552197,38.230947],"type":"Point"},"properties":{"currentAffected":10,"fieldValues":{"currentAffected":"10","energizationStatus":"Predicted","geographicAorIDs":"Pueblo East","outageStepOffTime":"2026-10-21T19:37:04Z","publishedEtr":"2026-10-21T21:27:04Z"},"geoJSONPolygon":null,"id":"6ad9146078cae026336ccfb3","lat":38.23094706,"lon":-104.5521973,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-104.552197,38.230947],"type":"Point"},"properties":{"currentAffected":10,"fieldValues":{"currentAffected":"10","energizationStatus":"Restored Pending Calls","geographicAorIDs":"Pueblo East","outageStepOffTime":"2026-10-21T19:37:04Z","publishedEtr":"2026-10-21T21:27:04Z"},"geoJSONPolygon":null,"id":"6ad9146078cae026336ccfb3","lat":38.23094706,"lon":-104.5521973,"serviceType":"Electric"},"type":"Feature"}
 ]}
