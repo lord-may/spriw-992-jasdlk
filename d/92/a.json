@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.645634,37.196989],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":34,"customersOutNow":34,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T17:57:55.02-06:00","outageName":"7470 CR 510","outagePoint":{"lat":37.19698889090765,"lng":-107.64563440952219},"outageRecID":"2026-10-21-0323","outageStartTime":"2026-10-21T17:51:19-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
