@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.098667,46.312247],"type":"Point"},"properties":{"comment":"CREW IN ROUTE / INVESTIGATING","id":"200814","nbrOut":1,"planned":false,"timeOff":1792697398000},"type":"Feature"},
 {"geometry":{"coordinates":[-118.567997,46.766919],"type":"Point"},"properties":{"id":"200816","nbrOut":1,"planned":false,"timeOff":1792699165000},"type":"Feature"}
 ]}

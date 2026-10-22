@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.910841,61.208348],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JEREMIAH JIRIK","CUSTOMERS_AFFECTED":"33","EST_RESTORATION":"-","FEEDER":"S6F5","LATITUDE":"61.208348","LONGITUDE":"-149.910841","OUTAGE_START":"10/22/2026 08:58","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.910841,61.208348],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JEREMIAH JIRIK","CUSTOMERS_AFFECTED":"33","EST_RESTORATION":"-","FEEDER":"S6F5","LATITUDE":"61.208348","LONGITUDE":"-149.910841","OUTAGE_START":"10/22/2026 08:58","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.891962,61.190173],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"16","EST_RESTORATION":"-","FEEDER":"S7F5","LATITUDE":"61.190173","LONGITUDE":"-149.891962","OUTAGE_START":"10/22/2026 12:06","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
