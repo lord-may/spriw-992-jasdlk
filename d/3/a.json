@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.37686,47.65543],"type":"Point"},"properties":{"cause":"Investigating","city":"North Seattle","etrTime":1792719716000,"id":2237431,"identifier":"224123","lastUpdatedTime":1792698602000,"latitude":47.65543,"longitude":-122.37686,"numPeople":1,"polygons":{"hasM":false,"hasZ":false,"rings":[[[-122.3768,47.65523],[-122.37691,47.65517],[-122.37704,47.65515],[-122.37715,47.65518],[-122.37727,47.65527],[-122.37734,47.65537],[-122.37737,47.65549],[-122.37734,47.65561],[-122.37727,47.65571],[-122.37714,47.65581],[-122.37702,47.65583],[-122.37689,47.65581],[-122.37676,47.65571],[-122.37669,47.65561],[-122.37667,47.65547],[-122.37671,47.65533]]],"spatialReference":{"latestWkid":4326,"wkid":4326},"type":"polygon"},"startTime":1792697973000,"state":"WA","status":"Dispatched","title":"Outage"},"type":"Feature"}
 ]}
