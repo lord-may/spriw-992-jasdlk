@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.389419,39.639508],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Forest Rd area.","crewAssigned":true,"estimateTime":1792692000000,"id":"386946","nbrOut":6,"planned":false,"timeOff":1792686350000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.393552,39.639985],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Forest Rd area.","crewAssigned":true,"estimateTime":1792692000000,"id":"386947","nbrOut":1,"planned":false,"timeOff":1792686350000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.380562,39.638491],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"id":"386977","nbrOut":12,"planned":true,"timeOff":1792684500000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.389419,39.639508],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Forest Rd area.","crewAssigned":true,"estimateTime":1792692000000,"id":"386946","nbrOut":6,"planned":false,"timeOff":1792686350000},"type":"Feature"}
 ]}
