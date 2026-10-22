@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.086608,33.577492],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Cinnabar Ave and 11th Ave to 9th Ave","Cause":"Outage Reported in Area","City":"Phoenix","Comments":"Multiple customers have reported an outage in this area. We are investigating and will provide an update once we know more.  Thank you for your patience.","MediaLink":null,"OBJECTID":13329,"Ticket":"7186483134","customers":25,"datastatus":"current","etr":1792685400000,"latLong":"33.577491529681_-112.086608403","off":1792674060000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
