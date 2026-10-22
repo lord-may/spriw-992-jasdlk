@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-155.124563,19.686942],"type":"Point"},"properties":{"affectedAreas":["Kaumana"],"centerPoint":{"srid":4326,"x":-155.124563076906,"y":19.686942314402298},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 05:35 PM HST","outageCause":"Unavailable","outageId":46268,"outageStartTime":"Today at 05:30 PM HST","outageStatus":1,"radius":0.007071067811859044,"totalCustomersAffected":1},"type":"Feature"}
 ]}
