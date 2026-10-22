@@ -2,9 +2,6 @@
 {"geometry":{"coordinates":[-110.59579,34.416286],"type":"Point"},"properties":{"cause":"UNKNOWN CAUSE                 ","crewAssigned":true,"id":"535366","nbrOut":25,"planned":false,"timeOff":1792634443000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.536294,34.420962],"type":"Point"},"properties":{"cause":"UNKNOWN CAUSE                 ","crewAssigned":true,"id":"535408","nbrOut":16,"planned":false,"timeOff":1792634752000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.550991,34.391657],"type":"Point"},"properties":{"cause":"WIND,TREES","crewAssigned":true,"id":"535424","nbrOut":1191,"planned":false,"timeOff":1792634556000},"type":"Feature"},
-{"geometry":{"coordinates":[-110.54667,34.394096],"type":"Point"},"properties":{"crewAssigned":false,"id":"535425","nbrOut":1,"planned":false,"timeOff":1792639303574},"type":"Feature"},
-{"geometry":{"coordinates":[-110.550371,34.387291],"type":"Point"},"properties":{"crewAssigned":false,"id":"535426","nbrOut":1,"planned":false,"timeOff":1792639597169},"type":"Feature"},
-{"geometry":{"coordinates":[-110.550937,34.388595],"type":"Point"},"properties":{"crewAssigned":false,"id":"535427","nbrOut":1,"planned":false,"timeOff":1792640118531},"type":"Feature"},
-{"geometry":{"coordinates":[-110.545152,34.394044],"type":"Point"},"properties":{"crewAssigned":false,"id":"535428","nbrOut":1,"planned":false,"timeOff":1792641257635},"type":"Feature"},
-{"geometry":{"coordinates":[-110.542843,34.393606],"type":"Point"},"properties":{"crewAssigned":false,"id":"535429","nbrOut":1,"planned":false,"timeOff":1792641750527},"type":"Feature"}
+{"geometry":{"coordinates":[-110.552006,34.387587],"type":"Point"},"properties":{"crewAssigned":true,"id":"535430","nbrOut":11,"planned":false,"timeOff":1792639597169},"type":"Feature"},
+{"geometry":{"coordinates":[-110.549931,34.397794],"type":"Point"},"properties":{"cause":"DAMAGED MATERIAL OR EQUIP     ","crewAssigned":true,"id":"535431","nbrOut":39,"planned":false,"timeOff":1792639303574},"type":"Feature"}
 ]}
