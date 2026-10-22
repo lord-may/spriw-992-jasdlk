@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-107.199619,39.402428],"type":"Point"},"properties":{"cause":"Unknown Cause","comment":"HCE has detected a power outage to a single residential meter in the Carbondale area. HCE WILL NOT respond to this power outage until confirmed by the member. Please call HCE Dispatch @ (970)945-3687.","crewAssigned":true,"id":"386976","nbrOut":2,"planned":false,"timeOff":1792642286000},"type":"Feature"}
 ]}
