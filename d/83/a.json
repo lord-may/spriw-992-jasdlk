@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.06664,38.2208],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1865308","LATITUDE":38.2208004,"LONGITUDE":-117.0666402,"NUMCUSTDEENERGIZED":2,"STARTDATETIME":"10/21/2026 06:16:51 PM","XCORD":1621282,"YCORD":13878989},"type":"Feature"},
-{"geometry":{"coordinates":[-119.973302,40.07414],"type":"Point"},"properties":{"CAUSEDESC":"Storm in Area","ERTDATETIME":null,"EVENTID":"1865318","LATITUDE":40.074139748984,"LONGITUDE":-119.97330154855202,"NUMCUSTDEENERGIZED":11,"STARTDATETIME":"10/21/2026 06:48:49 PM","XCORD":808579,"YCORD":14567662},"type":"Feature"}
+
 ]}
