@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.617669,38.282157],"type":"Point"},"properties":{"currentAffected":92,"fieldValues":{"currentAffected":"92","energizationStatus":"Restored Pending Calls","geographicAorIDs":"Pueblo North","outageStepOffTime":"2026-10-22T16:20:46Z","publishedEtr":"2026-10-22T18:13:57Z"},"geoJSONPolygon":null,"id":"6ada389d78cae026336de44e","lat":38.28215708,"lon":-104.6176686,"serviceType":"Electric"},"type":"Feature"}
+
 ]}
