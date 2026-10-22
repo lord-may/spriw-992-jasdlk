@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-120.388001,39.571439],[-120.36725,39.577013],[-120.36787,39.577511],[-120.43713,39.632908],[-120.435917,39.621236],[-120.423089,39.603125],[-120.420987,39.600876],[-120.403479,39.582981],[-120.388001,39.571439]]],"type":"Polygon"},{"coordinates":[-120.404324,39.597076],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Unknown-will determine later ","comment":"Lightning in area, crew is enroute to investigate. No ETR at this time.","crewAssigned":true,"id":"232077","nbrOut":70,"planned":false,"timeOff":1792626064000},"type":"Feature"}
+
 ]}
