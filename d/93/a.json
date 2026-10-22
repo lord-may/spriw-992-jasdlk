@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-118.112662,37.823302],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T22:39:38.257-07:00","outageName":"3838C86802","outagePoint":{"lat":37.823302232074326,"lng":-118.11266199411297},"outageRecID":"2026-10-21-0122","outageStartTime":"2026-10-21T22:39:23-07:00","outageWorkStatus":"","streetsAffected":["MOUNTAIN WATER RANCH RD, LOT 12"],"verified":false},"type":"Feature"}
 ]}
