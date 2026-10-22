@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.547999,34.405555],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"535634","nbrOut":1,"planned":false,"timeOff":1792702671000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.067643,34.231297],"type":"Point"},"properties":{"cause":"LIGHTNING","comment":"We are aware of the outage & crews are responding at this time. We will restore power as soon as possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":true,"id":"535663","nbrOut":229,"planned":false,"timeOff":1792707834000},"type":"Feature"},
-{"geometry":{"coordinates":[-110.540058,34.413841],"type":"Point"},"properties":{"crewAssigned":false,"id":"535721","nbrOut":1,"planned":false,"timeOff":1792710943160},"type":"Feature"},
 {"geometry":{"coordinates":[-109.075023,33.837268],"type":"Point"},"properties":{"cause":"LIGHTNING","comment":"We are aware of the outage & crews are responding at this time. We will restore power as soon as possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":true,"id":"535728","nbrOut":1616,"planned":false,"timeOff":1792710760000},"type":"Feature"}
 ]}

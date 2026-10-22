@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.958084,37.679265],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T09:58:42.61-07:00","outageName":"OF10G8-11","outagePoint":{"lat":37.67926529310044,"lng":-120.95808401908263},"outageRecID":"2026-10-22-0138","outageStartTime":"2026-10-22T08:30:55-07:00","outageWorkStatus":"","streetsAffected":["Oakdale Road"],"verified":true},"type":"Feature"}
+
 ]}

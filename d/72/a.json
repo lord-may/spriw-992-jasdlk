@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.823321,45.687741],[-123.758867,45.701822],[-123.649577,45.748084],[-123.629285,45.771799],[-123.772467,45.727808],[-123.837801,45.699042],[-123.823321,45.687741]]],"type":"Polygon"},{"coordinates":[-123.73781,45.725544],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Wind and Trees","crewAssigned":true,"id":"380436","nbrOut":46,"planned":false,"timeOff":1792710249000},"type":"Feature"}
+
 ]}

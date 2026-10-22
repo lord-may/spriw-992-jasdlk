@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.481255,45.67708],"type":"Point"},"properties":{"affectedCustomerCount":3,"cause":"Power line damaged","estimatedRestoration":"2026-10-22T16:00:00.000-07:00","key":"41771","lat":45.67708,"lon":-122.481255,"reported":"2026-10-22T10:05:00.000-07:00","status":null},"type":"Feature"}
+
 ]}
