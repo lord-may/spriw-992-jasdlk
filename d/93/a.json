@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-116.087646,36.204041],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T07:48:10.297-07:00","outageName":"11656","outagePoint":{"lat":36.204040797632246,"lng":-116.08764613055206},"outageRecID":"2026-10-22-0123","outageStartTime":"2026-10-22T06:41:13-07:00","outageWorkStatus":"","streetsAffected":["W CHARLESTON PARK","W JACOB"],"verified":true},"type":"Feature"}
+
 ]}
