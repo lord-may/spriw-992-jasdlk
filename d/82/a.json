@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.906486,61.209415],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRAD BALDRIDGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S6F2","LATITUDE":"61.209415","LONGITUDE":"-149.906486","OUTAGE_START":"10/21/2026 16:25","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.906486,61.209415],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRAD BALDRIDGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S6F2","LATITUDE":"61.209415","LONGITUDE":"-149.906486","OUTAGE_START":"10/21/2026 16:25","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.732565,61.078907],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HLSS 042","LATITUDE":"61.078907","LONGITUDE":"-149.732565","OUTAGE_START":"10/21/2026 18:58","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
