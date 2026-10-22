@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":null,"properties":{"Actions":null,"ClosingDispatcher":null,"CostEstimate":null,"CrewDispatched":true,"CrewResponsible":null,"CustomerResponsible":null,"CustomersOutInitially":null,"CustomersOutNow":56,"CustomersRestored":0,"CustomersServed":null,"Dispatcher":null,"District":null,"EstimatedTime":"2026-10-22T09:30:00-07:00","Feeder":null,"Fields":{"oID":"2026-10-22-0039"},"MapLocation":null,"Notes":null,"OutageEndTime":null,"OutageLocation":{"X":-118.15300443932591,"Y":34.181050096542364},"OutageName":"PARTIAL OUTAGE F-9","OutagePolygon":null,"OutageRecID":"2026-10-22-0039","OutageStartTime":"2026-10-22T05:14:53-07:00","OutagedPhase":null,"PriorityCustomers":null,"Status":null,"Substation":null,"SuspectedCause":null,"TroubledElement":null,"UplineElement":null,"Verified":true,"VerifiedCause":null},"type":"Feature"}
+
 ]}
