@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.359703,39.637343],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for underground electrical maintenance in the Fairway Drive area.","crewAssigned":true,"id":"386931","nbrOut":4,"planned":false,"timeOff":1792677300000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.359703,39.637343],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for underground electrical maintenance in the Fairway Drive area.","crewAssigned":true,"id":"386931","nbrOut":4,"planned":false,"timeOff":1792678620000},"type":"Feature"},
 {"geometry":{"coordinates":[-106.380562,39.638491],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"id":"386977","nbrOut":12,"planned":true,"timeOff":1792678002422},"type":"Feature"},
-{"geometry":{"coordinates":[-107.023396,39.35783],"type":"Point"},"properties":{"crewAssigned":false,"id":"386978","nbrOut":1,"planned":false,"timeOff":1792680514000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.947444,39.208413],"type":"Point"},"properties":{"crewAssigned":false,"id":"386981","nbrOut":5,"planned":false,"timeOff":1792681213000},"type":"Feature"}
 ]}
