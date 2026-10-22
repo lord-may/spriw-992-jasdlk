@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-154.946519,19.61809],"type":"Point"},"properties":{"affectedAreas":["Keaau"],"centerPoint":{"srid":4326,"x":-154.94651947030698,"y":19.6180904999526},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 07:50 PM HST","outageCause":"Unavailable","outageId":46269,"outageStartTime":"Today at 07:38 PM HST","outageStatus":1,"radius":0.007071067811881653,"totalCustomersAffected":1},"type":"Feature"}
+{"geometry":{"coordinates":[-154.946519,19.61809],"type":"Point"},"properties":{"affectedAreas":["Keaau"],"centerPoint":{"srid":4326,"x":-154.94651947030698,"y":19.6180904999526},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 08:05 PM HST","outageCause":"Unavailable","outageId":46269,"outageStartTime":"Today at 07:38 PM HST","outageStatus":1,"radius":0.007071067811881653,"totalCustomersAffected":5},"type":"Feature"}
 ]}
