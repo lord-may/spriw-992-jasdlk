@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.841688,61.181591],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRAD BALDRIDGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S8F1","LATITUDE":"61.181591","LONGITUDE":"-149.841688","OUTAGE_START":"10/22/2026 15:12","OUTAGE_STATUS":"Crew Dispatched","STAGE":"Accepted"},"type":"Feature"}
+
 ]}

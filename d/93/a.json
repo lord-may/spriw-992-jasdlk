@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.639707,35.81286],"type":"Point"},"properties":{"cause":"760 Switching error or caused by construction or maintenance","code":"760","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-10-22T11:54:36-07:00","outageModifiedTime":"2026-10-22T12:33:59.303-07:00","outageName":"08661","outagePoint":{"lat":35.81285991942494,"lng":-115.6397073689078},"outageRecID":"2026-10-22-0128","outageStartTime":"2026-10-22T11:31:33-07:00","outageWorkStatus":"","streetsAffected":["N OMAHA","W PEARL"],"verified":true},"type":"Feature"}
+
 ]}
