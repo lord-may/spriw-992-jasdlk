@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.90605,39.635419],"type":"Point"},"properties":{"cause":"Unknown Cause","comment":"Power is out in the Gypsum and Eagle area. The cause is unknown at this time. Crews are responding and will restore power as quickly and safely as possible.\nNo estimated time of restoration.\nMembers may experience intermittent restoration and outages while we troubleshoot the cause.","crewAssigned":false,"id":"387033","nbrOut":1988,"planned":false,"timeOff":1792770728000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.895818,39.64325],"type":"Point"},"properties":{"cause":"Unknown Cause","crewAssigned":false,"id":"387039","nbrOut":1883,"planned":false,"timeOff":1792774183000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.893752,39.64085],"type":"Point"},"properties":{"cause":"Unknown Cause","crewAssigned":false,"id":"387040","nbrOut":1,"planned":false,"timeOff":1792774183000},"type":"Feature"}
 ]}
