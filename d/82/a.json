@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.69929,61.093155],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"THAYNE HACKING","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HLSS 042","LATITUDE":"61.093155","LONGITUDE":"-149.69929","OUTAGE_START":"10/23/2026 09:53","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.69929,61.093155],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"THAYNE HACKING","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HLSS 042","LATITUDE":"61.093155","LONGITUDE":"-149.69929","OUTAGE_START":"10/23/2026 09:53","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.765985,61.199146],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"BXSS 282","LATITUDE":"61.199146","LONGITUDE":"-149.765985","OUTAGE_START":"10/23/2026 13:07","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
