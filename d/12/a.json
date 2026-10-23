@@ -13,14 +13,12 @@
 {"geometry":{"coordinates":[-123.059041,44.8305],"type":"Point"},"properties":{"eventId":"2515567","lat":"44.83050022","long":"-123.05904070","totalCustomersImpacted":250},"type":"Feature"},
 {"geometry":{"coordinates":[-122.710389,45.494499],"type":"Point"},"properties":{"eventId":"2515605","lat":"45.49449910","long":"-122.71038894","totalCustomersImpacted":3},"type":"Feature"},
 {"geometry":{"coordinates":[-122.722699,45.464292],"type":"Point"},"properties":{"eventId":"2515607","lat":"45.46429171","long":"-122.72269915","totalCustomersImpacted":1},"type":"Feature"},
+{"geometry":{"coordinates":[-122.722861,45.464293],"type":"Point"},"properties":{"eventId":"2515609","lat":"45.46429261","long":"-122.72286146","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.589962,45.496535],"type":"Point"},"properties":{"eventId":"2515610","lat":"45.49653499","long":"-122.58996203","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.626426,45.518092],"type":"Point"},"properties":{"eventId":"2515611","lat":"45.51809218","long":"-122.62642571","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.516968,45.312653],"type":"Point"},"properties":{"eventId":"2515613","lat":"45.31265266","long":"-122.51696801","totalCustomersImpacted":10},"type":"Feature"},
 {"geometry":{"coordinates":[-122.739208,45.594491],"type":"Point"},"properties":{"eventId":"2515622","lat":"45.59449123","long":"-122.73920763","totalCustomersImpacted":69},"type":"Feature"},
 {"geometry":{"coordinates":[-122.719861,45.442404],"type":"Point"},"properties":{"eventId":"2515638","lat":"45.44240433","long":"-122.71986115","totalCustomersImpacted":11},"type":"Feature"},
-{"geometry":{"coordinates":[-122.896687,45.639858],"type":"Point"},"properties":{"eventId":"2515641","lat":"45.63985805","long":"-122.89668693","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.722617,45.442475],"type":"Point"},"properties":{"eventId":"2515642","lat":"45.44247531","long":"-122.72261741","totalCustomersImpacted":10},"type":"Feature"},
-{"geometry":{"coordinates":[-122.640693,45.410773],"type":"Point"},"properties":{"eventId":"2515648","lat":"45.41077289","long":"-122.64069307","totalCustomersImpacted":1},"type":"Feature"},
-{"geometry":{"coordinates":[-121.745887,45.301588],"type":"Point"},"properties":{"eventId":"2515649","lat":"45.30158756","long":"-121.74588700","totalCustomersImpacted":1},"type":"Feature"},
-{"geometry":{"coordinates":[-122.603938,45.512538],"type":"Point"},"properties":{"eventId":"2515651","lat":"45.51253751","long":"-122.60393834","totalCustomersImpacted":1},"type":"Feature"}
+{"geometry":{"coordinates":[-121.745887,45.301588],"type":"Point"},"properties":{"eventId":"2515649","lat":"45.30158756","long":"-121.74588700","totalCustomersImpacted":1},"type":"Feature"}
 ]}
