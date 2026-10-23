@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-115.129014,36.146765],"type":"Point"},"properties":{"CAUSEDESC":"Pole-mounted Equipment Failure","ERTDATETIME":"10/23/2026 08:15:00 AM","EVENTID":"1865568","LATITUDE":36.1467647,"LONGITUDE":-115.1290142,"NUMCUSTDEENERGIZED":37,"STARTDATETIME":"10/23/2026 02:12:17 AM","XCORD":2192663,"YCORD":13129424},"type":"Feature"},
 {"geometry":{"coordinates":[-119.533177,38.729244],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1865584","LATITUDE":38.7292436,"LONGITUDE":-119.5331772,"NUMCUSTDEENERGIZED":60,"STARTDATETIME":"10/23/2026 05:49:27 AM","XCORD":917974,"YCORD":14074074},"type":"Feature"},
-{"geometry":{"coordinates":[-115.05032,36.100653],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1865585","LATITUDE":36.1006531,"LONGITUDE":-115.05032,"NUMCUSTDEENERGIZED":18,"STARTDATETIME":"10/23/2026 06:23:28 AM","XCORD":2216230,"YCORD":13113098},"type":"Feature"}
+{"geometry":{"coordinates":[-115.187443,36.181508],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1865590","LATITUDE":36.1815081,"LONGITUDE":-115.1874434,"NUMCUSTDEENERGIZED":4,"STARTDATETIME":"10/23/2026 06:58:50 AM","XCORD":2175179,"YCORD":13141742},"type":"Feature"}
 ]}

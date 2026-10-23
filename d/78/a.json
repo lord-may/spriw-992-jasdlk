@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-154.906566,19.508665],"type":"Point"},"properties":{"affectedAreas":["Keonepoko"],"centerPoint":{"srid":4326,"x":-154.9065656171536,"y":19.508665456064275},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 03:50 AM HST","outageCause":"Tree","outageId":46287,"outageStartTime":"10/22/2026 at 07:51 PM HST","outageStatus":1,"radius":0.00983988395263099,"totalCustomersAffected":9},"type":"Feature"}
+{"geometry":{"coordinates":[-154.906566,19.508665],"type":"Point"},"properties":{"affectedAreas":["Keonepoko"],"centerPoint":{"srid":4326,"x":-154.9065656171536,"y":19.508665456064275},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 04:05 AM HST","outageCause":"Tree","outageId":46287,"outageStartTime":"10/22/2026 at 07:51 PM HST","outageStatus":1,"radius":0.00983988395263099,"totalCustomersAffected":9},"type":"Feature"}
 ]}
