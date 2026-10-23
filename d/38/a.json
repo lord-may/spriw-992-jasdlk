@@ -2,8 +2,9 @@
 {"geometry":{"coordinates":[-111.087653,32.15951],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"389818","nbrOut":1,"planned":true,"timeOff":1791474521000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.221853,32.293295],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1792774800000,"id":"390064","nbrOut":1,"planned":true,"timeOff":1792767600000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.032883,32.156369],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390075","nbrOut":1,"planned":true,"timeOff":1792681681000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.277916,32.029869],"type":"Point"},"properties":{"cause":"99 UNKNOWN/UNDETERMINED","estimateTime":1792776339000,"id":"390085","lifeCycleStatus":"Line Crews Enroute to outage","nbrOut":2,"planned":false,"timeOff":1792765539000},"type":"Feature"},
+{"geometry":{"coordinates":[-111.277916,32.029869],"type":"Point"},"properties":{"cause":"99 UNKNOWN/UNDETERMINED","estimateTime":1792776339000,"id":"390085","nbrOut":2,"planned":false,"timeOff":1792765539000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.223326,32.292999],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390086","nbrOut":1,"planned":true,"timeOff":1792768189000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.858897,32.529764],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390087","nbrOut":1,"planned":true,"timeOff":1792769666000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.141175,32.138077],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390088","nbrOut":1,"planned":true,"timeOff":1792771602000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.141175,32.138077],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390088","nbrOut":1,"planned":true,"timeOff":1792771602000},"type":"Feature"},
+{"geometry":{"coordinates":[-110.993663,31.925604],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390089","nbrOut":1,"planned":false,"timeOff":1792775042000},"type":"Feature"}
 ]}

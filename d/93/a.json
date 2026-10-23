@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.609775,35.81172],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T10:00:55.823-07:00","outageName":"5861B1376","outagePoint":{"lat":35.81171989590679,"lng":-115.60977488558284},"outageRecID":"2026-10-23-0133","outageStartTime":"2026-10-23T09:54:07-07:00","outageWorkStatus":"","streetsAffected":["HOPI"],"verified":false},"type":"Feature"}
 ]}

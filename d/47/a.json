@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-110.120716,34.281815],"type":"Point"},"properties":{"comment":"We are aware of the outage & crews are responding at this time. We will restore power as soon as possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":true,"id":"535745","nbrOut":3,"planned":false,"timeOff":1792774533000},"type":"Feature"},
+{"geometry":{"coordinates":[-110.030516,34.196643],"type":"Point"},"properties":{"crewAssigned":false,"id":"535746","nbrOut":1,"planned":false,"timeOff":1792774841852},"type":"Feature"}
 ]}
