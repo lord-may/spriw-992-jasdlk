@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.00977,37.623452],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T20:02:56.897-07:00","outageName":"51816071","outagePoint":{"lat":37.623451572302415,"lng":-121.00977046105854},"outageRecID":"2026-10-22-0141","outageStartTime":"2026-10-22T20:02:17-07:00","outageWorkStatus":"","streetsAffected":["Leon Avenue"],"verified":false},"type":"Feature"}
 ]}
