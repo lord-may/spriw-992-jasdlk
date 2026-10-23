@@ -1,7 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.88864,39.260904],"type":"Point"},"properties":{"crewAssigned":false,"id":"386992","nbrOut":1,"planned":false,"timeOff":1792735438000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.861933,39.218031],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":false,"estimateTime":1792742400000,"id":"386993","nbrOut":6,"planned":false,"timeOff":1792735566000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.862463,39.233939],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":false,"estimateTime":1792742400000,"id":"386994","nbrOut":9,"planned":false,"timeOff":1792735566000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.876064,39.25399],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":false,"estimateTime":1792742400000,"id":"386996","nbrOut":68,"planned":false,"timeOff":1792735566000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.877833,39.254894],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":false,"estimateTime":1792742400000,"id":"386997","nbrOut":31,"planned":false,"timeOff":1792735566000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.862463,39.233939],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"estimateTime":1792742400000,"id":"386994","nbrOut":9,"planned":false,"timeOff":1792735566000},"type":"Feature"}
 ]}
