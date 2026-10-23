@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.925207,33.494063],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"East Indian School Rd to East 1st Ave and North Scottsdale Rd to North Brown Ave","Cause":"Planned outage","City":"Scottsdale","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13312,"Ticket":"718648222","customers":8,"datastatus":"current","etr":1792764900000,"latLong":"33.494063460331_-111.92520684","off":1792741140000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
+
 ]}
