@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-149.926423,61.190025],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"ESAU L.","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"WPSS 342","LATITUDE":"61.190025","LONGITUDE":"-149.926423","OUTAGE_START":"10/23/2026 05:40","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.951784,61.18333],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"TNSS 132","LATITUDE":"61.18333","LONGITUDE":"-149.951784","OUTAGE_START":"10/23/2026 07:18","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
