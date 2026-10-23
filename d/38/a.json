@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-110.858897,32.529764],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390087","nbrOut":1,"planned":true,"timeOff":1792769666000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.993663,31.925604],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390089","lifeCycleStatus":"Crews Onsite investigating","nbrOut":1,"planned":false,"timeOff":1792775042000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.047292,31.783904],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390091","nbrOut":1,"planned":true,"timeOff":1792780918000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.047292,31.783904],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390091","nbrOut":1,"planned":true,"timeOff":1792780918000},"type":"Feature"},
+{"geometry":{"coordinates":[-111.187483,32.315299],"type":"Point"},"properties":{"cause":"99 UNKNOWN/UNDETERMINED","id":"390092","nbrOut":1,"planned":true,"timeOff":1792781481000},"type":"Feature"}
 ]}
