@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.609775,35.81172],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-24T09:50:31.853-07:00","outageName":"09627","outagePoint":{"lat":35.81171989590679,"lng":-115.60977488558284},"outageRecID":"2026-10-24-0137","outageStartTime":"2026-10-24T09:42:09-07:00","outageWorkStatus":"","streetsAffected":["HOPI"],"verified":true},"type":"Feature"}
+
 ]}
