@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.217955,36.151776],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1865671","LATITUDE":36.1517759,"LONGITUDE":-115.2179548,"NUMCUSTDEENERGIZED":8,"STARTDATETIME":"10/23/2026 09:01:04 PM","XCORD":2166375,"YCORD":13130754},"type":"Feature"}
+{"geometry":{"coordinates":[-115.217955,36.151776],"type":"Point"},"properties":{"CAUSEDESC":"Underground Equipment Failure","ERTDATETIME":null,"EVENTID":"1865671","LATITUDE":36.1517759,"LONGITUDE":-115.2179548,"NUMCUSTDEENERGIZED":8,"STARTDATETIME":"10/23/2026 09:01:04 PM","XCORD":2166375,"YCORD":13130754},"type":"Feature"}
 ]}
