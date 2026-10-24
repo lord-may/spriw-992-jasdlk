@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-149.80545,61.15334],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"EMMAUS FINAU","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DLSS 212","LATITUDE":"61.15334","LONGITUDE":"-149.80545","OUTAGE_START":"10/24/2026 09:20","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.78111,61.184668],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S15F8","LATITUDE":"61.184668","LONGITUDE":"-149.78111","OUTAGE_START":"10/24/2026 09:28","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
