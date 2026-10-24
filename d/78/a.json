@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.032819,19.736074],"type":"Point"},"properties":{"affectedAreas":["Keaukaha"],"centerPoint":{"srid":4326,"x":-155.03281920913597,"y":19.7360740773144},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 03:35 AM HST","outageCause":"Unavailable","outageId":46301,"outageStartTime":"Today at 03:20 AM HST","outageStatus":1,"radius":0.007071067811881653,"totalCustomersAffected":1},"type":"Feature"}
+
 ]}
