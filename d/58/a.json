@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.583991,47.819636],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Power and Light Crew on site completing maintenance, Thank you for your patience and understanding.","crewAssigned":true,"estimateTime":1792800000000,"id":"527436","nbrOut":1,"planned":false,"timeOff":1792792865034},"type":"Feature"}
+{"geometry":{"coordinates":[-117.583991,47.819636],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Power and Light Crew on site completing maintenance, Thank you for your patience and understanding.","crewAssigned":true,"estimateTime":1792803600000,"id":"527436","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792792865034},"type":"Feature"}
 ]}
