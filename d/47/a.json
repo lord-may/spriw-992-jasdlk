@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-109.927506,34.118546],"type":"Point"},"properties":{"cause":"SWITCHING OUTAGE              ","crewAssigned":true,"id":"535766","nbrOut":27,"planned":false,"timeOff":1792867920000},"type":"Feature"}
 ]}
