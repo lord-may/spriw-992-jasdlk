@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.998653,33.692258],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Pinnacle Peak Rd. to Rough Rider Rd. and Black Mountain Blvd. to Freemont Rd.","Cause":"Outage Reported in Area","City":"Phoenix","Comments":"Multiple customers have reported an outage in this area. We are investigating and will provide an update once we know more.  Thank you for your patience.","MediaLink":null,"OBJECTID":13355,"Ticket":"7186483496","customers":31,"datastatus":"current","etr":1792818900000,"latLong":"33.692258460994_-111.9986527186","off":1792808160000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
