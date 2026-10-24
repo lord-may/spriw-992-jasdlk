@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-117.421504,47.981947],[-117.416554,47.981845],[-117.418144,47.983595],[-117.425061,47.98817],[-117.42498,47.982452],[-117.421504,47.981947]]],"type":"Polygon"},{"coordinates":[-117.421953,47.984106],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause Being Investigated","comment":"Inland Power has determined that an emergency outage is necessary to remove a tree from the line. Our Inland crews are working as quickly and safely as possible to complete the necessary work.\n\nThank you for your patience and understanding.","crewAssigned":true,"estimateTime":1792816200000,"id":"527437","lifeCycleStatus":"Planned","nbrOut":14,"planned":true,"timeOff":1792807444933},"type":"Feature"}
+
 ]}
