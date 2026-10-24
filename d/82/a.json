@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.937839,61.19482],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRAD BALDRIDGE","CUSTOMERS_AFFECTED":"12","EST_RESTORATION":"-","FEEDER":"TNSS 142","LATITUDE":"61.19482","LONGITUDE":"-149.937839","OUTAGE_START":"10/23/2026 15:11","OUTAGE_STATUS":"Crew Dispatched","STAGE":"En Route"},"type":"Feature"}
+
 ]}
