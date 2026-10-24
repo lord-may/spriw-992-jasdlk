@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.643538,35.818401],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T15:18:24.007-07:00","outageName":"5861A0830","outagePoint":{"lat":35.818400601973785,"lng":-115.64353758486413},"outageRecID":"2026-10-24-0156","outageStartTime":"2026-10-24T15:18:07-07:00","outageWorkStatus":"","streetsAffected":["TRAILING ROSE (NS)"],"verified":false},"type":"Feature"}
 ]}
