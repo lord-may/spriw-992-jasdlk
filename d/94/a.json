@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.728498,64.813423],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T16:06:40.56-08:00","outageName":"SFS R3 SER_2726775","outagePoint":{"lat":64.81342265791335,"lng":-147.72849804323243},"outageRecID":"2026-10-24-0322","outageStartTime":"2026-10-24T16:01:56-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
