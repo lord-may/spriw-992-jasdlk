@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.29113,33.731483],"type":"Point"},"properties":{"CENTROID_LAT":33.731483,"CENTROID_LNG":-118.29113,"CITY_NAM":"SAN PEDRO","COUNT_IN_RANK":73,"COUNT_OTHERS":null,"ETR_DATETIME":1792938600000,"ETR_DATETIME_CHAR":"10/25/2026 14:30","FAC_JOB_STATUS_NAM":"REPORTED OUTAGE","OBJECTID":264662,"OUTAGE_RANK":1},"type":"Feature"}
+
 ]}
