@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.542869,38.25344],"type":"Point"},"properties":{"currentAffected":36,"fieldValues":{"currentAffected":"36","energizationStatus":"Restored Pending Calls","geographicAorIDs":"Pueblo East","outageStepOffTime":"2026-10-25T17:38:08Z","publishedEtr":"2026-10-25T19:41:20Z"},"geoJSONPolygon":null,"id":"6ade3f4078cae0263370f7ab","lat":38.2534403,"lon":-104.5428691,"serviceType":"Electric"},"type":"Feature"}
+
 ]}
