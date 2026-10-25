@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-109.952394,32.394907],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":1,"GlobalID":"80ce9554-ef66-4e7f-a081-773904fa25f1","INCIDENT_ID":21216,"MetersRestored":0,"OBJECTID":1,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1792085928000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
+{"geometry":{"coordinates":[-109.952394,32.394907],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":1,"GlobalID":"f26ef50e-b5ae-4c29-a812-847c2621cac9","INCIDENT_ID":21216,"MetersRestored":0,"OBJECTID":2,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1792085928000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
+{"geometry":{"coordinates":[-110.709705,31.655996],"type":"Point"},"properties":{"CAUSE":"Investigating","CUSTOMER_COUNT":6,"GlobalID":"f75ab31d-a497-46c9-bd32-8b3ec40e4400","INCIDENT_ID":21346,"MetersRestored":0,"OBJECTID":1,"REGION":"Sierra Vista","STATUS":"Power Out","TIME_OUTAGE":1792934409000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
 ]}
