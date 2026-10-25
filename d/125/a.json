@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.975038,33.851918],"type":"Point"},"properties":{"ID":"294585","endTime":"10/25/2026 10:00 AM","startTime":"10/25/2026 2:24 AM","type":"Current Electric Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-117.978104,33.853253],"type":"Point"},"properties":{"ID":"294585","endTime":"10/25/2026 10:00 AM","startTime":"10/25/2026 2:24 AM","type":"Current Electric Outage"},"type":"Feature"}
+
 ]}
