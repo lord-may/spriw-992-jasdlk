@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.691216,45.64307],"type":"Point"},"properties":{"affectedCustomerCount":14,"cause":"Power line failure","estimatedRestoration":null,"key":"41779","lat":45.64307,"lon":-122.691216,"reported":"2026-10-26T04:54:00.000-07:00","status":null},"type":"Feature"},
-{"geometry":{"coordinates":[-122.66289,45.732788],"type":"Point"},"properties":{"affectedCustomerCount":35,"cause":"Tree into power lines","estimatedRestoration":null,"key":"41780","lat":45.732788,"lon":-122.66289,"reported":"2026-10-26T05:39:00.000-07:00","status":null},"type":"Feature"}
+{"geometry":{"coordinates":[-122.66289,45.732788],"type":"Point"},"properties":{"affectedCustomerCount":35,"cause":"Tree into power lines","estimatedRestoration":"2026-10-26T10:30:00.000-07:00","key":"41780","lat":45.732788,"lon":-122.66289,"reported":"2026-10-26T05:39:00.000-07:00","status":null},"type":"Feature"}
 ]}
