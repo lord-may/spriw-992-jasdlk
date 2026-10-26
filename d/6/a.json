@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.362,43.205],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Arrived","custOut":84,"etr":"Before 04:00 AM on 10/26","icon":"standard","latitude":43.205,"longitude":-123.362,"outCount":1,"reported":"10:14 PM on 10/25","zip":"97471"},"type":"Feature"}
+
 ]}
