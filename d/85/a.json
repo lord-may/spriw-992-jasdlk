@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-122.854973,46.03951],[-122.848604,46.040751],[-122.850257,46.042229],[-122.852817,46.041599],[-122.854676,46.040003],[-122.854973,46.03951]]],"type":"Polygon"},{"coordinates":[-122.851712,46.040888],"type":"Point"}],"type":"GeometryCollection"},"properties":{"causeGroup":"Human / Vehicle","crewAssigned":true,"estimateTime":1793012400000,"id":"290299","nbrOut":8,"timeOff":1793008521000},"type":"Feature"}
+
 ]}
