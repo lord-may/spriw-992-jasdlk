@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.54494,39.562319],"type":"Point"},"properties":{"cause":"Member Requested Outage","comment":"Planned power outage for overhead Transmission Line work in the Alkali Crk area.","crewAssigned":true,"estimateTime":1793052000000,"id":"386525","nbrOut":8,"planned":false,"timeOff":1793023200000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.54494,39.562319],"type":"Point"},"properties":{"cause":"Member Requested Outage","comment":"Planned power outage for overhead Transmission Line work in the Alkali Crk area.","crewAssigned":true,"estimateTime":1793052000000,"id":"386525","nbrOut":8,"planned":false,"timeOff":1793023200000},"type":"Feature"},
+{"geometry":{"coordinates":[-107.567811,39.552816],"type":"Point"},"properties":{"crewAssigned":false,"id":"387095","nbrOut":1,"planned":false,"timeOff":1793028114000},"type":"Feature"}
 ]}
