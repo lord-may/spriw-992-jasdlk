@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-120.755693,48.368332],[-120.756474,48.365313],[-120.745773,48.364084],[-120.744991,48.367102],[-120.755693,48.368332]]],"type":"Polygon"},"properties":{"AffectedCustomers":11,"Cause":"Scheduled work being conducted in the area","CommunityName":"Stehekin","CrewDispatched":"","EndTimeFormatted":"Oct 26, 03:10 PM","EstimatedEndTime":null,"OBJECTID":1825,"OutageID":"6adfa59f9f80d41613bcaaba","ProjectedDuration":null,"Shape__Area":2949876.4829711914,"Shape__Length":7514.436664333516,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Oct 26, 03:10 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 26, 12:10 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 26, 12:10 PM","Status":"Active"},"type":"Feature"}
 ]}
