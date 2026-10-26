@@ -4,6 +4,5 @@
 {"geometry":{"coordinates":[-122.585407,45.510327],"type":"Point"},"properties":{"eventId":"2516464","lat":"45.51032704","long":"-122.58540707","totalCustomersImpacted":80},"type":"Feature"},
 {"geometry":{"coordinates":[-122.734326,45.509883],"type":"Point"},"properties":{"eventId":"2517077","lat":"45.50988266","long":"-122.73432561","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.722206,45.508324],"type":"Point"},"properties":{"eventId":"2517205","lat":"45.50832403","long":"-122.72220599","totalCustomersImpacted":31},"type":"Feature"},
-{"geometry":{"coordinates":[-122.527235,45.429469],"type":"Point"},"properties":{"eventId":"2517206","lat":"45.42946944","long":"-122.52723503","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-123.02022,45.408289],"type":"Point"},"properties":{"eventId":"2517224","lat":"45.40828863","long":"-123.02021973","totalCustomersImpacted":1},"type":"Feature"}
 ]}
