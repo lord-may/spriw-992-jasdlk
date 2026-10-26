@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-120.320374,47.430127],[-120.320344,47.430092],[-120.32029,47.430114],[-120.32032,47.430149],[-120.320374,47.430127]]],"type":"Polygon"},"properties":{"AffectedCustomers":12,"Cause":"Equipment requiring repair","CommunityName":"North Wenatchee","CrewDispatched":null,"EndTimeFormatted":"Oct 26, 12:29 PM","EstimatedEndTime":null,"OBJECTID":1824,"OutageID":"6adf57629f80d41613bc947f","ProjectedDuration":null,"Shape__Area":232.71664428710938,"Shape__Length":61.02953004996127,"SpanishCause":"Requiere reparación el sistema","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Oct 26, 12:29 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 26, 06:34 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 26, 06:34 AM","Status":"Active"},"type":"Feature"}
+
 ]}
