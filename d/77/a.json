@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-157.823628,21.277728],"type":"Point"},"properties":{"affectedAreas":["Kapahulu","Waikiki"],"centerPoint":{"srid":4326,"x":-157.82362843541304,"y":21.277727602531797},"company":0,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 08:33 PM HST","outageCause":"Unavailable","outageId":553815,"outageStartTime":"Today at 08:07 PM HST","outageStatus":1,"radius":0.007071067811838947,"totalCustomersAffected":1},"type":"Feature"}
+
 ]}
