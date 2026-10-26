@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.913062,45.561786],"type":"Point"},"properties":{"cause":"Planned - Maintenance","crewAssigned":true,"estimateTime":1793052000000,"id":"380524","nbrOut":1,"planned":true,"timeOff":1793049120000},"type":"Feature"},
-{"geometry":{"coordinates":[-123.912856,45.561679],"type":"Point"},"properties":{"cause":"Planned - Maintenance","crewAssigned":true,"estimateTime":1793052000000,"id":"380525","nbrOut":1,"planned":true,"timeOff":1793049120000},"type":"Feature"}
+
 ]}
