@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.834385,40.404927],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-26T15:03:26.767-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T13:03:26.8-06:00","outageName":"T_1514","outagePoint":{"lat":40.4049266715214,"lng":-111.83438465650255},"outageRecID":"2026-10-26-0032","outageStartTime":"2026-10-26T12:57:44-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["E CEDAR HOLLOW RD","E CEDAR HOLLOW RD(CABLEMET"],"verified":false},"type":"Feature"}
 ]}
