@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-117.085174,47.031762],[-117.023101,47.047159],[-116.983862,47.06528],[-116.984204,47.130029],[-116.997544,47.136709],[-117.06216,47.158886],[-117.087438,47.160499],[-117.093008,47.14467],[-117.108881,47.042127],[-117.085174,47.031762]]],"type":"Polygon"},{"coordinates":[-117.047858,47.095316],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Scheduled","comment":"SCHEDULED OUTAGE ON 10/26/26 AT 313 1 TO THE END FROM 1 TO 4PM FOR THE CREW TO REPLACE CROSSARMS.","crewAssigned":true,"estimateTime":1793055600000,"id":"323480","nbrOut":60,"planned":false,"timeOff":1793044800000},"type":"Feature"}
+
 ]}
