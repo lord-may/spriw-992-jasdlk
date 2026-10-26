@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-119.021583,46.766489],"type":"Point"},"properties":{"comment":"CONTRACT CREW/CONSTRUCTION","id":"201081","nbrOut":1,"planned":false,"timeOff":1793029129000},"type":"Feature"},
 {"geometry":{"coordinates":[-119.182651,46.355658],"type":"Point"},"properties":{"comment":"CONSTRUCTION","id":"201083","nbrOut":2,"planned":false,"timeOff":1793031406000},"type":"Feature"},
 {"geometry":{"coordinates":[-119.204525,46.694146],"type":"Point"},"properties":{"comment":"CREW IN ROUTE","id":"201085","nbrOut":1,"planned":false,"timeOff":1793033458238},"type":"Feature"},
-{"geometry":{"coordinates":[-119.245766,46.775761],"type":"Point"},"properties":{"id":"201086","nbrOut":1,"planned":false,"timeOff":1793037938000},"type":"Feature"}
+{"geometry":{"coordinates":[-119.245766,46.775761],"type":"Point"},"properties":{"comment":"CREW IN ROUTE","id":"201086","nbrOut":1,"planned":false,"timeOff":1793037938000},"type":"Feature"}
 ]}
