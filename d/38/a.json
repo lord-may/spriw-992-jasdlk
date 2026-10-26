@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.248901,32.380428],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1793031433000,"id":"390103","lifeCycleStatus":"Line Crews Assigned","nbrOut":2,"planned":false,"timeOff":1793020633000},"type":"Feature"}
+
 ]}
