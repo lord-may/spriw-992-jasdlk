@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-107.54494,39.562319],"type":"Point"},"properties":{"cause":"Member Requested Outage","comment":"Planned power outage for overhead Transmission Line work in the Alkali Crk area.","crewAssigned":true,"estimateTime":1793052000000,"id":"386525","nbrOut":8,"planned":false,"timeOff":1793023200000},"type":"Feature"},
 {"geometry":{"coordinates":[-106.380562,39.638491],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Vail Mountain area.","crewAssigned":true,"id":"386977","nbrOut":12,"planned":false,"timeOff":1793031894000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.27934,39.619416],"type":"Point"},"properties":{"cause":"Member Requested Outage","comment":"Planned power outage for overhead maintenance in the East Vail area, affecting only one service.","crewAssigned":true,"id":"387098","nbrOut":1,"planned":false,"timeOff":1793034655000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.146466,39.410251],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"id":"387100","nbrOut":2,"planned":false,"timeOff":1793034981000},"type":"Feature"}
 ]}
