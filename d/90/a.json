@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.099853,47.20989],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"367680","nbrOut":1732,"timeOff":1793127408000},"type":"Feature"}
+{"geometry":{"coordinates":[-123.099853,47.20989],"type":"Point"},"properties":{"cause":"102 OH Lines Down/Low","crewAssigned":false,"estimateTime":1793133000000,"id":"367680","nbrOut":1732,"timeOff":1793127408000},"type":"Feature"}
 ]}
