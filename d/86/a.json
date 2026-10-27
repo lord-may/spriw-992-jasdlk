@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-122.057646,46.753774],[-122.055778,46.756501],[-122.056613,46.756015],[-122.057646,46.753774]]],"type":"Polygon"},{"coordinates":[-122.056676,46.75543],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Maintenance","id":"213905","nbrOut":3,"planned":false,"timeOff":1793116800000},"type":"Feature"}
+
 ]}
