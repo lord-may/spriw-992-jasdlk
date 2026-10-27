@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-114.567799,35.127431],"type":"Point"},"properties":{"comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351202","nbrOut":42,"planned":false,"timeOff":1793132280000},"type":"Feature"}
+{"geometry":{"coordinates":[-113.852749,35.411222],"type":"Point"},"properties":{"id":"351203","nbrOut":1,"planned":false,"timeOff":1793134552544},"type":"Feature"}
 ]}
