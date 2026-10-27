@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.627242,35.817134],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-26T11:22:12.473-07:00","outageName":"7896","outagePoint":{"lat":35.81713398851239,"lng":-115.6272419483015},"outageRecID":"2026-10-26-0164","outageStartTime":"2026-10-26T10:42:13-07:00","outageWorkStatus":"","streetsAffected":["ONYX"],"verified":true},"type":"Feature"}
+
 ]}
