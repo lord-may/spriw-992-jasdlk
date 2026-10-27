@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.303923,32.445594],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390175","nbrOut":1379,"planned":false,"timeOff":1793104431000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.317487,32.433441],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390178","nbrOut":1,"planned":false,"timeOff":1793105067072},"type":"Feature"}
+{"geometry":{"coordinates":[-111.303923,32.445594],"type":"Point"},"properties":{"cause":"Pending Investigation","comment":"Crews are in route to the potential outage location. Anticipated arrival time on scene is approximately 07:00 AM, updates to follow.","estimateTime":1793115231000,"id":"390175","lifeCycleStatus":"Line Crews Assigned","nbrOut":1379,"planned":false,"timeOff":1793104431000},"type":"Feature"},
+{"geometry":{"coordinates":[-111.317487,32.433441],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390178","nbrOut":1,"planned":false,"timeOff":1793105067072},"type":"Feature"},
+{"geometry":{"coordinates":[-111.328842,32.421567],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390179","nbrOut":1,"planned":false,"timeOff":1793105981777},"type":"Feature"}
 ]}
