@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.303923,32.445594],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390175","nbrOut":1379,"planned":false,"timeOff":1793104431000},"type":"Feature"},
+{"geometry":{"coordinates":[-111.317487,32.433441],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390178","nbrOut":1,"planned":false,"timeOff":1793105067072},"type":"Feature"}
 ]}
