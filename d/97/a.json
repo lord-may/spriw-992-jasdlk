@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.682252,48.323563],"type":"Point"},"properties":{"AffectedCustomers":110,"Cause":"Scheduled work being conducted in the area","CommunityName":"Stehekin","CrewDispatched":null,"EndTimeFormatted":"Oct 27, 04:30 PM","EstimatedEndTime":null,"OBJECTID":1825,"OutageID":"6ae0dc5f9f80d41613bcc6b6","ProjectedDuration":null,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Oct 27, 04:30 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 27, 10:14 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 27, 10:14 AM","Status":"Active"},"type":"Feature"}
+
 ]}
