@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.01375,37.694136],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-27T09:30:49.013-07:00","outageName":"51823554","outagePoint":{"lat":37.694135802607676,"lng":-121.01375014777254},"outageRecID":"2026-10-27-0218","outageStartTime":"2026-10-27T09:30:45.337-07:00","outageWorkStatus":"","streetsAffected":["Amigo Drive"],"verified":false},"type":"Feature"}
 ]}
