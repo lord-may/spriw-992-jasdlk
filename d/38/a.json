@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-111.317487,32.433441],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390178","nbrOut":1,"planned":false,"timeOff":1793105067072},"type":"Feature"},
-{"geometry":{"coordinates":[-111.328842,32.421567],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390179","nbrOut":1,"planned":false,"timeOff":1793105981777},"type":"Feature"},
-{"geometry":{"coordinates":[-111.303932,32.401652],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390182","lifeCycleStatus":"Line Crews Enroute to outage","nbrOut":76,"planned":false,"timeOff":1793110671000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.325033,32.281091],"type":"Point"},"properties":{"cause":"98 OTHER NON-OUTAGE (SEE REMARKS)","id":"390183","nbrOut":1,"planned":true,"timeOff":1793111699000},"type":"Feature"},
+{"geometry":{"coordinates":[-111.302782,32.400735],"type":"Point"},"properties":{"cause":"70 VEHICLES","id":"390184","lifeCycleStatus":"Line Crews Assigned","nbrOut":1,"planned":false,"timeOff":1793104435000},"type":"Feature"}
 ]}
