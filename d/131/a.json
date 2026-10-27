@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.893392,40.381845],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-27T10:58:45.613-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-27T08:58:45.657-06:00","outageName":"XFMR222438","outagePoint":{"lat":40.381844574403424,"lng":-111.89339158595573},"outageRecID":"2026-10-27-0034","outageStartTime":"2026-10-27T08:53:26-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["S 2710 W"],"verified":false},"type":"Feature"}
 ]}
