@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-156.31995,20.753038],"type":"Point"},"properties":{"affectedAreas":["Upcountry"],"centerPoint":{"srid":4326,"x":-156.319949735116,"y":20.753037676885388},"company":2,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 08:52 AM HST","outageCause":"Unavailable","outageId":29322,"outageStartTime":"Today at 08:47 AM HST","outageStatus":1,"radius":0.00707106781185402,"totalCustomersAffected":1},"type":"Feature"},
+{"geometry":{"coordinates":[-156.322032,20.749217],"type":"Point"},"properties":{"affectedAreas":["Upcountry"],"centerPoint":{"srid":4326,"x":-156.322032077717,"y":20.749217127255296},"company":2,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 08:52 AM HST","outageCause":"Unavailable","outageId":29323,"outageStartTime":"Today at 08:46 AM HST","outageStatus":1,"radius":0.007071067811859044,"totalCustomersAffected":1},"type":"Feature"}
 ]}
