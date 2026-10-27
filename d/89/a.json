@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.423516,47.006634],"type":"Point"},"properties":{"id":"195101","nbrOut":1,"planned":false,"timeOff":1793106066554},"type":"Feature"}
+{"geometry":{"coordinates":[-123.423516,47.006634],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195101","nbrOut":1,"planned":false,"timeOff":1793106066554},"type":"Feature"},
+{"geometry":{"coordinates":[-123.424154,47.006898],"type":"Point"},"properties":{"id":"195102","nbrOut":1,"planned":false,"timeOff":1793106794858},"type":"Feature"}
 ]}
