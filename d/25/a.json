@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.87778,39.19401],"type":"Point"},"properties":{"cause":"Member Requested Outage","comment":"Planned power outage in the Buttermilk area to move a transformer. Only one residence will be affected.","crewAssigned":true,"estimateTime":1793124000000,"id":"387074","nbrOut":1,"planned":true,"timeOff":1793116800000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.38305,39.646072],"type":"Point"},"properties":{"cause":"Public - Other, Dig-Up","comment":"Planned power outage for underground electrical maintenance in the Vail area due to a dig-up.","crewAssigned":true,"id":"387107","nbrOut":1,"planned":false,"timeOff":1793115376000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.87778,39.19401],"type":"Point"},"properties":{"cause":"Member Requested Outage","comment":"Planned power outage in the Buttermilk area to move a transformer. Only one residence will be affected.","crewAssigned":true,"estimateTime":1793124000000,"id":"387074","nbrOut":1,"planned":true,"timeOff":1793116800000},"type":"Feature"}
 ]}
