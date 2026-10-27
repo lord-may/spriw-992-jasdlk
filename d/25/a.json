@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.03785,39.646979],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Malpais and Dotsero area.","crewAssigned":true,"estimateTime":1793138400000,"id":"386985","nbrOut":88,"planned":true,"timeOff":1793109600000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.03785,39.646979],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Malpais and Dotsero area.","crewAssigned":true,"estimateTime":1793138400000,"id":"386985","nbrOut":88,"planned":false,"timeOff":1793109609000},"type":"Feature"}
 ]}
