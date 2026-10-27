@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.18398,47.615358],"type":"Point"},"properties":{"cause":"Age of material / equip","comment":"At this time there are no new updates. The cause of the outage is primary underground fault. Our crews are working diligently to restore power as safely as possible. \n\nYour estimated time of restoral is 5:00 AM. \n\nThank you for your patience and understanding.","crewAssigned":true,"estimateTime":1793102400000,"id":"527472","lifeCycleStatus":"Crew On Site","nbrOut":1,"planned":false,"timeOff":1793075222000},"type":"Feature"}
+
 ]}
