@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.515,41.645],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 05:30 PM on 10/27","icon":"standard","latitude":41.645,"longitude":-122.515,"outCount":1,"reported":"02:27 PM on 10/27","zip":"96038"},"type":"Feature"},
-{"geometry":{"coordinates":[-121.332,41.846],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 05:30 PM on 10/27","icon":"standard","latitude":41.846,"longitude":-121.332,"outCount":1,"reported":"02:28 PM on 10/27","zip":"96134"},"type":"Feature"}
+
 ]}
