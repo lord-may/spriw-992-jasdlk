@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.986152,20.755808],"type":"Point"},"properties":{"affectedAreas":["East Maui"],"centerPoint":{"srid":4326,"x":-155.98615194986002,"y":20.755807616133794},"company":2,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 10:22 PM HST","outageCause":"Unavailable","outageId":29318,"outageStartTime":"Today at 09:41 PM HST","outageStatus":1,"radius":0.007071067811836435,"totalCustomersAffected":1},"type":"Feature"}
+
 ]}
