@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-121.724856,47.488382],[-121.724919,47.4901],[-121.725485,47.489505],[-121.724856,47.488382]]],"type":"Polygon"},{"coordinates":[-121.725081,47.489329],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Scheduled Construction","id":"262228","nbrOut":4,"planned":false,"timeOff":1793118600000},"type":"Feature"},
-{"geometry":{"coordinates":[-121.723212,47.48633],"type":"Point"},"properties":{"cause":"Scheduled Construction","id":"262229","nbrOut":1,"planned":false,"timeOff":1793118600000},"type":"Feature"},
 {"geometry":{"coordinates":[-121.722512,47.48721],"type":"Point"},"properties":{"cause":"Scheduled Construction","id":"262230","nbrOut":2,"planned":true,"timeOff":1793116800000},"type":"Feature"}
 ]}
