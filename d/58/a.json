@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.389488,47.862644],"type":"Point"},"properties":{"cause":"Cause Being Investigated","comment":"Inland Power has identified the cause of the outage as an underground fault. We have requested additional crews and resources to make repairs. Our crews are working as quickly and safely as possible to restore power.\n\nEstimated time of restoral is Tuesday, October 27th at 12:30 AM.\n\nThank you for your patience and understanding.","crewAssigned":true,"estimateTime":1793086200000,"id":"527471","lifeCycleStatus":"Crew On Site","nbrOut":2,"planned":false,"timeOff":1793057758000},"type":"Feature"}
+
 ]}
