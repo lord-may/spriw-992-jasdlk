@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-116.160707,33.61221],[-116.158775,33.612335],[-116.160213,33.613496],[-116.160707,33.61221]]],"type":"Polygon"},"properties":{"Area":"Addresses Affected: 2","Circuit":"","CityID":26353,"CityName":"Thermal","CustomerAffected":"15","OutageLatitude":33.6130852617327,"OutageLongitude":-116.160020021143,"OutageReportInfo":"Avenue 60, Van Buren, HWY 86 Thermal","Outagedate":"10/27/26 01:00 PM","OutagedateDB":"2026-10-27T13:00:00","RestorationTime":"","Restorationdate":"","RestorationdateDB":null,"STATUS":"Unresolved","ServiceTypeID":1,"Title":"Power Outage","ZipCode":"92274"},"type":"Feature"}
+
 ]}
