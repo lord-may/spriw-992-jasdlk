@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-110.977637,42.996968],"type":"Point"},"properties":{"adminstatus":"Acknowledged","comments":"Note: NISCiVUE CCB:9:43 AM:Power out, submitted by tmcneel\n","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"22557","lat":"42.9969680872604","lng":"-110.977637201306","name":"TC (391 ASPEN WAY) <73619029>","priority":null,"starttime":"Oct 27 2026  9:43AM","status1":"","status2":"Unknown","substation":null,"totalaffected":"60","totalcalls":"0","totalouttime":null,"totalxfmr":null,"type":"Primary Fault"},"type":"Feature"}
 ]}
