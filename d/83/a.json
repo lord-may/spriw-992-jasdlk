@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-114.906842,36.390639],"type":"Point"},"properties":{"CAUSEDESC":"Pole-mounted Transformer Problem","ERTDATETIME":"10/26/2026 06:30:00 PM","EVENTID":"1865913","LATITUDE":36.3906392,"LONGITUDE":-114.9068417,"NUMCUSTDEENERGIZED":2,"STARTDATETIME":"10/26/2026 12:52:43 PM","XCORD":2256329,"YCORD":13219529},"type":"Feature"},
+{"geometry":{"coordinates":[-114.906842,36.390639],"type":"Point"},"properties":{"CAUSEDESC":"Pole-mounted Transformer Problem","ERTDATETIME":"10/26/2026 11:30:00 PM","EVENTID":"1865913","LATITUDE":36.3906392,"LONGITUDE":-114.9068417,"NUMCUSTDEENERGIZED":2,"STARTDATETIME":"10/26/2026 12:52:43 PM","XCORD":2256329,"YCORD":13219529},"type":"Feature"},
 {"geometry":{"coordinates":[-115.187024,36.177372],"type":"Point"},"properties":{"CAUSEDESC":"Pole-mounted Equipment Failure","ERTDATETIME":"10/26/2026 09:30:00 PM","EVENTID":"1865957","LATITUDE":36.1773721,"LONGITUDE":-115.1870236,"NUMCUSTDEENERGIZED":2,"STARTDATETIME":"10/26/2026 06:21:13 PM","XCORD":2175331,"YCORD":13140239},"type":"Feature"}
 ]}

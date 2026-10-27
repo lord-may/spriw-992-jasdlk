@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.410871,38.536003],"type":"Point"},"properties":{"AFFECTEDAREA":"Oak Park","CALLCOUNT":"0","CAUSE_CODE":"BROKEN/MALFUNCTION","CUSTOMERSIMPACTED":"3","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Today at  8:30 PM","EVENTNUMBER":"J26102600078","OUTAGEBEGINTIME":"Today at  6:57 PM","OUTAGEDESCRIPTION":"Damaged equipment","OUTAGE_STATUS":"20 - ASSESSING","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.410870853794","Y_COORD":"38.5360033210194","name":"3","style":"Style3"},"type":"Feature"}
+
 ]}
