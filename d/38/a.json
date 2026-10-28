@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.377099,31.97777],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1793240689000,"id":"390200","nbrOut":2,"planned":false,"timeOff":1793229889000},"type":"Feature"}
 ]}

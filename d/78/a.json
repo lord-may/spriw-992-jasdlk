@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-155.088805,19.721465],"type":"Point"},"properties":{"affectedAreas":["Hilo"],"centerPoint":{"srid":4326,"x":-155.08880494664797,"y":19.721464604408993},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 01:35 PM HST","outageCause":"Unavailable","outageId":46367,"outageStartTime":"Today at 01:19 PM HST","outageStatus":1,"radius":0.007071067811876629,"totalCustomersAffected":1},"type":"Feature"}
 ]}

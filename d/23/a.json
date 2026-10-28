@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.417695,38.578657],"type":"Point"},"properties":{"AFFECTEDAREA":"Arden","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26102800105","OUTAGEBEGINTIME":"Today at  4:34 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.417695366166","Y_COORD":"38.57865713057","name":"1","style":"Style3"},"type":"Feature"}
 ]}
