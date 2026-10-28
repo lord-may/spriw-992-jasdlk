@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.47086,45.657497],"type":"Point"},"properties":{"affectedCustomerCount":4,"cause":"Tree into power lines","estimatedRestoration":"2026-10-28T11:00:00.000-07:00","key":"41789","lat":45.657497,"lon":-122.47086,"reported":"2026-10-28T07:52:00.000-07:00","status":null},"type":"Feature"},
 {"geometry":{"coordinates":[-122.63686,45.794445],"type":"Point"},"properties":{"affectedCustomerCount":0,"cause":"Planned Maintenance","estimatedRestoration":"2026-10-28T16:30:00.000-07:00","key":"41790","lat":45.794445,"lon":-122.63686,"reported":"2026-10-28T09:13:00.000-07:00","status":null},"type":"Feature"},
-{"geometry":{"coordinates":[-122.390526,45.9246],"type":"Point"},"properties":{"affectedCustomerCount":143,"cause":"Planned Maintenance","estimatedRestoration":"2026-10-28T10:30:00.000-07:00","key":"41791","lat":45.9246,"lon":-122.390526,"reported":"2026-10-28T09:34:00.000-07:00","status":null},"type":"Feature"},
 {"geometry":{"coordinates":[-122.57821,45.615665],"type":"Point"},"properties":{"affectedCustomerCount":4,"cause":"Equipment problem","estimatedRestoration":"2026-10-28T13:00:00.000-07:00","key":"41792","lat":45.615665,"lon":-122.57821,"reported":"2026-10-28T09:45:00.000-07:00","status":null},"type":"Feature"}
 ]}
