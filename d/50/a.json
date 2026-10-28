@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-120.37812,40.159805],[-120.37476,40.159908],[-120.374401,40.162826],[-120.37653,40.161666],[-120.37812,40.159805]]],"type":"Polygon"},{"coordinates":[-120.375865,40.160952],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Other planned","comment":"Outage for transformer change out.","crewAssigned":false,"estimateTime":1793206800000,"id":"232272","nbrOut":4,"planned":true,"timeOff":1793199600000},"type":"Feature"}
 ]}
