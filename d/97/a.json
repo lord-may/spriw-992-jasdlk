@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.243671,47.597422],"type":"Point"},"properties":{"AffectedCustomers":11,"Cause":"Scheduled work being conducted in the area","CommunityName":"Spencer Canyon","CrewDispatched":"","EndTimeFormatted":"Oct 28, 12:32 PM","EstimatedEndTime":null,"OBJECTID":1826,"OutageID":"6ae223929f80d41613bce7a5","ProjectedDuration":null,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Oct 28, 12:32 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Oct 28, 09:32 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Oct 28, 09:32 AM","Status":"Active"},"type":"Feature"}
 ]}
