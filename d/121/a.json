@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-115.544101,32.990619],[-115.552598,32.988243],[-115.555345,32.982123],[-115.555431,32.978739],[-115.548221,32.978667],[-115.543328,32.978667],[-115.543586,32.979027],[-115.544101,32.990619]]],"type":"Polygon"},"properties":{"Area":"Addresses Affected: 2","Circuit":"","CityID":2967,"CityName":"Brawley","CustomerAffected":"498","OutageLatitude":32.98399512190228,"OutageLongitude":-115.548478237944,"OutageReportInfo":"Outage in the city of Brawley.","Outagedate":"10/28/26 12:47 AM","OutagedateDB":"2026-10-28T00:47:00","RestorationTime":"","Restorationdate":"","RestorationdateDB":null,"STATUS":"Unresolved","ServiceTypeID":1,"Title":"Power Outage","ZipCode":"92227"},"type":"Feature"}
 ]}
