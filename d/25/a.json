@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.828399,39.650575],"type":"Point"},"properties":{"cause":"Member Requested Outage","comment":"Planned power outage for Comcast construction in the Eagle area affecting six services. There will be intermittent power outages between 8:00 AM and 5:00 PM. ","crewAssigned":true,"estimateTime":1793228400000,"id":"387103","nbrOut":6,"planned":false,"timeOff":1793196000000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.005592,39.384094],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Basalt Mountain area.","crewAssigned":true,"estimateTime":1793221200000,"id":"387113","nbrOut":5,"planned":true,"timeOff":1793199300000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.581758,39.64839],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","crewAssigned":true,"id":"387118","nbrOut":2,"planned":false,"timeOff":1793192827000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.581758,39.64839],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","crewAssigned":true,"id":"387118","nbrOut":2,"planned":false,"timeOff":1793192827000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.828246,39.650575],"type":"Point"},"properties":{"crewAssigned":false,"id":"387124","nbrOut":1,"planned":false,"timeOff":1793200847000},"type":"Feature"}
 ]}
