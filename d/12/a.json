@@ -1,9 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.928204,45.559826],"type":"Point"},"properties":{"eventId":"2513229","lat":"45.55982557","long":"-122.92820381","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.844539,45.488293],"type":"Point"},"properties":{"eventId":"2519387","lat":"45.48829270","long":"-122.84453892","totalCustomersImpacted":12},"type":"Feature"},
-{"geometry":{"coordinates":[-122.452108,45.417218],"type":"Point"},"properties":{"eventId":"2519409","lat":"45.41721797","long":"-122.45210774","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.827473,45.388082],"type":"Point"},"properties":{"eventId":"2519417","lat":"45.38808155","long":"-122.82747334","totalCustomersImpacted":1},"type":"Feature"},
-{"geometry":{"coordinates":[-122.343107,45.340599],"type":"Point"},"properties":{"eventId":"2519432","lat":"45.34059908","long":"-122.34310670","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.715385,45.401741],"type":"Point"},"properties":{"eventId":"2519435","lat":"45.40174110","long":"-122.71538472","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.553675,45.48093],"type":"Point"},"properties":{"eventId":"2519498","lat":"45.48093042","long":"-122.55367488","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.48929,45.559809],"type":"Point"},"properties":{"eventId":"2519515","lat":"45.55980893","long":"-122.48928982","totalCustomersImpacted":1},"type":"Feature"},
@@ -12,11 +10,12 @@
 {"geometry":{"coordinates":[-123.24298,45.452158],"type":"Point"},"properties":{"eventId":"2519533","lat":"45.45215764","long":"-123.24297955","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-123.243508,45.453147],"type":"Point"},"properties":{"eventId":"2519534","lat":"45.45314673","long":"-123.24350761","totalCustomersImpacted":3},"type":"Feature"},
 {"geometry":{"coordinates":[-123.066464,45.505959],"type":"Point"},"properties":{"eventId":"2519542","lat":"45.50595882","long":"-123.06646410","totalCustomersImpacted":1},"type":"Feature"},
-{"geometry":{"coordinates":[-122.787698,45.436597],"type":"Point"},"properties":{"eventId":"2519547","lat":"45.43659661","long":"-122.78769811","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.529257,45.314155],"type":"Point"},"properties":{"eventId":"2519548","lat":"45.31415457","long":"-122.52925716","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.5278,45.314175],"type":"Point"},"properties":{"eventId":"2519549","lat":"45.31417475","long":"-122.52779993","totalCustomersImpacted":3},"type":"Feature"},
 {"geometry":{"coordinates":[-122.526748,45.314202],"type":"Point"},"properties":{"eventId":"2519550","lat":"45.31420175","long":"-122.52674822","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.638634,45.393261],"type":"Point"},"properties":{"eventId":"2519555","lat":"45.39326123","long":"-122.63863443","totalCustomersImpacted":3},"type":"Feature"},
 {"geometry":{"coordinates":[-122.988709,44.873888],"type":"Point"},"properties":{"eventId":"2519566","lat":"44.87388801","long":"-122.98870908","totalCustomersImpacted":3},"type":"Feature"},
-{"geometry":{"coordinates":[-122.988497,44.87355],"type":"Point"},"properties":{"eventId":"2519568","lat":"44.87354990","long":"-122.98849702","totalCustomersImpacted":1},"type":"Feature"}
+{"geometry":{"coordinates":[-122.97945,45.304568],"type":"Point"},"properties":{"eventId":"2519573","lat":"45.30456767","long":"-122.97944990","totalCustomersImpacted":1},"type":"Feature"},
+{"geometry":{"coordinates":[-122.488826,45.555632],"type":"Point"},"properties":{"eventId":"2519579","lat":"45.55563165","long":"-122.48882592","totalCustomersImpacted":1},"type":"Feature"},
+{"geometry":{"coordinates":[-122.72517,45.518964],"type":"Point"},"properties":{"eventId":"2519580","lat":"45.51896400","long":"-122.72516963","totalCustomersImpacted":1},"type":"Feature"}
 ]}
