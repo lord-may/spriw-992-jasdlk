@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.652496,47.499653],"type":"Point"},"properties":{"cause":"Planned Outage - Construction ","comment":"Inland Power crews are on site installing a new service.","crewAssigned":true,"id":"527503","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793203992527},"type":"Feature"}
+{"geometry":{"coordinates":[-117.652496,47.499653],"type":"Point"},"properties":{"cause":"Planned Outage - Construction ","comment":"Inland Power crews are on site installing a new service.","crewAssigned":true,"id":"527503","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793203992527},"type":"Feature"},
+{"geometry":{"coordinates":[-117.686857,47.892715],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Power contract crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527504","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793205679705},"type":"Feature"}
 ]}
