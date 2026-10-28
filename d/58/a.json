@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-117.652496,47.499653],"type":"Point"},"properties":{"cause":"Planned Outage - Construction ","comment":"Inland Power crews are on site installing a new service.","crewAssigned":true,"id":"527503","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793203992527},"type":"Feature"}
 ]}

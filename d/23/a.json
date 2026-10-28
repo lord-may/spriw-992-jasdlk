@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.383082,38.514764],"type":"Point"},"properties":{"AFFECTEDAREA":"Army Depot","CALLCOUNT":"0","CAUSE_CODE":"PLANNED OUTAGE","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Today at  12:00 PM","EVENTNUMBER":"J26102800045","OUTAGEBEGINTIME":"Today at  9:02 AM","OUTAGEDESCRIPTION":"Planned maintenance","OUTAGE_STATUS":"40 - REPAIR IN PROGRESS","PLANNEDOUTAGE":"Planned maintenance","X_COORD":"-121.38308209588","Y_COORD":"38.5147637177038","name":"1","style":"Style1"},"type":"Feature"}
 ]}
