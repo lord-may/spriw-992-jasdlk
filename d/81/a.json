@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.033231,37.646265],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T11:48:19.483-07:00","outageName":"51800519","outagePoint":{"lat":37.64626468787829,"lng":-121.03323095835876},"outageRecID":"2026-10-28-0225","outageStartTime":"2026-10-28T11:47:47-07:00","outageWorkStatus":"","streetsAffected":["Kansas Avenue"],"verified":false},"type":"Feature"}
 ]}
