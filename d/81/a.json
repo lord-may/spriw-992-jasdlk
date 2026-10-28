@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.033546,37.646893],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":34,"customersOutNow":34,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T11:54:46.647-07:00","outageName":"OF8E5-7","outagePoint":{"lat":37.646893353170164,"lng":-121.03354562395958},"outageRecID":"2026-10-28-0225","outageStartTime":"2026-10-28T11:47:47-07:00","outageWorkStatus":"","streetsAffected":["Grassland Way","Kansas Avenue","Nighthawk Way","Plateau Way"],"verified":true},"type":"Feature"}
+
 ]}
