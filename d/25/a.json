@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.005592,39.384094],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Basalt Mountain area.","crewAssigned":true,"estimateTime":1793221200000,"id":"387113","nbrOut":5,"planned":false,"timeOff":1793201832000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.82839,39.650887],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"387126","nbrOut":6,"planned":false,"timeOff":1793200847000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.005592,39.384094],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Basalt Mountain area.","crewAssigned":true,"estimateTime":1793221200000,"id":"387113","nbrOut":5,"planned":false,"timeOff":1793201832000},"type":"Feature"}
 ]}
