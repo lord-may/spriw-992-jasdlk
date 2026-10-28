@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.112689,34.65003],"type":"Point"},"properties":{"APSArea":"Northeastern Arizona","Boundary":"Round Up Ln to Starlight Dr and Apache Dr to Hwy 87","Cause":"Being Investigated","City":"Happy Jack","Comments":"We are assessing the issue and will provide an update once we know more. Thank you for your patience.","MediaLink":null,"OBJECTID":13405,"Ticket":"7186484233","customers":156,"datastatus":"current","etr":1793212800000,"latLong":"34.650029684671_-111.1126892886","off":1793200500000,"outageimpact":"Large","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
