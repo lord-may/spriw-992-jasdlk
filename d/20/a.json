@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-118.292484,34.108721],"type":"Point"},"properties":{"CENTROID_LAT":34.108720999999996,"CENTROID_LNG":-118.292484,"CITY_NAM":"LOS FELIZ","COUNT_IN_RANK":93,"COUNT_OTHERS":null,"ETR_DATETIME":1793185200000,"ETR_DATETIME_CHAR":"10/28/2026 11:00","FAC_JOB_STATUS_NAM":"ASSIGNED","OBJECTID":264847,"OUTAGE_RANK":1},"type":"Feature"}
 ]}

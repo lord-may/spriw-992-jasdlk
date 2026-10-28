@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.296927,36.090296],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1866122","LATITUDE":36.0902959,"LONGITUDE":-115.2969273,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"10/28/2026 06:54:39 AM","XCORD":2143457,"YCORD":13107960},"type":"Feature"},
+{"geometry":{"coordinates":[-115.104802,36.248028],"type":"Point"},"properties":{"CAUSEDESC":"Planned shutdown at Customer Request","ERTDATETIME":null,"EVENTID":"1866123","LATITUDE":36.248028,"LONGITUDE":-115.1048022,"NUMCUSTDEENERGIZED":2,"STARTDATETIME":"10/28/2026 06:55:41 AM","XCORD":2199090,"YCORD":13166419},"type":"Feature"}
 ]}
