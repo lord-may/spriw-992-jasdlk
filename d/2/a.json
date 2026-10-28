@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-116.4925,32.6677],[-116.4903,32.6685],[-116.4893,32.6689],[-116.4925,32.6695],[-116.4925,32.6677]]],"type":"Polygon"},{"coordinates":[-116.49142,32.66869],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Our equipment has been damaged and our crews need to make repairs.","es-US":"Nuestro equipo esta dañado y nuestro personal necesita realizar reparaciones.","orig":"Device/Equipment Damaged"},"circuits":"449","cluster":false,"comments":null,"communities":"Japatul Valley/ Buckman Springs/ Morena Village","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"7","etr":"2026-10-29T00:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-28T22:45Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
