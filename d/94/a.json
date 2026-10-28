@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.700797,64.813466],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T12:58:13.887-08:00","outageName":"SFS R3 TRA_318942","outagePoint":{"lat":64.81346634890625,"lng":-147.7007973190065},"outageRecID":"2026-10-28-0412","outageStartTime":"2026-10-28T12:53:29-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
