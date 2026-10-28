@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.952694,33.424705],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Hardy Dr. and 7th St.","Cause":"Planned outage","City":"Tempe","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13397,"Ticket":"PO 26-23408","customers":13,"datastatus":"current","etr":1793174400000,"latLong":"33.424704694358_-111.9526937421","off":1793164620000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
+
 ]}

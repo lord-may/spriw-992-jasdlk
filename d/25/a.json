@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-106.581758,39.64839],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","crewAssigned":true,"id":"387118","nbrOut":2,"planned":false,"timeOff":1793192827000},"type":"Feature"}
 ]}

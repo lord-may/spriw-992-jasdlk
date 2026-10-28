@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-117.2343,32.8658],[-117.234,32.8665],[-117.2343,32.8676],[-117.2354,32.8676],[-117.2355,32.8666],[-117.2343,32.8658]]],"type":"Polygon"},{"coordinates":[-117.23473,32.86683],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando."},"circuits":"65","cluster":false,"comments":null,"communities":"La Jolla/ La Jolla Shores/ Soledad Mountain","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"277","etr":"2026-10-28T16:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-28T12:59:35Z","title":"Area Outage"},"type":"Feature"}
 ]}
