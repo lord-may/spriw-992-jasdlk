@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.943278,36.190121],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-29T08:12:54.68-07:00","outageName":"08812","outagePoint":{"lat":36.19012144821504,"lng":-115.94327814367766},"outageRecID":"2026-10-29-0176","outageStartTime":"2026-10-29T08:12:09-07:00","outageWorkStatus":"","streetsAffected":["E WINERY"],"verified":true},"type":"Feature"}
 ]}
