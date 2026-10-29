@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.360086,64.755358],"type":"Point"},"properties":{"cause":"490 Maintenance, other","code":"490","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-29T15:06:04.717-08:00","outageName":"HPS R1 SER_1723720","outagePoint":{"lat":64.75535782587015,"lng":-147.36008561163763},"outageRecID":"2026-10-29-0426","outageStartTime":"2026-10-29T14:39:36-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
