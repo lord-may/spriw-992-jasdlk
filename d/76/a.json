@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.168517,44.041447],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Rapid City East","outageStepOffTime":"2026-10-29T00:51:52Z","publishedEtr":"2026-10-29T03:01:54Z"},"geoJSONPolygon":null,"id":"6ae298aa48f679462e2fd204","lat":44.04144706,"lon":-103.1685175,"serviceType":"Electric"},"type":"Feature"}
+
 ]}
