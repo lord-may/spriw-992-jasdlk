@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.708685,38.67431],"type":"Point"},"properties":{"cause":"Animal, Bird","crewAssigned":true,"estimateTime":1793310300000,"id":"251975","nbrOut":1,"planned":false,"timeOff":1793302945000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.708685,38.67431],"type":"Point"},"properties":{"cause":"Animal, Bird","crewAssigned":true,"estimateTime":1793310300000,"id":"251975","nbrOut":1,"planned":false,"timeOff":1793302945000},"type":"Feature"},
+{"geometry":{"coordinates":[-107.960097,38.912027],"type":"Point"},"properties":{"cause":"Cause unknown","crewAssigned":false,"estimateTime":1793322000000,"id":"252024","nbrOut":1,"planned":false,"timeOff":1793313999539},"type":"Feature"}
 ]}
