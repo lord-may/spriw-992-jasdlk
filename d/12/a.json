@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.928204,45.559826],"type":"Point"},"properties":{"eventId":"2513229","lat":"45.55982557","long":"-122.92820381","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.451676,45.417454],"type":"Point"},"properties":{"eventId":"2520107","lat":"45.41745403","long":"-122.45167603","totalCustomersImpacted":2},"type":"Feature"},
-{"geometry":{"coordinates":[-123.065611,45.476628],"type":"Point"},"properties":{"eventId":"2520138","lat":"45.47662813","long":"-123.06561073","totalCustomersImpacted":1},"type":"Feature"},
-{"geometry":{"coordinates":[-123.063362,45.476321],"type":"Point"},"properties":{"eventId":"2520150","lat":"45.47632061","long":"-123.06336162","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.986013,45.051658],"type":"Point"},"properties":{"eventId":"2520158","lat":"45.05165795","long":"-122.98601296","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.986145,45.051437],"type":"Point"},"properties":{"eventId":"2520159","lat":"45.05143698","long":"-122.98614483","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.986349,45.051093],"type":"Point"},"properties":{"eventId":"2520160","lat":"45.05109318","long":"-122.98634870","totalCustomersImpacted":1},"type":"Feature"},
@@ -14,7 +12,6 @@
 {"geometry":{"coordinates":[-122.707243,45.349045],"type":"Point"},"properties":{"eventId":"2520270","lat":"45.34904489","long":"-122.70724298","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.708151,45.434274],"type":"Point"},"properties":{"eventId":"2520271","lat":"45.43427431","long":"-122.70815061","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.583868,45.382189],"type":"Point"},"properties":{"eventId":"2520292","lat":"45.38218858","long":"-122.58386823","totalCustomersImpacted":5},"type":"Feature"},
-{"geometry":{"coordinates":[-123.022706,44.931712],"type":"Point"},"properties":{"eventId":"2520300","lat":"44.93171247","long":"-123.02270612","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.945834,45.290074],"type":"Point"},"properties":{"eventId":"2520301","lat":"45.29007441","long":"-122.94583415","totalCustomersImpacted":4},"type":"Feature"},
 {"geometry":{"coordinates":[-121.724159,45.284242],"type":"Point"},"properties":{"eventId":"2520305","lat":"45.28424227","long":"-121.72415864","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-121.713618,45.257344],"type":"Point"},"properties":{"eventId":"2520306","lat":"45.25734401","long":"-121.71361754","totalCustomersImpacted":1},"type":"Feature"},
@@ -41,5 +38,7 @@
 {"geometry":{"coordinates":[-121.738538,45.288862],"type":"Point"},"properties":{"eventId":"2520336","lat":"45.28886150","long":"-121.73853822","totalCustomersImpacted":3},"type":"Feature"},
 {"geometry":{"coordinates":[-121.740457,45.287737],"type":"Point"},"properties":{"eventId":"2520338","lat":"45.28773710","long":"-121.74045669","totalCustomersImpacted":3},"type":"Feature"},
 {"geometry":{"coordinates":[-122.434097,45.436855],"type":"Point"},"properties":{"eventId":"2520345","lat":"45.43685509","long":"-122.43409749","totalCustomersImpacted":1},"type":"Feature"},
-{"geometry":{"coordinates":[-123.010492,44.953358],"type":"Point"},"properties":{"eventId":"2520346","lat":"44.95335762","long":"-123.01049196","totalCustomersImpacted":13},"type":"Feature"}
+{"geometry":{"coordinates":[-123.010492,44.953358],"type":"Point"},"properties":{"eventId":"2520346","lat":"44.95335762","long":"-123.01049196","totalCustomersImpacted":13},"type":"Feature"},
+{"geometry":{"coordinates":[-122.655582,45.347292],"type":"Point"},"properties":{"eventId":"2520363","lat":"45.34729245","long":"-122.65558205","totalCustomersImpacted":5},"type":"Feature"},
+{"geometry":{"coordinates":[-122.31718,45.295471],"type":"Point"},"properties":{"eventId":"2520365","lat":"45.29547070","long":"-122.31718001","totalCustomersImpacted":2},"type":"Feature"}
 ]}

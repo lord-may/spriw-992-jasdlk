@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.900729,61.19391],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"DOMINIC HODGE","CUSTOMERS_AFFECTED":"7","EST_RESTORATION":"-","FEEDER":"WPSS 442","LATITUDE":"61.19391","LONGITUDE":"-149.900729","OUTAGE_START":"10/29/2026 07:14","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
+
 ]}
