@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.090164,34.259166],"type":"Point"},"properties":{"crewAssigned":false,"id":"535807","nbrOut":54,"planned":false,"timeOff":1793289607000},"type":"Feature"}
+{"geometry":{"coordinates":[-110.090164,34.259166],"type":"Point"},"properties":{"cause":"MAINTENANCE                   ","comment":"We are aware of your outage. Our crews had to turn off the power to safely perform some maintenance work. They will restore power just as soon as is possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":true,"id":"535807","nbrOut":54,"planned":true,"timeOff":1793289607000},"type":"Feature"}
 ]}
