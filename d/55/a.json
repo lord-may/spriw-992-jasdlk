@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-122.779748,48.642682],[-122.780296,48.64302],[-122.780395,48.643014],[-122.779748,48.642682]]],"type":"Polygon"},{"coordinates":[-122.780143,48.642907],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"ORDINARY MAINTENANCE (PLANNED)","crewAssigned":false,"estimateTime":1793300400000,"id":"302297","nbrOut":3,"planned":true,"timeOff":1793289600000},"type":"Feature"}
+
 ]}
