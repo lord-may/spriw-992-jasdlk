@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-116.99852,46.3998],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","es-US":"Bajo investigación","orig":"DEFAULT"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assessing condition","es-US":"En espera","orig":"BlueSkyCrewStatusAssessing"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-29T08:30:54Z","etr_confidence":null,"externalComments":{"EN-US":"The outage has been reported. We  are identifying and scheduling  resources to restore power as quickly  and safely as possible.","es-US":"Se ha reportado el corte de energía.  Estamos identificando y programando  recursos para restablecer la energía lo  más rápido y seguro posible.","orig":"BlueSkyCommentAssessing"},"inc_id":null,"infoupdated":"2026-10-29T04:39:34Z","n_out":1,"start_time":"2026-10-29T04:35:53Z","title":"Area Outage"},"type":"Feature"}
 ]}
