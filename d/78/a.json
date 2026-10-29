@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-155.048686,19.673192],"type":"Point"},"properties":{"affectedAreas":["Waiakeawaena"],"centerPoint":{"srid":4326,"x":-155.048685768898,"y":19.67319169597649},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 02:50 PM HST","outageCause":"Unavailable","outageId":46368,"outageStartTime":"Today at 02:44 PM HST","outageStatus":1,"radius":0.007071067811856532,"totalCustomersAffected":1},"type":"Feature"}
 ]}
