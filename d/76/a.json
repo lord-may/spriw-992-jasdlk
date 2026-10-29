@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-104.199008,43.851765],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Gillette East","outageStepOffTime":"2026-10-29T15:51:08Z","publishedEtr":"2026-10-29T17:41:11Z"},"geoJSONPolygon":null,"id":"6ae36b6f48f679462e30a641","lat":43.85176508,"lon":-104.199008,"serviceType":"Electric"},"type":"Feature"}
 ]}
