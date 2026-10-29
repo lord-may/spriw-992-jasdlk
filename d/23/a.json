@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.501325,38.5739],"type":"Point"},"properties":{"AFFECTEDAREA":"Downtown Sacramento","CALLCOUNT":"0","CAUSE_CODE":"PLANNED OUTAGE","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Today at  3:30 PM","EVENTNUMBER":"J26102900029","OUTAGEBEGINTIME":"Today at  7:47 AM","OUTAGEDESCRIPTION":"Planned maintenance","OUTAGE_STATUS":"40 - REPAIR IN PROGRESS","PLANNEDOUTAGE":"Planned maintenance","X_COORD":"-121.501324804649","Y_COORD":"38.5739004489124","name":"1","style":"Style1"},"type":"Feature"}
 ]}
