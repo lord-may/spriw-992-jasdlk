@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.443161,38.614605],"type":"Point"},"properties":{"AFFECTEDAREA":"North Sacramento","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26102900111","OUTAGEBEGINTIME":"Today at  7:44 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.443160934158","Y_COORD":"38.6146047763541","name":"1","style":"Style3"},"type":"Feature"}
 ]}
