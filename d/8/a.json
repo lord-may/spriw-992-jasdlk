@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.305,46.021],"type":"Point"},"properties":{"cause":"Vehicle Accident","crewStatus":"Crews Notified","custOut":43,"etr":"Before 06:00 PM on 10/30","icon":"standard","latitude":46.021,"longitude":-118.305,"outCount":1,"reported":"11:34 AM on 10/30","zip":"99362"},"type":"Feature"},
 {"geometry":{"coordinates":[-120.524,46.581],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 04:00 PM on 10/30","icon":"standard","latitude":46.581,"longitude":-120.524,"outCount":1,"reported":"12:55 PM on 10/30","zip":"98902"},"type":"Feature"}
 ]}
