@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.502739,47.195914],"type":"Point"},"properties":{"Cause":"Current Outage","Created":1793294331000,"CustAffected":4,"ETR":null,"OBJECTID":1,"OutageID":2001185129,"Outage_Cause_Details":"Current Outage","Status":"Outage Reported"},"type":"Feature"}
+
 ]}
