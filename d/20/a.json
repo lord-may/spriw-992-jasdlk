@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.341444,34.136479],"type":"Point"},"properties":{"CENTROID_LAT":34.136479,"CENTROID_LNG":-118.341444,"CITY_NAM":"HOLLYWOOD HILLS","COUNT_IN_RANK":1,"COUNT_OTHERS":null,"ETR_DATETIME":null,"ETR_DATETIME_CHAR":null,"FAC_JOB_STATUS_NAM":"ASSIGNED","OBJECTID":265091,"OUTAGE_RANK":1},"type":"Feature"}
+{"geometry":{"coordinates":[-118.341444,34.136479],"type":"Point"},"properties":{"CENTROID_LAT":34.136479,"CENTROID_LNG":-118.341444,"CITY_NAM":"HOLLYWOOD HILLS","COUNT_IN_RANK":1,"COUNT_OTHERS":null,"ETR_DATETIME":null,"ETR_DATETIME_CHAR":null,"FAC_JOB_STATUS_NAM":"ASSIGNED","OBJECTID":265092,"OUTAGE_RANK":1},"type":"Feature"}
 ]}
