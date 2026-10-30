@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-122.889136,46.195794],[-122.887402,46.195893],[-122.888848,46.197367],[-122.889136,46.195794]]],"type":"Polygon"},{"coordinates":[-122.888462,46.196353],"type":"Point"}],"type":"GeometryCollection"},"properties":{"causeGroup":"Investigating","crewAssigned":true,"estimateTime":1793376000000,"id":"290883","nbrOut":5,"timeOff":1793364731000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.891795,46.296962],"type":"Point"},"properties":{"causeGroup":"Investigating","crewAssigned":true,"estimateTime":1793377800000,"id":"290884","nbrOut":1,"timeOff":1793366897000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-122.889136,46.195794],[-122.887402,46.195893],[-122.888848,46.197367],[-122.889136,46.195794]]],"type":"Polygon"},{"coordinates":[-122.888462,46.196353],"type":"Point"}],"type":"GeometryCollection"},"properties":{"causeGroup":"Trees / Vegetation","crewAssigned":true,"estimateTime":1793383200000,"id":"290883","nbrOut":5,"timeOff":1793364731000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.891795,46.296962],"type":"Point"},"properties":{"causeGroup":"Investigating","crewAssigned":true,"estimateTime":1793385000000,"id":"290884","nbrOut":1,"timeOff":1793366897000},"type":"Feature"}
 ]}
