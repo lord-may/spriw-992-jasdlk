@@ -9,5 +9,6 @@
 {"geometry":{"coordinates":[-114.598287,35.080572],"type":"Point"},"properties":{"id":"351250","nbrOut":1,"planned":false,"timeOff":1793401140000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.57556,35.127644],"type":"Point"},"properties":{"id":"351252","nbrOut":1,"planned":false,"timeOff":1793402548052},"type":"Feature"},
 {"geometry":{"coordinates":[-114.576593,35.12771],"type":"Point"},"properties":{"id":"351253","nbrOut":1,"planned":false,"timeOff":1793402784059},"type":"Feature"},
-{"geometry":{"coordinates":[-114.578183,35.113691],"type":"Point"},"properties":{"id":"351255","nbrOut":1,"planned":false,"timeOff":1793403250414},"type":"Feature"}
+{"geometry":{"coordinates":[-114.578183,35.113691],"type":"Point"},"properties":{"id":"351255","nbrOut":1,"planned":false,"timeOff":1793403250414},"type":"Feature"},
+{"geometry":{"coordinates":[-114.572272,35.112904],"type":"Point"},"properties":{"cause":"Extreme Storm","id":"351256","nbrOut":810,"planned":false,"timeOff":1793403786992},"type":"Feature"}
 ]}
