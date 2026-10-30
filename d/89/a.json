@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.413869,47.00732],[-123.411111,47.007455],[-123.399729,47.01249],[-123.399001,47.013103],[-123.395444,47.018358],[-123.39451,47.020415],[-123.396962,47.024065],[-123.400538,47.023961],[-123.41571,47.020207],[-123.420112,47.01818],[-123.420992,47.017555],[-123.419833,47.011865],[-123.415593,47.007437],[-123.413869,47.00732]]],"type":"Polygon"},{"coordinates":[-123.408065,47.015963],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"We are actively working on power restoration.","id":"195137","nbrOut":429,"planned":false,"timeOff":1793379099983},"type":"Feature"}
+{"geometry":{"coordinates":[-123.270093,46.840375],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage. Crews are en route to the outage location.","id":"195138","nbrOut":1,"planned":false,"timeOff":1793384705112},"type":"Feature"}
 ]}
