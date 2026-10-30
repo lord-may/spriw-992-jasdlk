@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.139259,36.153909],"type":"Point"},"properties":{"CAUSEDESC":"Planned Shutdown for Service Improvement","ERTDATETIME":null,"EVENTID":"1866587","LATITUDE":36.1539086315704,"LONGITUDE":-115.139258883618,"NUMCUSTDEENERGIZED":32,"STARTDATETIME":"10/30/2026 07:00:07 AM","XCORD":2189589,"YCORD":13131966},"type":"Feature"}
+{"geometry":{"coordinates":[-115.139259,36.153909],"type":"Point"},"properties":{"CAUSEDESC":"Planned Shutdown for Service Improvement","ERTDATETIME":null,"EVENTID":"1866587","LATITUDE":36.1539086315704,"LONGITUDE":-115.139258883618,"NUMCUSTDEENERGIZED":32,"STARTDATETIME":"10/30/2026 07:00:07 AM","XCORD":2189589,"YCORD":13131966},"type":"Feature"},
+{"geometry":{"coordinates":[-115.1341,36.174869],"type":"Point"},"properties":{"CAUSEDESC":"Planned Shutdown for Service Improvement","ERTDATETIME":null,"EVENTID":"1866588","LATITUDE":36.174869,"LONGITUDE":-115.1341002,"NUMCUSTDEENERGIZED":22,"STARTDATETIME":"10/30/2026 07:13:41 AM","XCORD":2190965,"YCORD":13139624},"type":"Feature"}
 ]}
