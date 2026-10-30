@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-118.324652,47.860564],[-118.323286,47.861258],[-118.322496,47.861728],[-118.323044,47.861505],[-118.323879,47.861041],[-118.324652,47.860564]]],"type":"Polygon"},{"coordinates":[-118.323484,47.861209],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"10/30/26: Scheduled outage for repairs, Thank you for your patience and understanding.","crewAssigned":true,"estimateTime":1793390400000,"id":"527604","lifeCycleStatus":"Planned","nbrOut":5,"planned":true,"timeOff":1793386800000},"type":"Feature"}
 ]}
