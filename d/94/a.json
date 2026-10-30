@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.294577,64.774907],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T03:04:22.903-08:00","outageName":"DRS R4 SER_10033614","outagePoint":{"lat":64.77490697482169,"lng":-147.29457665829463},"outageRecID":"2026-10-30-0457","outageStartTime":"2026-10-30T03:00:14-08:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
