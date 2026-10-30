@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.518662,43.950969],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Southern Hills Central","outageStepOffTime":"2026-10-30T01:26:55Z","publishedEtr":"2026-10-30T03:37:00Z"},"geoJSONPolygon":null,"id":"6ae3f26448f679462e31c161","lat":43.9509694,"lon":-103.5186618,"serviceType":"Electric"},"type":"Feature"},
-{"geometry":{"coordinates":[-103.522607,43.94945],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Southern Hills Central","outageStepOffTime":"2026-10-30T01:38:51Z","publishedEtr":"2026-10-30T03:48:54Z"},"geoJSONPolygon":null,"id":"6ae3f52e48f679462e31c191","lat":43.94945045,"lon":-103.5226072,"serviceType":"Electric"},"type":"Feature"}
+
 ]}
