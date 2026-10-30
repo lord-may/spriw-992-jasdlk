@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-110.639195,43.93128],"type":"Point"},"properties":{"adminstatus":"Created","comments":"","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"22582","lat":"43.9312804983166","lng":"-110.639194900333","name":"TC (602 LEEKS MARINA RD LEEKS BOAT HOUSE) <83648192>","priority":null,"starttime":"Oct 30 2026  8:01AM","status1":"","status2":"Unknown","substation":null,"totalaffected":"2","totalcalls":"0","totalouttime":null,"totalxfmr":null,"type":"Primary Fault"},"type":"Feature"}
 ]}
