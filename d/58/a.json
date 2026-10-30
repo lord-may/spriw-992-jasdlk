@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.389389,47.544672],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"527607","nbrOut":1,"planned":false,"timeOff":1793377773000},"type":"Feature"}
+{"geometry":{"coordinates":[-118.401889,47.826934],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Power and Light Crew on site completing maintenance, Thank you  for your patience and understanding.","crewAssigned":true,"id":"527608","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793377825000},"type":"Feature"}
 ]}
