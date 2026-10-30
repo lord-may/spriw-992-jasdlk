@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-120.580178,39.790397],[-120.578642,39.79164],[-120.580645,39.794311],[-120.58166,39.794304],[-120.580178,39.790397]]],"type":"Polygon"},{"coordinates":[-120.580196,39.792448],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Other planned","comment":"PLANNED OUTAGE FOR CREW TO REPLACE UNDERGROUND WIRE AND TRANSFORMER.","crewAssigned":false,"estimateTime":1793307600000,"id":"232322","nbrOut":4,"planned":true,"timeOff":1793293200000},"type":"Feature"},
-{"geometry":{"coordinates":[-120.703121,39.868918],"type":"Point"},"properties":{"cause":"Unknown-will determine later ","crewAssigned":false,"id":"232372","nbrOut":1,"planned":false,"timeOff":1793381446388},"type":"Feature"}
+{"geometry":{"coordinates":[-120.703121,39.868918],"type":"Point"},"properties":{"cause":"Unknown-will determine later ","crewAssigned":true,"id":"232372","nbrOut":1,"planned":false,"timeOff":1793381446388},"type":"Feature"}
 ]}
