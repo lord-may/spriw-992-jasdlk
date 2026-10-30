@@ -1,21 +1,12 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-114.592583,35.084263],"type":"Point"},"properties":{"comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351220","nbrOut":41,"planned":false,"timeOff":1793398320848},"type":"Feature"},
-{"geometry":{"coordinates":[-114.579818,35.115153],"type":"Point"},"properties":{"id":"351222","nbrOut":1,"planned":false,"timeOff":1793398987918},"type":"Feature"},
 {"geometry":{"coordinates":[-114.585459,35.120311],"type":"Point"},"properties":{"id":"351223","nbrOut":1,"planned":false,"timeOff":1793398620000},"type":"Feature"},
-{"geometry":{"coordinates":[-114.585621,35.123045],"type":"Point"},"properties":{"id":"351224","nbrOut":1,"planned":false,"timeOff":1793399052960},"type":"Feature"},
 {"geometry":{"coordinates":[-114.577968,35.127842],"type":"Point"},"properties":{"id":"351225","nbrOut":1,"planned":false,"timeOff":1793399123471},"type":"Feature"},
 {"geometry":{"coordinates":[-114.621167,35.10754],"type":"Point"},"properties":{"id":"351227","nbrOut":1,"planned":false,"timeOff":1793399357553},"type":"Feature"},
-{"geometry":{"coordinates":[-114.566128,35.123853],"type":"Point"},"properties":{"id":"351231","nbrOut":1,"planned":false,"timeOff":1793399461401},"type":"Feature"},
-{"geometry":{"coordinates":[-114.567305,35.127519],"type":"Point"},"properties":{"id":"351232","nbrOut":1,"planned":false,"timeOff":1793399487312},"type":"Feature"},
-{"geometry":{"coordinates":[-114.583986,35.123515],"type":"Point"},"properties":{"id":"351233","nbrOut":1,"planned":false,"timeOff":1793399640000},"type":"Feature"},
-{"geometry":{"coordinates":[-114.563343,35.123897],"type":"Point"},"properties":{"id":"351234","nbrOut":1,"planned":false,"timeOff":1793399707376},"type":"Feature"},
 {"geometry":{"coordinates":[-114.576782,35.12771],"type":"Point"},"properties":{"id":"351235","nbrOut":1,"planned":false,"timeOff":1793399773000},"type":"Feature"},
-{"geometry":{"coordinates":[-114.578866,35.125866],"type":"Point"},"properties":{"id":"351236","nbrOut":1,"planned":false,"timeOff":1793399828012},"type":"Feature"},
 {"geometry":{"coordinates":[-114.584319,35.113382],"type":"Point"},"properties":{"id":"351237","nbrOut":1,"planned":false,"timeOff":1793399866603},"type":"Feature"},
-{"geometry":{"coordinates":[-114.566864,35.123691],"type":"Point"},"properties":{"id":"351238","nbrOut":1,"planned":false,"timeOff":1793399893010},"type":"Feature"},
-{"geometry":{"coordinates":[-114.581462,35.123478],"type":"Point"},"properties":{"id":"351239","nbrOut":22,"planned":false,"timeOff":1793399145767},"type":"Feature"},
-{"geometry":{"coordinates":[-114.577976,35.115307],"type":"Point"},"properties":{"id":"351240","nbrOut":1,"planned":false,"timeOff":1793400270000},"type":"Feature"},
-{"geometry":{"coordinates":[-114.58696,35.123111],"type":"Point"},"properties":{"id":"351241","nbrOut":1,"planned":false,"timeOff":1793400311166},"type":"Feature"},
 {"geometry":{"coordinates":[-114.578354,35.113808],"type":"Point"},"properties":{"id":"351242","nbrOut":1,"planned":false,"timeOff":1793400180000},"type":"Feature"},
-{"geometry":{"coordinates":[-114.562705,35.123463],"type":"Point"},"properties":{"id":"351243","nbrOut":1,"planned":false,"timeOff":1793400402492},"type":"Feature"}
+{"geometry":{"coordinates":[-114.577446,35.113213],"type":"Point"},"properties":{"cause":"Lightning","comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","estimateTime":1793403618386,"id":"351244","nbrOut":309,"planned":false,"timeOff":1793398987918},"type":"Feature"},
+{"geometry":{"coordinates":[-114.585343,35.122435],"type":"Point"},"properties":{"comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351246","nbrOut":45,"planned":false,"timeOff":1793398080000},"type":"Feature"},
+{"geometry":{"coordinates":[-114.578866,35.113749],"type":"Point"},"properties":{"id":"351249","nbrOut":1,"planned":false,"timeOff":1793401306947},"type":"Feature"}
 ]}
