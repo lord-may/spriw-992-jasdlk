@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.862002,40.388881],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-30T12:09:17.143-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T10:09:17.223-06:00","outageName":"T_1991","outagePoint":{"lat":40.38888107398778,"lng":-111.86200156941648},"outageRecID":"2026-10-30-0037","outageStartTime":"2026-10-30T10:01:07-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["N 780 W","W MAIN ST (SHED)"],"verified":false},"type":"Feature"}
 ]}
