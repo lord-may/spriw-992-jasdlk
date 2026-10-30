@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.501526,47.60264],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527602","lifeCycleStatus":"Crew Assigned","nbrOut":2,"planned":false,"timeOff":1793317657151},"type":"Feature"}
+
 ]}
