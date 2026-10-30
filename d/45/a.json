@@ -3,10 +3,9 @@
 {"geometry":{"coordinates":[-114.585459,35.120311],"type":"Point"},"properties":{"id":"351223","nbrOut":1,"planned":false,"timeOff":1793398620000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.577968,35.127842],"type":"Point"},"properties":{"id":"351225","nbrOut":1,"planned":false,"timeOff":1793399123471},"type":"Feature"},
 {"geometry":{"coordinates":[-114.621167,35.10754],"type":"Point"},"properties":{"id":"351227","nbrOut":1,"planned":false,"timeOff":1793399357553},"type":"Feature"},
-{"geometry":{"coordinates":[-114.576782,35.12771],"type":"Point"},"properties":{"id":"351235","nbrOut":1,"planned":false,"timeOff":1793399773000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.584319,35.113382],"type":"Point"},"properties":{"id":"351237","nbrOut":1,"planned":false,"timeOff":1793399866603},"type":"Feature"},
-{"geometry":{"coordinates":[-114.578354,35.113808],"type":"Point"},"properties":{"id":"351242","nbrOut":1,"planned":false,"timeOff":1793400180000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.577446,35.113213],"type":"Point"},"properties":{"cause":"Lightning","comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","estimateTime":1793403618386,"id":"351244","nbrOut":309,"planned":false,"timeOff":1793398987918},"type":"Feature"},
 {"geometry":{"coordinates":[-114.585343,35.122435],"type":"Point"},"properties":{"comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351246","nbrOut":45,"planned":false,"timeOff":1793398080000},"type":"Feature"},
-{"geometry":{"coordinates":[-114.578866,35.113749],"type":"Point"},"properties":{"id":"351249","nbrOut":1,"planned":false,"timeOff":1793401306947},"type":"Feature"}
+{"geometry":{"coordinates":[-114.578866,35.113749],"type":"Point"},"properties":{"id":"351249","nbrOut":1,"planned":false,"timeOff":1793401306947},"type":"Feature"},
+{"geometry":{"coordinates":[-114.598287,35.080572],"type":"Point"},"properties":{"id":"351250","nbrOut":1,"planned":false,"timeOff":1793401140000},"type":"Feature"}
 ]}
