@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.352747,33.491348],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Sagebrush St to Cascada Rd and Neolin Ave","Cause":"Being Investigated","City":"Litchfield Park","Comments":"We are assessing the issue and will provide an update once we know more. Thank you for your patience.","MediaLink":null,"OBJECTID":13422,"Ticket":"7186485826","customers":12,"datastatus":"current","etr":1793390400000,"latLong":"33.491348114082_-112.3527469612","off":1793353680000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}

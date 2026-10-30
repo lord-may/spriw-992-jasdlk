@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.559897,39.551459],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Garfield Creek area.","crewAssigned":true,"estimateTime":1793386800000,"id":"387096","nbrOut":84,"planned":true,"timeOff":1793375700000},"type":"Feature"}
+
 ]}
