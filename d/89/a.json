@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.328237,47.535224],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195148","nbrOut":1,"planned":false,"timeOff":1793455293993},"type":"Feature"},
-{"geometry":{"coordinates":[-124.326683,47.535927],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195149","nbrOut":1,"planned":false,"timeOff":1793455367000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-124.328237,47.535224],[-124.326512,47.535466],[-124.325982,47.535551],[-124.325138,47.536206],[-124.325227,47.536491],[-124.325488,47.536703],[-124.328111,47.536946],[-124.328237,47.535224]]],"type":"Polygon"},{"coordinates":[-124.326898,47.536133],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Equipment damage will require additional repair time. We are working to restore service as soon as possible.","id":"195151","nbrOut":15,"planned":false,"timeOff":1793455293993},"type":"Feature"}
 ]}
