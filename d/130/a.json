@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.780762,37.41971],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"564c95db66659b91c8ce33c8":"Under Investigation","65e9e255db37c33c7551036d":"Outage Reported","65e9f27cdb37c33c7551037c":"Unplanned Outage","currentAffected":"1","outageStepOffTime":"2026-10-31T19:32:28Z","publishedEtr":"2026-10-31T22:30:00Z","updatedAt":"2026-10-31T19:49:33Z"},"geoJSONPolygon":null,"id":"6ae6464cb50c11422f503f5e","lat":37.41971,"lon":-120.780762,"serviceType":"Electric"},"type":"Feature"},
-{"geometry":{"coordinates":[-120.872108,37.523495],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"564c95db66659b91c8ce33c8":"Under Investigation","65e9e255db37c33c7551036d":"Outage Reported","65e9f27cdb37c33c7551037c":"Unplanned Outage","currentAffected":"1","outageStepOffTime":"2026-10-31T19:35:11Z","publishedEtr":"2026-10-31T22:30:00Z","updatedAt":"2026-10-31T19:51:35Z"},"geoJSONPolygon":null,"id":"6ae646c6b50c11422f503f75","lat":37.523495,"lon":-120.872108,"serviceType":"Electric"},"type":"Feature"}
+
 ]}
