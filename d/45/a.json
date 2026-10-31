@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-114.585343,35.122435],"type":"Point"},"properties":{"cause":"Trees, Other","comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351246","nbrOut":45,"planned":false,"timeOff":1793398080000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.598287,35.080572],"type":"Point"},"properties":{"id":"351250","nbrOut":1,"planned":false,"timeOff":1793401140000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.553201,35.180959],"type":"Point"},"properties":{"id":"351262","nbrOut":1,"planned":false,"timeOff":1793404560000},"type":"Feature"},
-{"geometry":{"coordinates":[-114.478443,34.759751],"type":"Point"},"properties":{"comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351266","nbrOut":38,"planned":false,"timeOff":1793409300000},"type":"Feature"}
+{"geometry":{"coordinates":[-114.478443,34.759751],"type":"Point"},"properties":{"comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351266","nbrOut":38,"planned":false,"timeOff":1793409300000},"type":"Feature"},
+{"geometry":{"coordinates":[-114.576243,35.122993],"type":"Point"},"properties":{"id":"351276","nbrOut":1,"planned":false,"timeOff":1793415738560},"type":"Feature"}
 ]}
