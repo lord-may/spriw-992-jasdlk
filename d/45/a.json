@@ -10,7 +10,6 @@
 {"geometry":{"coordinates":[-114.57556,35.127644],"type":"Point"},"properties":{"id":"351252","nbrOut":1,"planned":false,"timeOff":1793402548052},"type":"Feature"},
 {"geometry":{"coordinates":[-114.576593,35.12771],"type":"Point"},"properties":{"id":"351253","nbrOut":1,"planned":false,"timeOff":1793402784059},"type":"Feature"},
 {"geometry":{"coordinates":[-114.578183,35.113691],"type":"Point"},"properties":{"id":"351255","nbrOut":1,"planned":false,"timeOff":1793403250414},"type":"Feature"},
-{"geometry":{"coordinates":[-114.572272,35.112904],"type":"Point"},"properties":{"cause":"Extreme Storm","comment":"This is an important message from Mohave Electric Cooperative with an update on the current outage in your area. The estimated time of restoral for your power outage is approximately 6:45 pm. Thank you for your patience as crews work to complete repairs and restore your power.","estimateTime":1793411100000,"id":"351256","nbrOut":814,"planned":false,"timeOff":1793403786992},"type":"Feature"},
 {"geometry":{"coordinates":[-114.582154,35.113955],"type":"Point"},"properties":{"id":"351260","nbrOut":1,"planned":false,"timeOff":1793404241793},"type":"Feature"},
 {"geometry":{"coordinates":[-114.553201,35.180959],"type":"Point"},"properties":{"id":"351262","nbrOut":1,"planned":false,"timeOff":1793404560000},"type":"Feature"}
 ]}
