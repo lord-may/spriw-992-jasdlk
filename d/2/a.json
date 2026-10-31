@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-117.0789,33.0397],[-117.0786,33.0405],[-117.0786,33.0413],[-117.0794,33.0407],[-117.0789,33.0397]]],"type":"Polygon"},{"coordinates":[-117.07891,33.04055],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando."},"circuits":"576","cluster":false,"comments":null,"communities":"Rancho Penasquitos/ Rancho Bernardo/ San Pasqual","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"26","etr":"2026-10-31T04:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-31T00:49:08Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
