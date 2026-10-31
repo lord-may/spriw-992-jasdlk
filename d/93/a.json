@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.994793,36.142097],"type":"Point"},"properties":{"cause":"700 Customer-caused","code":"700","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T10:01:10.38-07:00","outageName":"span_47056","outagePoint":{"lat":36.14209710960633,"lng":-115.99479337099929},"outageRecID":"2026-10-30-0182","outageStartTime":"2026-10-30T09:56:57-07:00","outageWorkStatus":"","streetsAffected":["E DIXIELAND"],"verified":true},"type":"Feature"}
+
 ]}

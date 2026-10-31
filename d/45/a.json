@@ -10,7 +10,7 @@
 {"geometry":{"coordinates":[-114.57556,35.127644],"type":"Point"},"properties":{"id":"351252","nbrOut":1,"planned":false,"timeOff":1793402548052},"type":"Feature"},
 {"geometry":{"coordinates":[-114.576593,35.12771],"type":"Point"},"properties":{"id":"351253","nbrOut":1,"planned":false,"timeOff":1793402784059},"type":"Feature"},
 {"geometry":{"coordinates":[-114.578183,35.113691],"type":"Point"},"properties":{"id":"351255","nbrOut":1,"planned":false,"timeOff":1793403250414},"type":"Feature"},
-{"geometry":{"coordinates":[-114.572272,35.112904],"type":"Point"},"properties":{"cause":"Extreme Storm","id":"351256","nbrOut":810,"planned":false,"timeOff":1793403786992},"type":"Feature"},
+{"geometry":{"coordinates":[-114.572272,35.112904],"type":"Point"},"properties":{"cause":"Extreme Storm","comment":"This is an important message from Mohave Electric Cooperative with an update on the current outage in your area. This afternoon¿s storm broke multiple primary distribution poles. Crews are currently on-site working to restore power. At this time, we do not have an estimated time. We will send updates as they are available. Thank you for your patience as crews work to complete repairs and restore your power.","id":"351256","nbrOut":810,"planned":false,"timeOff":1793403786992},"type":"Feature"},
 {"geometry":{"coordinates":[-114.582154,35.113955],"type":"Point"},"properties":{"id":"351260","nbrOut":1,"planned":false,"timeOff":1793404241793},"type":"Feature"},
 {"geometry":{"coordinates":[-114.553201,35.180959],"type":"Point"},"properties":{"id":"351262","nbrOut":1,"planned":false,"timeOff":1793404560000},"type":"Feature"}
 ]}
