@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-114.585343,35.122435],"type":"Point"},"properties":{"cause":"Trees, Other","comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351246","nbrOut":45,"planned":false,"timeOff":1793398080000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.575677,35.119701],"type":"Point"},"properties":{"cause":"Extreme Storm","id":"351278","nbrOut":1,"planned":false,"timeOff":1793421600000},"type":"Feature"}
 ]}
