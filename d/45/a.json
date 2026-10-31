@@ -4,5 +4,6 @@
 {"geometry":{"coordinates":[-114.598287,35.080572],"type":"Point"},"properties":{"id":"351250","nbrOut":1,"planned":false,"timeOff":1793401140000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.553201,35.180959],"type":"Point"},"properties":{"id":"351262","nbrOut":1,"planned":false,"timeOff":1793404560000},"type":"Feature"},
 {"geometry":{"coordinates":[-114.478443,34.759751],"type":"Point"},"properties":{"comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351266","nbrOut":38,"planned":false,"timeOff":1793409300000},"type":"Feature"},
-{"geometry":{"coordinates":[-114.575973,35.122971],"type":"Point"},"properties":{"cause":"Lightning","comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351276","nbrOut":3,"planned":false,"timeOff":1793415738560},"type":"Feature"}
+{"geometry":{"coordinates":[-114.575973,35.122971],"type":"Point"},"properties":{"cause":"Lightning","comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351276","nbrOut":3,"planned":false,"timeOff":1793415738560},"type":"Feature"},
+{"geometry":{"coordinates":[-114.578515,35.112853],"type":"Point"},"properties":{"id":"351277","nbrOut":1,"planned":false,"timeOff":1793417160000},"type":"Feature"}
 ]}
