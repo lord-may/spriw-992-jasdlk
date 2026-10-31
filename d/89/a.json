@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-124.114321,46.887159],[-124.11433,46.887515],[-124.114384,46.888252],[-124.114581,46.887964],[-124.114375,46.887264],[-124.114321,46.887159]]],"type":"Polygon"},{"coordinates":[-124.114429,46.887767],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crews are en route to the outage location.","id":"195147","nbrOut":7,"planned":false,"timeOff":1793413531133},"type":"Feature"}
+
 ]}
