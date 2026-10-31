@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-122.45558,45.72266],"type":"Point"},"properties":{"affectedCustomerCount":162,"cause":"Vehicle accident","estimatedRestoration":null,"key":"41813","lat":45.72266,"lon":-122.45558,"reported":"2026-10-31T11:23:00.000-07:00","status":null},"type":"Feature"},
 {"geometry":{"coordinates":[-122.44245,45.76397],"type":"Point"},"properties":{"affectedCustomerCount":33,"cause":null,"estimatedRestoration":null,"key":"41812","lat":45.76397,"lon":-122.44245,"reported":"2026-10-31T11:39:00.000-07:00","status":null},"type":"Feature"}
 ]}
