@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-115.140925,36.125379],"type":"Point"},"properties":{"CAUSEDESC":"Padmounted Transformer Problem","ERTDATETIME":"10/31/2026 03:00:00 AM","EVENTID":"1866742","LATITUDE":36.1253792,"LONGITUDE":-115.140925,"NUMCUSTDEENERGIZED":24,"STARTDATETIME":"10/30/2026 05:49:47 PM","XCORD":2189296,"YCORD":13121573},"type":"Feature"},
-{"geometry":{"coordinates":[-114.619839,35.138987],"type":"Point"},"properties":{"CAUSEDESC":"Underground Equipment Failure","ERTDATETIME":null,"EVENTID":"1866785","LATITUDE":35.1389874,"LONGITUDE":-114.6198393,"NUMCUSTDEENERGIZED":34,"STARTDATETIME":"10/31/2026 12:21:12 AM","XCORD":2351860,"YCORD":12765911},"type":"Feature"}
+{"geometry":{"coordinates":[-114.619839,35.138987],"type":"Point"},"properties":{"CAUSEDESC":"Underground Equipment Failure","ERTDATETIME":null,"EVENTID":"1866785","LATITUDE":35.1389874,"LONGITUDE":-114.6198393,"NUMCUSTDEENERGIZED":34,"STARTDATETIME":"10/31/2026 12:21:12 AM","XCORD":2351860,"YCORD":12765911},"type":"Feature"},
+{"geometry":{"coordinates":[-115.140151,36.1259],"type":"Point"},"properties":{"CAUSEDESC":"Padmounted Transformer Problem","ERTDATETIME":null,"EVENTID":"1866789","LATITUDE":36.1259002,"LONGITUDE":-115.1401507,"NUMCUSTDEENERGIZED":35,"STARTDATETIME":"10/31/2026 03:14:58 AM","XCORD":2189521,"YCORD":13121767},"type":"Feature"}
 ]}
