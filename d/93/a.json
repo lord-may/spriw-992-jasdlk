@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.943791,36.139651],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T10:42:33.433-07:00","outageName":"5557D07284","outagePoint":{"lat":36.139651119497124,"lng":-115.94379122144909},"outageRecID":"2026-10-31-0188","outageStartTime":"2026-10-31T10:42:27-07:00","outageWorkStatus":"","streetsAffected":["E CHAFFE"],"verified":false},"type":"Feature"}
+
 ]}
