@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.956141,47.377452],"type":"Point"},"properties":{"cause":"112 OH Tree on Svc/Sec","crewAssigned":true,"id":"367834","nbrOut":1,"timeOff":1793417913000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.956141,47.377452],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":true,"id":"367834","nbrOut":1,"timeOff":1793417913000},"type":"Feature"}
 ]}
