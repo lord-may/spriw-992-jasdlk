@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.497154,47.268722],"type":"Point"},"properties":{"Cause":"Planned Outage","Created":1793528894000,"CustAffected":7,"ETR":1793530800000,"OBJECTID":1,"OutageID":2001185139,"Outage_Cause_Details":"Planned Outage","Status":"Repair in Progress"},"type":"Feature"}
 ]}
