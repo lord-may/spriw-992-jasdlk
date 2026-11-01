@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.31,41.143],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":169,"etr":"Before 03:00 PM on 11/01","icon":"planned","latitude":41.143,"longitude":-122.31,"outCount":1,"reported":"03:01 AM on 11/01","zip":"96017"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.31,41.143],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":169,"etr":"Before 04:00 PM on 11/01","icon":"planned","latitude":41.143,"longitude":-122.31,"outCount":1,"reported":"03:01 AM on 11/01","zip":"96017"},"type":"Feature"}
 ]}
