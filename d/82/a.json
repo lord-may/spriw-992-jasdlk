@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-149.798311,61.068643],"type":"Point"},"properties":{"CITY":"Anchorage","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HLSS 022","LATITUDE":"61.068643","LONGITUDE":"-149.798311","OUTAGE_START":"10/31/2026 19:24","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.858509,61.193373],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S8F5","LATITUDE":"61.193373","LONGITUDE":"-149.858509","OUTAGE_START":"10/31/2026 22:44","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.858509,61.193373],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S8F5","LATITUDE":"61.193373","LONGITUDE":"-149.858509","OUTAGE_START":"10/31/2026 22:44","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.76318,61.197803],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"17","EST_RESTORATION":"-","FEEDER":"BXSS 282","LATITUDE":"61.197803","LONGITUDE":"-149.76318","OUTAGE_START":"11/01/2026 02:05","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
