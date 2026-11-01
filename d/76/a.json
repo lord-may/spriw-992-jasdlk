@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-103.468324,43.434409],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Southern Hills South","outageStepOffTime":"2026-11-01T19:28:04Z","publishedEtr":"2026-11-01T21:28:08Z"},"geoJSONPolygon":null,"id":"6ae792c848f679462e337fb6","lat":43.43440892,"lon":-103.4683239,"serviceType":"Electric"},"type":"Feature"}
 ]}
