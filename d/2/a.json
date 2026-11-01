@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-117.2535,32.78779],[-117.2534,32.7887],[-117.2535,32.7898],[-117.2544,32.79099],[-117.2546,32.79079],[-117.2545,32.79],[-117.2535,32.78779]]],"type":"Polygon"},{"coordinates":[-117.25393,32.78956],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando."},"circuits":"545","cluster":false,"comments":null,"communities":"Mission Bay/ Pacific Beach","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"181","etr":"2026-11-01T05:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-01T02:46:31Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
