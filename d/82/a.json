@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.730445,61.220026],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DBSS 152","LATITUDE":"61.220026","LONGITUDE":"-149.730445","OUTAGE_START":"11/01/2026 12:59","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+
 ]}
