@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.239963,32.249134],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1793513242000,"id":"390228","lifeCycleStatus":"Line Crews Assigned","nbrOut":47,"planned":false,"timeOff":1793502442000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.239963,32.249134],"type":"Point"},"properties":{"cause":"99 UNKNOWN/UNDETERMINED","estimateTime":1793513242000,"id":"390228","lifeCycleStatus":"Line Crews Assigned","nbrOut":47,"planned":false,"timeOff":1793502442000},"type":"Feature"}
 ]}
