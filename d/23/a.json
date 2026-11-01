@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.33001,38.690644],"type":"Point"},"properties":{"AFFECTEDAREA":"North Highlands","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110100002","OUTAGEBEGINTIME":"Today at  12:43 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.330010012262","Y_COORD":"38.6906440393227","name":"1","style":"Style3"},"type":"Feature"},
-{"geometry":{"coordinates":[-121.443262,38.435628],"type":"Point"},"properties":{"AFFECTEDAREA":"Laguna","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110100003","OUTAGEBEGINTIME":"Today at  12:46 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.443262075132","Y_COORD":"38.4356280963681","name":"1","style":"Style3"},"type":"Feature"}
+
 ]}
