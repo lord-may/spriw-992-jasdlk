@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-111.223047,32.303341],"type":"Point"},"properties":{"cause":"10 CONSTRUCTION","estimateTime":1793646000000,"id":"390190","nbrOut":1,"planned":true,"timeOff":1793631600000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.14334,32.420597],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390233","nbrOut":1,"planned":false,"timeOff":1793602685000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.239289,32.247683],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390234","nbrOut":1,"planned":true,"timeOff":1793629015000},"type":"Feature"}
 ]}
