@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.415895,20.033531],"type":"Point"},"properties":{"affectedAreas":["Paauilo"],"centerPoint":{"srid":4326,"x":-155.4158947554463,"y":20.033531220512593},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 10:35 PM HST","outageCause":"Tree","outageId":46751,"outageStartTime":"Today at 05:45 PM HST","outageStatus":1,"radius":0.02354203177091526,"totalCustomersAffected":107},"type":"Feature"}
+{"geometry":{"coordinates":[-155.415895,20.033531],"type":"Point"},"properties":{"affectedAreas":["Paauilo"],"centerPoint":{"srid":4326,"x":-155.4158947554463,"y":20.033531220512593},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 10:50 PM HST","outageCause":"Tree","outageId":46751,"outageStartTime":"Today at 05:45 PM HST","outageStatus":1,"radius":0.02354203177091526,"totalCustomersAffected":107},"type":"Feature"}
 ]}

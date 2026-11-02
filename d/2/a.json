@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-117.1703,32.7308],[-117.1719,32.7473],[-117.1737,32.7483],[-117.1828,32.7438],[-117.1827,32.7434],[-117.1703,32.7308]]],"type":"Polygon"},{"coordinates":[-117.17515,32.74109],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando."},"circuits":"MT1","cluster":false,"comments":null,"communities":"Old Town/ Mission Hills/ Hillcrest","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"877","etr":"2026-11-02T10:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-02T08:44Z","title":"Area Outage"},"type":"Feature"}
 ]}
