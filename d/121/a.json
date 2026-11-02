@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-115.53655,32.974636],[-115.531701,32.968011],[-115.526851,32.974744],[-115.53655,32.974636]]],"type":"Polygon"},"properties":{"Area":"Addresses Affected: 2","Circuit":"","CityID":2967,"CityName":"Brawley","CustomerAffected":"34","OutageLatitude":32.97269162410108,"OutageLongitude":-115.53195806012,"OutageReportInfo":"Areas affected include K St, S 5th St, S Imperial Ave, and Grapefruit Dr in Brawley. Estimated restoration time is currently unknown. Check back for updates.","Outagedate":"11/01/26 06:00 PM","OutagedateDB":"2026-11-01T18:00:00","RestorationTime":"","Restorationdate":"","RestorationdateDB":null,"STATUS":"Unresolved","ServiceTypeID":1,"Title":"Unplanned Outage - Brawley","ZipCode":"92227"},"type":"Feature"}
 ]}
