@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-154.964493,19.581546],"type":"Point"},"properties":{"affectedAreas":["Keaau","Keonepoko"],"centerPoint":{"srid":4326,"x":-154.9644930894899,"y":19.581546054928},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 08:20 AM HST","outageCause":"Unavailable","outageId":46758,"outageStartTime":"Today at 08:13 AM HST","outageStatus":1,"radius":0.007071067811921848,"totalCustomersAffected":1},"type":"Feature"}
 ]}
