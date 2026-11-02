@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-117.787253,47.86626],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"527652","nbrOut":1,"planned":false,"timeOff":1793597317783},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-117.781908,47.869249],[-117.776123,47.872418],[-117.779168,47.872244],[-117.782096,47.869616],[-117.781908,47.869249]]],"type":"Polygon"},{"coordinates":[-117.779375,47.871153],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause Being Investigated","comment":"Inland Power is aware of a power outage in your area.\n\nWe will provide an updated estimated time of restoration as soon as it becomes available.\n\nThank you for your patience and understanding.","crewAssigned":false,"id":"527653","nbrOut":5,"planned":false,"timeOff":1793595901000},"type":"Feature"}
 ]}
