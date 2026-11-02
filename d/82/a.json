@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.835043,61.147471],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRIAN KOECHER","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DLSS 612","LATITUDE":"61.147471","LONGITUDE":"-149.835043","OUTAGE_START":"11/01/2026 17:55","OUTAGE_STATUS":"Crew Dispatched","STAGE":"Accepted"},"type":"Feature"}
+
 ]}
