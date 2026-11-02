@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-118.337282,46.823898],[-118.336806,46.839281],[-118.340669,46.840817],[-118.350658,46.839281],[-118.337282,46.823898]]],"type":"Polygon"},{"coordinates":[-118.341684,46.834666],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"In route","id":"201429","nbrOut":7,"planned":false,"timeOff":1793601055000},"type":"Feature"}
+
 ]}
