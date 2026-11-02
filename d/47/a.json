@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-109.126433,33.823247],"type":"Point"},"properties":{"cause":"TREES                         ","crewAssigned":true,"id":"535984","nbrOut":1,"planned":false,"timeOff":1793575284000},"type":"Feature"},
 {"geometry":{"coordinates":[-109.751302,33.980679],"type":"Point"},"properties":{"cause":"UNKNOWN CAUSE                 ","comment":"We are aware of the outage & crews are responding at this time. We will restore power as soon as possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":true,"id":"536000","nbrOut":5,"planned":false,"timeOff":1793574874000},"type":"Feature"},
 {"geometry":{"coordinates":[-109.12655,33.821262],"type":"Point"},"properties":{"cause":"DAMAGED MATERIAL OR EQUIP     ","crewAssigned":true,"id":"536007","nbrOut":2,"planned":false,"timeOff":1793639724000},"type":"Feature"},
-{"geometry":{"coordinates":[-109.971892,34.133999],"type":"Point"},"properties":{"cause":"UNKNOWN CAUSE                 ","crewAssigned":true,"id":"536010","nbrOut":3,"planned":false,"timeOff":1793639826000},"type":"Feature"}
+{"geometry":{"coordinates":[-109.971892,34.133999],"type":"Point"},"properties":{"cause":"UNKNOWN CAUSE                 ","crewAssigned":true,"id":"536010","nbrOut":3,"planned":false,"timeOff":1793639826000},"type":"Feature"},
+{"geometry":{"coordinates":[-109.590431,34.43081],"type":"Point"},"properties":{"cause":"UNKNOWN CAUSE                 ","crewAssigned":true,"id":"536011","nbrOut":1,"planned":false,"timeOff":1793641076000},"type":"Feature"}
 ]}
