@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-117.23,32.8106],[-117.228,32.8106],[-117.2278,32.811],[-117.23,32.8106]]],"type":"Polygon"},{"coordinates":[-117.2286,32.81073],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Our equipment has been damaged and our crews need to make repairs.","es-US":"Nuestro equipo esta dañado y nuestro personal necesita realizar reparaciones.","orig":"Device/Equipment Damaged"},"circuits":"114","cluster":false,"comments":null,"communities":"Mission Bay/ Pacific Beach","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"44","etr":"2026-11-02T10:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-02T03:43Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
