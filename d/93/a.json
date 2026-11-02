@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-117.913176,37.515687],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T12:12:39.703-08:00","outageName":"3942B6795","outagePoint":{"lat":37.51568679257047,"lng":-117.91317587681387},"outageRecID":"2026-11-02-0007","outageStartTime":"2026-11-02T12:06:10-08:00","outageWorkStatus":"","streetsAffected":["WELL #9 BANK 20A-150 HP"],"verified":false},"type":"Feature"}
 ]}
