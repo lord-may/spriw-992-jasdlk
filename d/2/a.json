@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-116.8958,32.84579],[-116.8934,32.84579],[-116.8928,32.84599],[-116.8931,32.84599],[-116.8958,32.84579]]],"type":"Polygon"},{"coordinates":[-116.89398,32.84587],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando.","orig":"Under Investigation"},"circuits":"243","cluster":false,"comments":null,"communities":"Lakeside/ Lakeview/ Glenview","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"25","etr":"2026-11-02T23:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-02T19:56:05Z","title":"Area Outage"},"type":"Feature"}
+
 ]}

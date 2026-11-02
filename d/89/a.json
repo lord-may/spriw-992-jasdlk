@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-124.170358,46.932786],[-124.169801,46.932958],[-124.169998,46.933087],[-124.170627,46.933038],[-124.17051,46.932878],[-124.170358,46.932786]]],"type":"Polygon"},{"coordinates":[-124.170232,46.932958],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"We are actively working on power restoration.","id":"195157","nbrOut":5,"planned":false,"timeOff":1793643363000},"type":"Feature"}
+
 ]}
