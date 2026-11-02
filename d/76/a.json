@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.8092,44.299439],"type":"Point"},"properties":{"currentAffected":25,"fieldValues":{"currentAffected":"25","energizationStatus":"Restoration Verification Failed","geographicAorIDs":"Northern Hills Central","outageStepOffTime":"2026-11-02T12:06:31Z","publishedEtr":"2026-11-02T14:16:32Z"},"geoJSONPolygon":null,"id":"6ae87cc848f679462e338607","lat":44.29943869,"lon":-103.8092003,"serviceType":"Electric"},"type":"Feature"},
 {"geometry":{"coordinates":[-103.516952,44.412404],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Northern Hills East","outageStepOffTime":"2026-11-02T14:25:21Z","publishedEtr":"2026-11-02T16:15:24Z"},"geoJSONPolygon":null,"id":"6ae89d5448f679462e33893f","lat":44.41240441,"lon":-103.5169518,"serviceType":"Electric"},"type":"Feature"}
 ]}
