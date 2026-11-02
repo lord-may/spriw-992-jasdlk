@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-157.241041,21.180989],"type":"Point"},"properties":{"affectedAreas":["Molokai"],"centerPoint":{"srid":4326,"x":-157.24104109768996,"y":21.180988622055597},"company":2,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 04:37 PM HST","outageCause":"Unavailable","outageId":29421,"outageStartTime":"Today at 01:54 PM HST","outageStatus":1,"radius":0.0070710678118791415,"totalCustomersAffected":1},"type":"Feature"}
+{"geometry":{"coordinates":[-157.234315,21.179914],"type":"Point"},"properties":{"affectedAreas":["Molokai"],"centerPoint":{"srid":4326,"x":-157.23431525159816,"y":21.179913572934378},"company":2,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 04:52 PM HST","outageCause":"Unavailable","outageId":29421,"outageStartTime":"Today at 01:54 PM HST","outageStatus":1,"radius":0.014447098587555312,"totalCustomersAffected":28},"type":"Feature"}
 ]}
