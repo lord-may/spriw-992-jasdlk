@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.13,46.367],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Arrived","custOut":1,"etr":"Assessing","icon":"standard","latitude":46.367,"longitude":-120.13,"outCount":1,"reported":"02:43 PM on 11/01","zip":"98938"},"type":"Feature"},
+{"geometry":{"coordinates":[-120.13,46.367],"type":"Point"},"properties":{"cause":"Pole Fire","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 09:30 PM on 11/01","icon":"standard","latitude":46.367,"longitude":-120.13,"outCount":1,"reported":"02:43 PM on 11/01","zip":"98938"},"type":"Feature"},
 {"geometry":{"coordinates":[-120.48,46.57],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":4,"etr":"Before 08:00 PM on 11/01","icon":"standard","latitude":46.57,"longitude":-120.48,"outCount":1,"reported":"04:34 PM on 11/01","zip":"98903"},"type":"Feature"}
 ]}
