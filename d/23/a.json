@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.380012,38.686025],"type":"Point"},"properties":{"AFFECTEDAREA":"North Highlands","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110100029","OUTAGEBEGINTIME":"Today at  5:11 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.38001220221","Y_COORD":"38.6860252910712","name":"1","style":"Style3"},"type":"Feature"},
-{"geometry":{"coordinates":[-121.511167,38.615819],"type":"Point"},"properties":{"AFFECTEDAREA":"South Natomas","CALLCOUNT":"0","CAUSE_CODE":"NO OUTAGE - CUSTOMER PROBLEM","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110100030","OUTAGEBEGINTIME":"Today at  5:21 PM","OUTAGEDESCRIPTION":"Customer equipment issue","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.511166831366","Y_COORD":"38.6158191531068","name":"1","style":"Style3"},"type":"Feature"}
+
 ]}
