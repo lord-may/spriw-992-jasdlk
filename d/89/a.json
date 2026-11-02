@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.984613,47.049191],[-123.983077,47.049277],[-123.984227,47.049399],[-123.984613,47.049191]]],"type":"Polygon"},{"coordinates":[-123.983975,47.049289],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crews are en route to the outage location.","id":"195154","nbrOut":3,"planned":false,"timeOff":1793618685715},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-123.984613,47.049191],[-123.983077,47.049277],[-123.984227,47.049399],[-123.984613,47.049191]]],"type":"Polygon"},{"coordinates":[-123.983975,47.049289],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crews are en route to the outage location.","id":"195154","nbrOut":3,"planned":false,"timeOff":1793618685715},"type":"Feature"},
+{"geometry":{"coordinates":[-124.147855,46.972294],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195155","nbrOut":1,"planned":false,"timeOff":1793633530000},"type":"Feature"}
 ]}
