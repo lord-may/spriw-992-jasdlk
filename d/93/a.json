@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-116.071027,36.267468],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T19:15:50-08:00","outageName":"5456B2627","outagePoint":{"lat":36.26746758878469,"lng":-116.07102679074445},"outageRecID":"2026-11-01-0006","outageStartTime":"2026-11-01T18:59:48-08:00","outageWorkStatus":"","streetsAffected":["W SCOTT"],"verified":false},"type":"Feature"}
+
 ]}
