@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.514083,38.607671],"type":"Point"},"properties":{"AFFECTEDAREA":"South Natomas","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110100026","OUTAGEBEGINTIME":"Today at  4:28 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.514082720149","Y_COORD":"38.6076705976037","name":"1","style":"Style3"},"type":"Feature"}
 ]}
