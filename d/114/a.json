@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.675354,45.643623],"type":"Point"},"properties":{"affectedCustomerCount":6,"cause":"Tree into power lines","estimatedRestoration":null,"key":"41817","lat":45.643623,"lon":-122.675354,"reported":"2026-11-02T14:17:00.000-08:00","status":null},"type":"Feature"}
 ]}
