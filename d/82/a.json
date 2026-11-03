@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-148.928275,60.80492],"type":"Point"},"properties":{"CITY":"PORTAGE","CREW":"_STURGEON","CUSTOMERS_AFFECTED":"3","EST_RESTORATION":"-","FEEDER":"PTSS 322","LATITUDE":"60.80492","LONGITUDE":"-148.928275","OUTAGE_START":"11/03/2026 10:09","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
+{"geometry":{"coordinates":[-148.928275,60.80492],"type":"Point"},"properties":{"CITY":"PORTAGE","CREW":"_STURGEON","CUSTOMERS_AFFECTED":"3","EST_RESTORATION":"-","FEEDER":"PTSS 322","LATITUDE":"60.80492","LONGITUDE":"-148.928275","OUTAGE_START":"11/03/2026 10:09","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.821784,61.2246],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"DEREK COOK","CUSTOMERS_AFFECTED":"21","EST_RESTORATION":"-","FEEDER":"S14F1","LATITUDE":"61.2246","LONGITUDE":"-149.821784","OUTAGE_START":"11/03/2026 12:28","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
