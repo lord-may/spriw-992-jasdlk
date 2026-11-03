@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.402,46.605],"type":"Point"},"properties":{"cause":"Emergency Repair","crewStatus":"Crews Notified","custOut":26,"etr":"Before 10:30 AM on 11/03","icon":"standard","latitude":46.605,"longitude":-120.402,"outCount":1,"reported":"07:23 AM on 11/03","zip":"98901"},"type":"Feature"},
 {"geometry":{"coordinates":[-120.277,46.369],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 09:30 AM on 11/03","icon":"planned","latitude":46.369,"longitude":-120.277,"outCount":1,"reported":"08:25 AM on 11/03","zip":"98948"},"type":"Feature"}
 ]}
