@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-155.989393,19.716813],"type":"Point"},"properties":{"affectedAreas":["Kealakehe"],"centerPoint":{"srid":4326,"x":-155.98939337565096,"y":19.7168132345662},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 02:05 AM HST","outageCause":"Unavailable","outageId":46790,"outageStartTime":"Today at 01:59 AM HST","outageStatus":1,"radius":0.007071067811881653,"totalCustomersAffected":1},"type":"Feature"},
+{"geometry":{"coordinates":[-155.993817,19.722762],"type":"Point"},"properties":{"affectedAreas":["Kealakehe"],"centerPoint":{"srid":4326,"x":-155.99381679995594,"y":19.7227615268645},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 02:05 AM HST","outageCause":"Unavailable","outageId":46791,"outageStartTime":"Today at 02:00 AM HST","outageStatus":1,"radius":0.007071067811901751,"totalCustomersAffected":1},"type":"Feature"}
 ]}
