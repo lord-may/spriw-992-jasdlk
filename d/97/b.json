@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-120.353669,47.443597],[-120.353585,47.441583],[-120.346587,47.441716],[-120.34667,47.44373],[-120.353669,47.443597]]],"type":"Polygon"},"properties":{"AffectedCustomers":74,"Cause":"Under Investigation","CommunityName":"West Wenatchee","CrewDispatched":"","EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1835,"OutageID":"6aea55d89f80d41613bd56ba","ProjectedDuration":null,"Shape__Area":1273111.5183410645,"Shape__Length":4934.75577381469,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 03, 01:43 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 03, 01:43 PM","Status":"Active"},"type":"Feature"}
 ]}
