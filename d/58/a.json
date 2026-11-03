@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-117.668513,47.893775],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Power contract crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527684","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793725062464},"type":"Feature"},
+{"geometry":{"coordinates":[-117.598355,47.874178],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Power contract crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527685","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793725145769},"type":"Feature"},
+{"geometry":{"coordinates":[-117.660509,47.89498],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Power contract crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527686","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793725401349},"type":"Feature"}
 ]}
