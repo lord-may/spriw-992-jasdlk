@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-114.363904,48.315645],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-03T13:01:09.897-08:00","outageName":"","outagePoint":{"lat":48.31564510878741,"lng":-114.36390439107423},"outageRecID":"2026-11-03-0009","outageStartTime":"2026-11-03T12:59:50-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}

@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.235,43.264],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Arrived","custOut":1,"etr":"Assessing","icon":"standard","latitude":43.264,"longitude":-112.235,"outCount":1,"reported":"01:05 PM on 11/03","zip":"83221"},"type":"Feature"},
-{"geometry":{"coordinates":[-112.119,43.982],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Notified","custOut":1,"etr":"Before 09:00 PM on 11/03","icon":"standard","latitude":43.982,"longitude":-112.119,"outCount":1,"reported":"11:51 AM on 11/03","zip":"83425"},"type":"Feature"},
-{"geometry":{"coordinates":[-111.788,43.934],"type":"Point"},"properties":{"cause":"Wildlife","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 02:00 PM on 11/03","icon":"standard","latitude":43.934,"longitude":-111.788,"outCount":1,"reported":"12:34 PM on 11/03","zip":"83445"},"type":"Feature"}
+{"geometry":{"coordinates":[-112.216,43.278],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":3,"etr":"Before 05:00 PM on 11/03","icon":"standard","latitude":43.278,"longitude":-112.216,"outCount":1,"reported":"02:12 PM on 11/03","zip":"83236"},"type":"Feature"},
+{"geometry":{"coordinates":[-112.119,43.982],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Notified","custOut":1,"etr":"Before 09:00 PM on 11/03","icon":"standard","latitude":43.982,"longitude":-112.119,"outCount":1,"reported":"11:51 AM on 11/03","zip":"83425"},"type":"Feature"}
 ]}
