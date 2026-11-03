@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.06229,43.97986],"type":"Point"},"properties":{"id":"414949","lifeCycleStatus":"Planned Outage","nbrOut":1,"timeOff":1793653200000},"type":"Feature"},
-{"geometry":{"coordinates":[-124.060952,43.979789],"type":"Point"},"properties":{"id":"414950","lifeCycleStatus":"Planned Outage","nbrOut":2,"timeOff":1793653200000},"type":"Feature"}
+
 ]}
