@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-122.967334,46.169951],[-122.966534,46.170045],[-122.966436,46.170636],[-122.968313,46.171892],[-122.974835,46.175326],[-122.977611,46.175923],[-122.976632,46.175233],[-122.971278,46.171936],[-122.969382,46.17086],[-122.967334,46.169951]]],"type":"Polygon"},{"coordinates":[-122.971358,46.172769],"type":"Point"}],"type":"GeometryCollection"},"properties":{"causeGroup":"Human / Vehicle","crewAssigned":true,"estimateTime":1793758500000,"id":"290994","nbrOut":51,"timeOff":1793747675000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.973173,46.172577],"type":"Point"},"properties":{"causeGroup":"Investigating","crewAssigned":false,"estimateTime":1793758500000,"id":"290995","nbrOut":1,"timeOff":1793747675000},"type":"Feature"}
 ]}

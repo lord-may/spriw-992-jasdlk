@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.386967,64.793445],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T13:55:34.313-09:00","outageName":"HPS R2 TRA_322972","outagePoint":{"lat":64.7934446127651,"lng":-147.38696683372422},"outageRecID":"2026-11-03-0024","outageStartTime":"2026-11-03T12:22:00-09:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
