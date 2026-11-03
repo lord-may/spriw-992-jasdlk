@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.767543,36.073526],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T10:28:36.557-08:00","outageName":"5758A46493","outagePoint":{"lat":36.07352593508488,"lng":-115.76754285133309},"outageRecID":"2026-11-03-0015","outageStartTime":"2026-11-03T10:28:28-08:00","outageWorkStatus":"","streetsAffected":["S HWY 160 #C"],"verified":false},"type":"Feature"}
+
 ]}
