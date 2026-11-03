@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-107.644977,37.88437],[-107.646504,37.90149],[-107.649343,37.889616],[-107.644977,37.88437]]],"type":"Polygon"},{"coordinates":[-107.646944,37.891828],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Trees-In ROW","crewAssigned":true,"estimateTime":1793657969000,"id":"238103","nbrOut":3,"planned":false,"timeOff":1793650769000},"type":"Feature"}
+
 ]}
