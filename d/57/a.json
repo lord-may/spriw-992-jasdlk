@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.675337,47.174155],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","id":"262227","nbrOut":2,"planned":true,"timeOff":1793131086000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.675337,47.174155],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","id":"262227","nbrOut":2,"planned":true,"timeOff":1793131086000},"type":"Feature"},
+{"geometry":{"coordinates":[-121.727344,47.482943],"type":"Point"},"properties":{"cause":"Animals, Squirrels","estimateTime":1793727480000,"id":"262732","nbrOut":1,"planned":false,"timeOff":1793720299496},"type":"Feature"}
 ]}
