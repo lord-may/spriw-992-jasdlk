@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-149.709134,60.475993],"type":"Point"},"properties":{"CITY":"COOPER LANDING","CREW":"","CUSTOMERS_AFFECTED":"16","EST_RESTORATION":"-","FEEDER":"DCSS 352","LATITUDE":"60.475993","LONGITUDE":"-149.709134","OUTAGE_START":"11/04/2026 06:41","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
