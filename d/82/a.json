@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.118035,60.959938],"type":"Point"},"properties":{"CITY":"GIRDWOOD","CREW":"MIKE PHILLIPS","CUSTOMERS_AFFECTED":"9","EST_RESTORATION":"-","FEEDER":"GWSS 422","LATITUDE":"60.959938","LONGITUDE":"-149.118035","OUTAGE_START":"11/03/2026 18:15","OUTAGE_STATUS":"Crew Dispatched","STAGE":"En Route"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.751723,61.182335],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"0","EST_RESTORATION":"-","FEEDER":"","LATITUDE":"61.182335","LONGITUDE":"-149.751723","OUTAGE_START":"11/03/2026 18:51","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.118035,60.959938],"type":"Point"},"properties":{"CITY":"GIRDWOOD","CREW":"MIKE PHILLIPS","CUSTOMERS_AFFECTED":"9","EST_RESTORATION":"-","FEEDER":"GWSS 422","LATITUDE":"60.959938","LONGITUDE":"-149.118035","OUTAGE_START":"11/03/2026 18:15","OUTAGE_STATUS":"Crew Dispatched","STAGE":"En Route"},"type":"Feature"}
 ]}
