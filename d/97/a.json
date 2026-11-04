@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.350128,47.442657],"type":"Point"},"properties":{"AffectedCustomers":74,"Cause":"Other Party","CommunityName":"West Wenatchee","CrewDispatched":null,"EndTimeFormatted":"Nov 03, 06:30 PM","EstimatedEndTime":null,"OBJECTID":1832,"OutageID":"6aea55d89f80d41613bd56ba","ProjectedDuration":null,"SpanishCause":"Otra agencia","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Nov 03, 06:30 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 03, 01:43 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 03, 01:43 PM","Status":"Active"},"type":"Feature"}
+
 ]}
