@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-120.791964,47.835473],[-120.79192,47.835033],[-120.78582,47.83531],[-120.785864,47.83575],[-120.791964,47.835473]]],"type":"Polygon"},"properties":{"AffectedCustomers":34,"Cause":"Scheduled work being conducted in the area","CommunityName":"N Shore Lake Wenatchee","CrewDispatched":null,"EndTimeFormatted":"Nov 04, 04:28 PM","EstimatedEndTime":null,"OBJECTID":1836,"OutageID":"6aeba37e2a111b402df670e5","ProjectedDuration":null,"Shape__Area":241728.6693725586,"Shape__Length":3325.2093354850895,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Nov 04, 04:28 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 04, 01:28 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 04, 01:28 PM","Status":"Active"},"type":"Feature"}
+
 ]}
