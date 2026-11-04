@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-124.328165,47.534399],[-124.327608,47.534496],[-124.325982,47.535551],[-124.325138,47.536206],[-124.325227,47.536491],[-124.329485,47.539972],[-124.330473,47.540536],[-124.328165,47.534399]]],"type":"Polygon"},{"coordinates":[-124.327859,47.537092],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"faulted primary cable crew dispatched to make repairs","id":"195162","nbrOut":32,"planned":false,"timeOff":1793756156365},"type":"Feature"}
+
 ]}
