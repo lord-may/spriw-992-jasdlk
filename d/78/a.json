@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.463347,20.078653],"type":"Point"},"properties":{"affectedAreas":["Honokaa"],"centerPoint":{"srid":4326,"x":-155.46334725146198,"y":20.0786525551432},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 07:20 AM HST","outageCause":"Unavailable","outageId":46845,"outageStartTime":"Today at 06:11 AM HST","outageStatus":1,"radius":0.007071067811881653,"totalCustomersAffected":1},"type":"Feature"}
+
 ]}
