@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-116.9669,32.7536],[-116.9633,32.7555],[-116.9639,32.7563],[-116.9715,32.7623],[-116.9742,32.75869],[-116.9737,32.75719],[-116.9726,32.7548],[-116.9669,32.7536]]],"type":"Polygon"},{"coordinates":[-116.96943,32.75728],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando."},"circuits":"95, CHA1","cluster":false,"comments":null,"communities":"Casa De Oro/ Rancho San Diego","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"160","etr":"2026-11-04T17:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-04T13:43:46Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
