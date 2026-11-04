@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.7688,37.633961],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":55,"customersOutNow":55,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T19:25:03.77-08:00","outageName":"OF16D7-2","outagePoint":{"lat":37.63396071284633,"lng":-120.76879955980651},"outageRecID":"2026-11-03-0011","outageStartTime":"2026-11-03T19:21:57-08:00","outageWorkStatus":"","streetsAffected":["Brisk Avenue","Brisk Court","Fearl Drive","South Western Avenue","Washington Road"],"verified":true},"type":"Feature"}
+
 ]}
