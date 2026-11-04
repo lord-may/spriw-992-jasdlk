@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-116.086987,36.218759],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T09:02:23-08:00","outageName":"10075","outagePoint":{"lat":36.21875905080399,"lng":-116.08698654298915},"outageRecID":"2026-11-04-0018","outageStartTime":"2026-11-04T09:01:14-08:00","outageWorkStatus":"","streetsAffected":["KIM COURT","S KIM"],"verified":true},"type":"Feature"}
 ]}
