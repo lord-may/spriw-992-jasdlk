@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.320081,64.754056],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T10:40:52.237-09:00","outageName":"DRS R2 TRA_332425","outagePoint":{"lat":64.75405573898826,"lng":-147.32008066813967},"outageRecID":"2026-11-04-0032","outageStartTime":"2026-11-04T09:59:45-09:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
