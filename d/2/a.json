@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-117.1842,33.2374],[-117.1843,33.2382],[-117.193,33.256],[-117.2095,33.2738],[-117.2138,33.2781],[-117.217,33.2783],[-117.2332,33.2673],[-117.238,33.25419],[-117.2382,33.2533],[-117.1842,33.2374]]],"type":"Polygon"},{"coordinates":[-117.21247,33.25766],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando.","orig":"Under Investigation"},"circuits":"233","cluster":false,"comments":null,"communities":"Bonsall/ Camino Del Rey Downs/ Gopher Canyon, Gopher Canyon","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"535","etr":"2026-11-04T19:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-04T17:16:03Z","title":"Area Outage"},"type":"Feature"}
 ]}
