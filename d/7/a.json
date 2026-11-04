@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.319,41.354],"type":"Point"},"properties":{"cause":"Trees","crewStatus":"Crews Arrived","custOut":1,"etr":"Assessing","icon":"standard","latitude":41.354,"longitude":-122.319,"outCount":1,"reported":"11:50 AM on 11/03","zip":"96067"},"type":"Feature"}
+
 ]}
