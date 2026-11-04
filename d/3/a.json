@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.29951,47.72279],"type":"Point"},"properties":{"cause":"Planned Outage","city":"North Seattle","id":2245499,"identifier":"225060","lastUpdatedTime":1793834164000,"latitude":47.72279,"longitude":-122.29951,"numPeople":1,"polygons":{"hasM":false,"hasZ":false,"rings":[[[-122.29919,47.72249],[-122.2993,47.72243],[-122.29942,47.72242],[-122.29954,47.72245],[-122.29966,47.72253],[-122.29973,47.72263],[-122.29975,47.72275],[-122.29973,47.72287],[-122.29966,47.72298],[-122.29952,47.72307],[-122.2994,47.72309],[-122.29928,47.72307],[-122.29914,47.72298],[-122.29908,47.72287],[-122.29905,47.72273],[-122.29909,47.7226]]],"spatialReference":{"latestWkid":4326,"wkid":4326},"type":"polygon"},"startTime":1793833766000,"state":"WA","status":"Dispatched","title":"Planned Outage","type":"PLANNED_OUTAGE"},"type":"Feature"}
 ]}
