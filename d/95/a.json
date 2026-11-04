@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.61171,47.307152],"type":"Point"},"properties":{"cause":"810 Other","code":"810","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-11-03T16:04:00-08:00","outageModifiedTime":"2026-11-03T16:19:30.72-08:00","outageName":"0159947","outagePoint":{"lat":47.307152263707486,"lng":-122.61170980210105},"outageRecID":"2026-11-03-0014","outageStartTime":"2026-11-03T14:43:04-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
