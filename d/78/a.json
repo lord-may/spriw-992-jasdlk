@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.523186,20.09762],"type":"Point"},"properties":{"affectedAreas":["Honokaa","Waimea"],"centerPoint":{"srid":4326,"x":-155.5231857566434,"y":20.09761964511238},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 05:05 AM HST","outageCause":"Unavailable","outageId":46840,"outageStartTime":"Today at 02:21 AM HST","outageStatus":1,"radius":0.08294930563004432,"totalCustomersAffected":836},"type":"Feature"}
+{"geometry":{"coordinates":[-155.068193,19.607719],"type":"Point"},"properties":{"affectedAreas":["Keaau"],"centerPoint":{"srid":4326,"x":-155.06819253386598,"y":19.607719340906897},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 05:20 AM HST","outageCause":"Unavailable","outageId":46843,"outageStartTime":"Today at 05:13 AM HST","outageStatus":1,"radius":0.0070710678118791415,"totalCustomersAffected":1},"type":"Feature"}
 ]}
