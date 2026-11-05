@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.662822,39.722664],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Ute Creek road area.","crewAssigned":true,"estimateTime":1793919600000,"id":"387243","nbrOut":6,"planned":false,"timeOff":1793909340000},"type":"Feature"},
 {"geometry":{"coordinates":[-106.820171,39.373102],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Frying Pan area.","crewAssigned":true,"id":"387682","nbrOut":2,"planned":false,"timeOff":1793889949000},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.253545,34.238212],"type":"Point"},"properties":{"alias":"","consumers_affected":"8","estimated_restore_time":"Nov 05 2026 04:00 pm","feeder":"6","formatted_ert":"Thu, Nov 05, 04:00 pm","incident_id":"G175527","lat":"34.23821208994754","lon":"-118.25354526352368","opt_code":"OH Equipment-Pole","outage_comment":"Pole Replacement 3400 blk El Caminito","poly":[{"lat":"34.238064117652236","lon":"-118.25331068638981"},{"lat":"34.238469639852205","lon":"-118.25403391943362"},{"lat":"34.238629143939036","lon":"-118.25422428954703"},{"lat":"34.238203925306784","lon":"-118.25273700318908"},{"lat":"34.238064117652236","lon":"-118.25331068638981"}],"start_date":"11/05 08:00 am","substation":"4"},"type":"Feature"}
+
 ]}
