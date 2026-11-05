@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.850535,47.428914],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":true,"id":"367995","nbrOut":2,"timeOff":1793836796000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.85155,47.428945],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":true,"id":"367997","nbrOut":6,"timeOff":1793836796000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.85155,47.428945],"type":"Point"},"properties":{"cause":"220 UG Cable Fault","crewAssigned":true,"id":"367997","nbrOut":6,"timeOff":1793836796000},"type":"Feature"}
 ]}
