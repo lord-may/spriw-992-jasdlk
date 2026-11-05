@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.963845,37.675749],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T09:12:56.903-08:00","outageName":"51898051","outagePoint":{"lat":37.67574892582038,"lng":-120.96384488828835},"outageRecID":"2026-11-05-0018","outageStartTime":"2026-11-05T09:12:51.777-08:00","outageWorkStatus":"","streetsAffected":["Lifetime Drive"],"verified":false},"type":"Feature"}
+
 ]}
