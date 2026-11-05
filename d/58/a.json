@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.466312,47.53432],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"11/05/26 Scheduled outage for Inland Power crews to replace power poles.","crewAssigned":true,"estimateTime":1793923200000,"id":"527681","lifeCycleStatus":"Planned","nbrOut":1,"planned":true,"timeOff":1793910600000},"type":"Feature"},
-{"geometry":{"coordinates":[-117.669349,47.894022],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"id":"527804","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793915695737},"type":"Feature"}
+
 ]}

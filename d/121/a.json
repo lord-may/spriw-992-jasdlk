@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-116.112291,33.614755],[-116.105596,33.607178],[-116.096498,33.597742],[-116.09358,33.591021],[-116.069032,33.590735],[-116.061994,33.592308],[-116.065599,33.615184],[-116.076242,33.626763],[-116.095297,33.627621],[-116.10594,33.627478],[-116.110231,33.627192],[-116.112291,33.614755]]],"type":"Polygon"},"properties":{"Area":"Addresses Affected: 2","Circuit":"","CityID":23597,"CityName":"Salton City","CustomerAffected":"15","OutageLatitude":33.61232515493994,"OutageLongitude":-116.076413871426,"OutageReportInfo":"Streets affected are Lincoln, 59th Ave, 60th Ave, and 61st Ave in Thermal. Estimated restoration time is 12AM-2AM .","Outagedate":"11/04/26 01:44 PM","OutagedateDB":"2026-11-04T13:44:00","RestorationTime":"","Restorationdate":"","RestorationdateDB":null,"STATUS":"Unresolved","ServiceTypeID":1,"Title":"Power Outage","ZipCode":"92274"},"type":"Feature"}
+
 ]}
