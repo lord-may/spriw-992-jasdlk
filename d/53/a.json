@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.133333,46.796373],"type":"Point"},"properties":{"comment":"Crew in route","id":"201578","nbrOut":1,"planned":false,"timeOff":1793894924000},"type":"Feature"}
+{"geometry":{"coordinates":[-119.133333,46.796373],"type":"Point"},"properties":{"comment":"Crew in route","id":"201578","nbrOut":1,"planned":false,"timeOff":1793894924000},"type":"Feature"},
+{"geometry":{"coordinates":[-119.203626,46.591052],"type":"Point"},"properties":{"comment":"CONTRACT CREW/CONSTRUCTION","id":"201579","nbrOut":1,"planned":false,"timeOff":1793896862000},"type":"Feature"}
 ]}

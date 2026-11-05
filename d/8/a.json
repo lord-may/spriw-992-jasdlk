@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.88,46.242],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 10:00 AM on 11/05","icon":"standard","latitude":46.242,"longitude":-119.88,"outCount":1,"reported":"06:37 AM on 11/05","zip":"98930"},"type":"Feature"},
-{"geometry":{"coordinates":[-121.004,46.902],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":452,"etr":"Before 01:30 PM on 11/05","icon":"planned","latitude":46.902,"longitude":-121.004,"outCount":1,"reported":"07:12 AM on 11/05","zip":"98937"},"type":"Feature"}
+{"geometry":{"coordinates":[-121.004,46.902],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":452,"etr":"Before 01:30 PM on 11/05","icon":"planned","latitude":46.902,"longitude":-121.004,"outCount":1,"reported":"07:12 AM on 11/05","zip":"98937"},"type":"Feature"},
+{"geometry":{"coordinates":[-120.687,46.552],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":2,"etr":"Before 01:00 PM on 11/05","icon":"planned","latitude":46.552,"longitude":-120.687,"outCount":1,"reported":"08:33 AM on 11/05","zip":"98903"},"type":"Feature"}
 ]}
