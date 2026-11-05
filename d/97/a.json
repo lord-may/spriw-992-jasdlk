@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.234965,47.343562],"type":"Point"},"properties":{"AffectedCustomers":16,"Cause":"Equipment requiring repair","CommunityName":"Malaga/Three Lakes","CrewDispatched":null,"EndTimeFormatted":"Nov 04, 07:56 PM","EstimatedEndTime":null,"OBJECTID":1835,"OutageID":"6aebd44e2a111b402df67928","ProjectedDuration":null,"SpanishCause":"Requiere reparación el sistema","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Nov 04, 07:56 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 04, 04:55 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 04, 04:55 PM","Status":"Active"},"type":"Feature"}
 ]}
