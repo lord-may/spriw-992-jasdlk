@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-106.992243,39.376074],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Frying Pan / Ruedi area.","crewAssigned":true,"estimateTime":1793916000000,"id":"387244","nbrOut":464,"planned":false,"timeOff":1793895900000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.174269,39.066405],"type":"Point"},"properties":{"cause":"Tree with Ice/Snow or Wind","crewAssigned":true,"id":"387668","nbrOut":2,"planned":false,"timeOff":1793865194000},"type":"Feature"},
 {"geometry":{"coordinates":[-106.820171,39.373102],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Frying Pan area.","crewAssigned":true,"id":"387682","nbrOut":2,"planned":false,"timeOff":1793889949000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.993339,39.375317],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"387740","nbrOut":1,"planned":false,"timeOff":1793896392000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.714623,39.468562],"type":"Point"},"properties":{"crewAssigned":false,"id":"387751","nbrOut":1,"planned":false,"timeOff":1793904589000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.993339,39.375317],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"387740","nbrOut":1,"planned":false,"timeOff":1793896392000},"type":"Feature"}
 ]}
