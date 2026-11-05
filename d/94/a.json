@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.302027,64.74994],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T13:56:55.29-09:00","outageName":"DRS R2 SER_2458502","outagePoint":{"lat":64.74993984327357,"lng":-147.3020267190427},"outageRecID":"2026-11-05-0056","outageStartTime":"2026-11-05T13:49:48-09:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}

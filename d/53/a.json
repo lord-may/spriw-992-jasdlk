@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-119.203626,46.591052],"type":"Point"},"properties":{"comment":"CONTRACT CREW/CONSTRUCTION","id":"201579","nbrOut":1,"planned":false,"timeOff":1793896862000},"type":"Feature"},
-{"geometry":{"coordinates":[-118.961989,46.663545],"type":"Point"},"properties":{"comment":"Maintenance","id":"201580","nbrOut":1,"planned":false,"timeOff":1793913994000},"type":"Feature"},
-{"geometry":{"coordinates":[-118.208895,47.075333],"type":"Point"},"properties":{"id":"201628","nbrOut":1,"planned":false,"timeOff":1793921742000},"type":"Feature"}
+{"geometry":{"coordinates":[-118.194351,47.067342],"type":"Point"},"properties":{"id":"201629","nbrOut":2,"planned":false,"timeOff":1793921742000},"type":"Feature"}
 ]}
