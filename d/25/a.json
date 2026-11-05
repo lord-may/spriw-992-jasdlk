@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-107.174269,39.066405],"type":"Point"},"properties":{"cause":"Unknown Cause","crewAssigned":true,"id":"387668","nbrOut":2,"planned":false,"timeOff":1793865194000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.820171,39.373102],"type":"Point"},"properties":{"crewAssigned":false,"id":"387682","nbrOut":2,"planned":false,"timeOff":1793889949000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.876109,39.216055],"type":"Point"},"properties":{"crewAssigned":false,"id":"387686","nbrOut":5,"planned":false,"timeOff":1793890882000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.820171,39.373102],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Frying Pan area.","crewAssigned":true,"id":"387682","nbrOut":2,"planned":false,"timeOff":1793889949000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.876109,39.216055],"type":"Point"},"properties":{"cause":"Ice Snow Frost - Not Trees, Snowload","comment":"We are experiencing frequent and/or extended outages due to heavy snow load and downed trees. Our crews are currently working on restoring power as quickly and safely as possible. We apologies for any inconvenience and thank you for your patience.","crewAssigned":true,"id":"387686","nbrOut":5,"planned":false,"timeOff":1793890882000},"type":"Feature"}
 ]}
