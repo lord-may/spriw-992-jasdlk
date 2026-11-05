@@ -1,16 +1,12 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-107.038883,39.647712],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Dotsero area.","crewAssigned":true,"estimateTime":1793907000000,"id":"387240","nbrOut":2,"planned":false,"timeOff":1793892600000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.992243,39.376074],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Frying Pan / Ruedi area.","crewAssigned":true,"estimateTime":1793916000000,"id":"387244","nbrOut":464,"planned":true,"timeOff":1793895900000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.174269,39.066405],"type":"Point"},"properties":{"cause":"Tree with Ice/Snow or Wind","crewAssigned":true,"id":"387668","nbrOut":2,"planned":false,"timeOff":1793865194000},"type":"Feature"},
 {"geometry":{"coordinates":[-106.820171,39.373102],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Frying Pan area.","crewAssigned":true,"id":"387682","nbrOut":2,"planned":false,"timeOff":1793889949000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.04095,39.262517],"type":"Point"},"properties":{"crewAssigned":false,"id":"387723","nbrOut":1,"planned":false,"timeOff":1793895256000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516971,39.603347],"type":"Point"},"properties":{"crewAssigned":false,"id":"387724","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516971,39.603347],"type":"Point"},"properties":{"crewAssigned":false,"id":"387725","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516962,39.60334],"type":"Point"},"properties":{"crewAssigned":false,"id":"387726","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516971,39.60334],"type":"Point"},"properties":{"crewAssigned":false,"id":"387727","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516962,39.60334],"type":"Point"},"properties":{"crewAssigned":false,"id":"387728","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516971,39.60334],"type":"Point"},"properties":{"crewAssigned":false,"id":"387729","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516971,39.60334],"type":"Point"},"properties":{"crewAssigned":false,"id":"387730","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516971,39.60334],"type":"Point"},"properties":{"crewAssigned":false,"id":"387731","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516971,39.603347],"type":"Point"},"properties":{"crewAssigned":false,"id":"387732","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.516971,39.603347],"type":"Point"},"properties":{"crewAssigned":false,"id":"387733","nbrOut":1,"planned":false,"timeOff":1793895528000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.04095,39.262517],"type":"Point"},"properties":{"cause":"Ice Snow Frost - Not Trees, Snowload","comment":"We are experiencing frequent and/or extended outages due to adverse weather. Our crews are currently working on restoring power as quickly and safely as possible. We apologies for any inconvenience and thank you for your patience.","crewAssigned":true,"id":"387723","nbrOut":1,"planned":false,"timeOff":1793895256000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.516486,39.603644],"type":"Point"},"properties":{"crewAssigned":false,"id":"387729","nbrOut":45,"planned":false,"timeOff":1793895528000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.869308,39.286975],"type":"Point"},"properties":{"crewAssigned":false,"id":"387737","nbrOut":6,"planned":false,"timeOff":1793895860000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.865571,39.288678],"type":"Point"},"properties":{"crewAssigned":false,"id":"387738","nbrOut":1,"planned":false,"timeOff":1793895860000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.987967,39.312063],"type":"Point"},"properties":{"crewAssigned":false,"id":"387739","nbrOut":1,"planned":false,"timeOff":1793896049335},"type":"Feature"},
+{"geometry":{"coordinates":[-106.993339,39.375317],"type":"Point"},"properties":{"crewAssigned":false,"id":"387740","nbrOut":1,"planned":false,"timeOff":1793896392000},"type":"Feature"}
 ]}
