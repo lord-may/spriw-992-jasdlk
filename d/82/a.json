@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.851597,61.223395],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"3","EST_RESTORATION":"-","FEEDER":"S10F1","LATITUDE":"61.223395","LONGITUDE":"-149.851597","OUTAGE_START":"11/05/2026 10:30","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.851597,61.223395],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"3","EST_RESTORATION":"-","FEEDER":"S10F1","LATITUDE":"61.223395","LONGITUDE":"-149.851597","OUTAGE_START":"11/05/2026 10:30","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.746498,61.12983],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"2","EST_RESTORATION":"-","FEEDER":"OMSS 212","LATITUDE":"61.12983","LONGITUDE":"-149.746498","OUTAGE_START":"11/05/2026 11:00","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
