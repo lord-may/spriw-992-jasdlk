@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.216638,34.296511],"type":"Point"},"properties":{"cause":"NO OUTAGE","comment":"We are aware of the outage & crews are responding at this time. We will restore power as soon as possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":false,"id":"536020","nbrOut":1,"planned":false,"timeOff":1793685140000},"type":"Feature"}
+{"geometry":{"coordinates":[-110.216638,34.296511],"type":"Point"},"properties":{"cause":"NO OUTAGE","comment":"We are aware of the outage & crews are responding at this time. We will restore power as soon as possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":false,"id":"536020","nbrOut":1,"planned":false,"timeOff":1793685140000},"type":"Feature"},
+{"geometry":{"coordinates":[-109.967679,34.146765],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"536047","nbrOut":1,"planned":false,"timeOff":1793892094000},"type":"Feature"},
+{"geometry":{"coordinates":[-108.752321,33.718173],"type":"Point"},"properties":{"crewAssigned":false,"id":"536048","nbrOut":1,"planned":false,"timeOff":1793892553000},"type":"Feature"}
 ]}
