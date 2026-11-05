@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-124.275955,47.553039],[-124.294532,47.591706],[-124.295691,47.591681],[-124.296894,47.574564],[-124.275955,47.553039]]],"type":"Polygon"},{"coordinates":[-124.289429,47.573697],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Serviceman in route","id":"195163","nbrOut":14,"planned":false,"timeOff":1793841886000},"type":"Feature"}
+
 ]}
