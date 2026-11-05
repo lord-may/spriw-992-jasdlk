@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.817422,39.205238],"type":"Point"},"properties":{"cause":"Ice Snow Frost - Not Trees, Snowload","crewAssigned":true,"id":"387665","nbrOut":6,"planned":false,"timeOff":1793864329000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.817422,39.205252],"type":"Point"},"properties":{"cause":"Ice Snow Frost - Not Trees, Snowload","crewAssigned":true,"id":"387666","nbrOut":6,"planned":false,"timeOff":1793864329000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.174269,39.066405],"type":"Point"},"properties":{"cause":"Unknown Cause","crewAssigned":true,"id":"387668","nbrOut":2,"planned":false,"timeOff":1793865194000},"type":"Feature"}
 ]}
