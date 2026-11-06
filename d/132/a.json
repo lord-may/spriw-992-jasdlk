@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.872745,43.458689],"type":"Point"},"properties":{"adminstatus":"Acknowledged","comments":"","crewname":null,"eventname":null,"eventobjectlbl":null,"eventtype":null,"feeder":null,"futureuse1":"","futureuse2":"","futureuse3":"","id":"22594","lat":"43.4586889024366","lng":"-110.872745357986","name":"TC (6145 W LAZY H RD MH) <70440205>","priority":null,"starttime":"Nov  6 2026 11:21AM","status1":"","status2":"Unknown","substation":null,"totalaffected":"9","totalcalls":"0","totalouttime":null,"totalxfmr":null,"type":"Primary Fault"},"type":"Feature"}
+
 ]}
