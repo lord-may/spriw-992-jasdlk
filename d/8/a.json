@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.368,46.031],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":27,"etr":"Before 11:00 AM on 11/06","icon":"standard","latitude":46.031,"longitude":-118.368,"outCount":1,"reported":"07:56 AM on 11/06","zip":"99362"},"type":"Feature"}
+{"geometry":{"coordinates":[-118.368,46.031],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Arrived","custOut":27,"etr":"Before 11:00 AM on 11/06","icon":"standard","latitude":46.031,"longitude":-118.368,"outCount":1,"reported":"07:56 AM on 11/06","zip":"99362"},"type":"Feature"}
 ]}
