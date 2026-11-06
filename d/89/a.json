@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.804501,46.963577],[-123.800252,46.963847],[-123.804034,46.963884],[-123.8046,46.963884],[-123.804501,46.963577]]],"type":"Polygon"},{"coordinates":[-123.803118,46.963774],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"serviceman in route","id":"195169","nbrOut":4,"planned":false,"timeOff":1793927832649},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-123.800458,46.963467],[-123.79939,46.963761],[-123.799857,46.963841],[-123.804034,46.963884],[-123.800458,46.963467]]],"type":"Polygon"},{"coordinates":[-123.801258,46.963725],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"195170","nbrOut":6,"planned":false,"timeOff":1793929075903},"type":"Feature"}
 ]}
