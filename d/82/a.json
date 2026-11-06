@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.86251,61.136614],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"SLSS 312","LATITUDE":"61.136614","LONGITUDE":"-149.86251","OUTAGE_START":"11/06/2026 09:17","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.971333,61.146072],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"RBSS 712","LATITUDE":"61.146072","LONGITUDE":"-149.971333","OUTAGE_START":"11/06/2026 09:29","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
