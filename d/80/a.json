@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.942333,33.784527],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Dove Valley to Ron Rico Rd. and 64th St. to 66th St.","Cause":"Planned outage","City":"Cave Creek","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13605,"Ticket":"26-23101 7187088908","customers":5,"datastatus":"current","etr":1793968200000,"latLong":"33.784527164219_-111.9423329023","off":1793953920000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
 ]}
