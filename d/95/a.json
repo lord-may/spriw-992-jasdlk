@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.585199,47.350162],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T08:51:05.183-08:00","outageName":"0747196","outagePoint":{"lat":47.350162215184824,"lng":-122.58519923596556},"outageRecID":"2026-11-06-0030","outageStartTime":"2026-11-06T08:04:40-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
