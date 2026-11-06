@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.5632,45.72172],"type":"Point"},"properties":{"affectedCustomerCount":1,"cause":"Power line failure","estimatedRestoration":null,"key":"41827","lat":45.72172,"lon":-122.5632,"reported":"2026-11-05T18:30:00.000-08:00","status":null},"type":"Feature"}
+{"geometry":{"coordinates":[-122.5632,45.72172],"type":"Point"},"properties":{"affectedCustomerCount":1,"cause":"Power line failure","estimatedRestoration":"2026-11-06T01:00:00.000-08:00","key":"41827","lat":45.72172,"lon":-122.5632,"reported":"2026-11-05T18:30:00.000-08:00","status":null},"type":"Feature"},
+{"geometry":{"coordinates":[-122.59655,45.649395],"type":"Point"},"properties":{"affectedCustomerCount":1,"cause":"Planned Maintenance","estimatedRestoration":"2026-11-06T01:00:00.000-08:00","key":"41828","lat":45.649395,"lon":-122.59655,"reported":"2026-11-05T21:29:00.000-08:00","status":null},"type":"Feature"}
 ]}
