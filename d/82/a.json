@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.971333,61.146072],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"RBSS 712","LATITUDE":"61.146072","LONGITUDE":"-149.971333","OUTAGE_START":"11/06/2026 09:29","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.971333,61.146072],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"SCOTT LANDA","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"RBSS 712","LATITUDE":"61.146072","LONGITUDE":"-149.971333","OUTAGE_START":"11/06/2026 09:29","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.937789,61.198012],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"DOMINIC HODGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"TNSS 142","LATITUDE":"61.198012","LONGITUDE":"-149.937789","OUTAGE_START":"11/06/2026 09:47","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
