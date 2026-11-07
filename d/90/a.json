@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.838848,47.434256],"type":"Point"},"properties":{"cause":"Service Order Related Outage","crewAssigned":true,"id":"368121","nbrOut":1,"timeOff":1794072639000},"type":"Feature"}
+
 ]}
