@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.965243,36.135153],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T09:20:00.617-08:00","outageName":"5557D1423","outagePoint":{"lat":36.13515298252662,"lng":-115.96524257678952},"outageRecID":"2026-11-07-0027","outageStartTime":"2026-11-07T09:19:48-08:00","outageWorkStatus":"","streetsAffected":["S OAKRIDGE"],"verified":false},"type":"Feature"}
 ]}
