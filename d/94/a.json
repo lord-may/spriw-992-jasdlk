@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.713634,64.837149],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T09:06:05.98-09:00","outageName":"SSS B2 TRA_320692","outagePoint":{"lat":64.83714903397433,"lng":-147.71363429598915},"outageRecID":"2026-11-07-0084","outageStartTime":"2026-11-07T09:01:34-09:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
