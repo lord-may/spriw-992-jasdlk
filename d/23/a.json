@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.273115,38.580514],"type":"Point"},"properties":{"AFFECTEDAREA":"Rancho Cordova 95670","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110600076","OUTAGEBEGINTIME":"Today at  9:44 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.273115226062","Y_COORD":"38.5805135262846","name":"1","style":"Style3"},"type":"Feature"}
+
 ]}
