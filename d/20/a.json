@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-118.284366,34.066558],"type":"Point"},"properties":{"CENTROID_LAT":34.066558,"CENTROID_LNG":-118.284366,"CITY_NAM":"WESTLAKE","COUNT_IN_RANK":1,"COUNT_OTHERS":null,"ETR_DATETIME":1794061800000,"ETR_DATETIME_CHAR":"11/07/2026 14:30","FAC_JOB_STATUS_NAM":"ASSIGNED","OBJECTID":266387,"OUTAGE_RANK":1},"type":"Feature"}
 ]}
