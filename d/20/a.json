@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.328712,33.98122],"type":"Point"},"properties":{"CENTROID_LAT":33.98122,"CENTROID_LNG":-118.328712,"CITY_NAM":"HYDE PARK","COUNT_IN_RANK":96,"COUNT_OTHERS":null,"ETR_DATETIME":null,"ETR_DATETIME_CHAR":null,"FAC_JOB_STATUS_NAM":"CREWS WORKING","OBJECTID":266333,"OUTAGE_RANK":1},"type":"Feature"}
+{"geometry":{"coordinates":[-118.328712,33.98122],"type":"Point"},"properties":{"CENTROID_LAT":33.98122,"CENTROID_LNG":-118.328712,"CITY_NAM":"HYDE PARK","COUNT_IN_RANK":96,"COUNT_OTHERS":null,"ETR_DATETIME":null,"ETR_DATETIME_CHAR":null,"FAC_JOB_STATUS_NAM":"CREWS WORKING","OBJECTID":266334,"OUTAGE_RANK":1},"type":"Feature"}
 ]}
