@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.836,41.612],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 08:30 PM on 11/06","icon":"standard","latitude":41.612,"longitude":-122.836,"outCount":1,"reported":"05:13 PM on 11/06","zip":"96032"},"type":"Feature"}
 ]}
