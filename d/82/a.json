@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.723557,60.485635],"type":"Point"},"properties":{"CITY":"COOPER LANDING","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DCSS 352","LATITUDE":"60.485635","LONGITUDE":"-149.723557","OUTAGE_START":"11/06/2026 10:20","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.761305,61.185656],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"BXSS 282","LATITUDE":"61.185656","LONGITUDE":"-149.761305","OUTAGE_START":"11/06/2026 18:11","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.723557,60.485635],"type":"Point"},"properties":{"CITY":"COOPER LANDING","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DCSS 352","LATITUDE":"60.485635","LONGITUDE":"-149.723557","OUTAGE_START":"11/06/2026 10:20","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
