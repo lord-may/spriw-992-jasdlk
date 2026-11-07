@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.650932,35.836366],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-06T14:47:43.64-08:00","outageName":"09272","outagePoint":{"lat":35.836365794234986,"lng":-115.65093237584699},"outageRecID":"2026-11-06-0025","outageStartTime":"2026-11-06T12:46:29-08:00","outageWorkStatus":"","streetsAffected":["JASPER"],"verified":true},"type":"Feature"}
+
 ]}

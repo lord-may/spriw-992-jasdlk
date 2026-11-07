@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.741956,61.143087],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"3","EST_RESTORATION":"-","FEEDER":"OMSS 212","LATITUDE":"61.143087","LONGITUDE":"-149.741956","OUTAGE_START":"11/06/2026 14:01","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.741956,61.143087],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"_LINEWORKS","CUSTOMERS_AFFECTED":"3","EST_RESTORATION":"-","FEEDER":"OMSS 212","LATITUDE":"61.143087","LONGITUDE":"-149.741956","OUTAGE_START":"11/06/2026 14:01","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
