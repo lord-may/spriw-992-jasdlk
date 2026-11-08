@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.202,41.285],"type":"Point"},"properties":{"cause":"Vehicle Accident","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"standard","latitude":41.285,"longitude":-112.202,"outCount":1,"reported":"02:05 PM on 11/07","zip":"84404"},"type":"Feature"},
 {"geometry":{"coordinates":[-112.318,40.61],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Arrived","custOut":1,"etr":"Assessing","icon":"standard","latitude":40.61,"longitude":-112.318,"outCount":1,"reported":"06:24 PM on 11/07","zip":"84074"},"type":"Feature"},
 {"geometry":{"coordinates":[-111.805,40.687],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":1279,"etr":"Before 05:00 AM on 11/08","icon":"planned","latitude":40.687,"longitude":-111.805,"outCount":1,"reported":"11:01 PM on 11/07","zip":"84124, 84109"},"type":"Feature"}
 ]}
