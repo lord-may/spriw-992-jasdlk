@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.248376,31.498785],"type":"Point"},"properties":{"CAUSE":"Equipment Failure","CUSTOMER_COUNT":1,"GlobalID":"719f9417-12cb-4178-b341-cb2e666278dd","INCIDENT_ID":21380,"MetersRestored":0,"OBJECTID":1,"REGION":"Sierra Vista","STATUS":"Power Out","TIME_OUTAGE":1793294298000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"},
-{"geometry":{"coordinates":[-109.360367,31.864765],"type":"Point"},"properties":{"CAUSE":"Investigating","CUSTOMER_COUNT":12,"GlobalID":"64e859e4-7a1f-48ae-a5c5-cc6ac62ce7fc","INCIDENT_ID":21452,"MetersRestored":0,"OBJECTID":2,"REGION":"Elfrida","STATUS":"Power Out","TIME_OUTAGE":1794019917000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
+{"geometry":{"coordinates":[-110.248376,31.498785],"type":"Point"},"properties":{"CAUSE":"Equipment Failure","CUSTOMER_COUNT":1,"GlobalID":"b2d173e1-d177-4230-be82-28047c689e35","INCIDENT_ID":21380,"MetersRestored":0,"OBJECTID":1,"REGION":"Sierra Vista","STATUS":"Power Out","TIME_OUTAGE":1793294298000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
 ]}
