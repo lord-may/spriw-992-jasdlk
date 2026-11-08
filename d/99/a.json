@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.303048,46.815045],"type":"Point"},"properties":{"Cause":"Current Outage","Created":1794079428000,"CustAffected":11,"ETR":null,"OBJECTID":1,"OutageID":2001185508,"Outage_Cause_Details":"Current Outage","Status":"Outage Reported"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.445191,46.960855],"type":"Point"},"properties":{"Cause":"Current Outage","Created":1794131575000,"CustAffected":2,"ETR":1794133800000,"OBJECTID":1,"OutageID":2001185597,"Outage_Cause_Details":"Current Outage","Status":"Repair in Progress"},"type":"Feature"},
+{"geometry":{"coordinates":[-122.303048,46.815045],"type":"Point"},"properties":{"Cause":"Current Outage","Created":1794079428000,"CustAffected":11,"ETR":null,"OBJECTID":2,"OutageID":2001185508,"Outage_Cause_Details":"Current Outage","Status":"Outage Reported"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.864095,44.621523],"type":"Point"},"properties":{"cause":"Tree On the Line","code":"60","crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T03:02:40.497-08:00","outageName":"","outagePoint":{"lat":44.62152326977986,"lng":-123.86409454514246},"outageRecID":"2026-11-07-0199","outageStartTime":"2026-11-07T23:52:20-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
