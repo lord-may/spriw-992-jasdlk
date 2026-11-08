@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.361115,38.465554],"type":"Point"},"properties":{"AFFECTEDAREA":"Florin","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110800021","OUTAGEBEGINTIME":"Today at  9:19 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"20 - ASSESSING","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.361114791929","Y_COORD":"38.4655543795406","name":"1","style":"Style3"},"type":"Feature"},
+{"geometry":{"coordinates":[-121.45462,38.566581],"type":"Point"},"properties":{"AFFECTEDAREA":"East Sacramento","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110800022","OUTAGEBEGINTIME":"Today at  10:10 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.454620119534","Y_COORD":"38.5665814023833","name":"1","style":"Style3"},"type":"Feature"}
 ]}
