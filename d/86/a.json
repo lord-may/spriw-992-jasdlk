@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-122.1418,46.5307],[-122.140345,46.530731],[-122.140066,46.532202],[-122.141495,46.532468],[-122.143848,46.532412],[-122.146453,46.531528],[-122.1418,46.5307]]],"type":"Polygon"},{"coordinates":[-122.142618,46.531627],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Tree/Limb ","id":"214174","nbrOut":9,"planned":false,"timeOff":1794116947000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.108832,46.523351],"type":"Point"},"properties":{"cause":"None Selected","id":"214292","nbrOut":1,"planned":false,"timeOff":1794145010493},"type":"Feature"}
+
 ]}
