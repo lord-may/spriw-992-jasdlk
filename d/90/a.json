@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-123.188472,47.39866],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":true,"id":"368211","nbrOut":1,"timeOff":1794124641402},"type":"Feature"},
 {"geometry":{"coordinates":[-123.399567,47.160945],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368217","nbrOut":1,"timeOff":1794133457000},"type":"Feature"},
-{"geometry":{"coordinates":[-123.092874,47.126423],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368219","nbrOut":3,"timeOff":1794134246000},"type":"Feature"}
+{"geometry":{"coordinates":[-123.092874,47.126423],"type":"Point"},"properties":{"cause":"106 OH Tree on Pri Line/XFMR","crewAssigned":false,"id":"368219","nbrOut":3,"timeOff":1794134246000},"type":"Feature"}
 ]}
