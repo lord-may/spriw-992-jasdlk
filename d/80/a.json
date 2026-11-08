@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.115991,33.614975],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Winchcomb Dr. and Black Canyon Hwy. to 35th Ave.","Cause":"Outage Reported in Area","City":"Phoenix","Comments":"Multiple customers have reported an outage in this area. We are investigating and will provide an update once we know more.  Thank you for your patience.","MediaLink":null,"OBJECTID":13586,"Ticket":"7187089232","customers":36,"datastatus":"current","etr":1794082500000,"latLong":"33.614974784947_-112.1159910612","off":1794073440000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}
