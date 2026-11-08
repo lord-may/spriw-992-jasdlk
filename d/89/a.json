@@ -43,9 +43,9 @@
 {"geometry":{"coordinates":[-123.352055,47.041044],"type":"Point"},"properties":{"id":"195338","nbrOut":1,"planned":false,"timeOff":1794133392297},"type":"Feature"},
 {"geometry":{"coordinates":[-123.350915,47.077174],"type":"Point"},"properties":{"id":"195339","nbrOut":1,"planned":false,"timeOff":1794133410802},"type":"Feature"},
 {"geometry":{"coordinates":[-123.391348,47.006512],"type":"Point"},"properties":{"id":"195344","nbrOut":1,"planned":false,"timeOff":1794134001558},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-123.351903,47.031119],[-123.334978,47.052423],[-123.334996,47.055924],[-123.335014,47.057044],[-123.341878,47.057496],[-123.359323,47.032619],[-123.359925,47.031419],[-123.351903,47.031119]]],"type":"Polygon"},{"coordinates":[-123.34636,47.044404],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"195345","nbrOut":64,"planned":false,"timeOff":1794132870294},"type":"Feature"},
+{"geometry":{"coordinates":[-123.34636,47.044404],"type":"Point"},"properties":{"id":"195345","nbrOut":64,"planned":false,"timeOff":1794132870294},"type":"Feature"},
 {"geometry":{"coordinates":[-123.371782,47.039458],"type":"Point"},"properties":{"id":"195346","nbrOut":1,"planned":false,"timeOff":1794134524216},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-123.350726,47.029662],[-123.35087,47.030354],[-123.351373,47.029999],[-123.350726,47.029662]]],"type":"Polygon"},{"coordinates":[-123.350986,47.030005],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"195347","nbrOut":3,"planned":false,"timeOff":1794133523470},"type":"Feature"},
+{"geometry":{"coordinates":[-123.350986,47.030005],"type":"Point"},"properties":{"id":"195347","nbrOut":3,"planned":false,"timeOff":1794133523470},"type":"Feature"},
 {"geometry":{"coordinates":[-123.345156,47.07748],"type":"Point"},"properties":{"id":"195348","nbrOut":1,"planned":false,"timeOff":1794135647135},"type":"Feature"},
 {"geometry":{"coordinates":[-124.046929,47.059014],"type":"Point"},"properties":{"id":"195349","nbrOut":1,"planned":false,"timeOff":1794135708947},"type":"Feature"}
 ]}
