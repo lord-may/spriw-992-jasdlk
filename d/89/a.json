@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-124.291711,47.575315],"type":"Point"},"properties":{"id":"195195","nbrOut":1,"planned":false,"timeOff":1794101289151},"type":"Feature"},
-{"geometry":{"coordinates":[-124.199652,47.192868],"type":"Point"},"properties":{"id":"195196","nbrOut":1,"planned":false,"timeOff":1794101406237},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-124.147846,47.045145],[-124.123897,47.047722],[-124.123115,47.048157],[-124.109084,47.056058],[-124.106775,47.057992],[-124.107691,47.059094],[-124.114141,47.06066],[-124.114411,47.060593],[-124.148008,47.045316],[-124.147846,47.045145]]],"type":"Polygon"},{"coordinates":[-124.124328,47.052551],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"pole po 6/14 andrew has 1 c/o blown open & patrolling","id":"195197","nbrOut":20,"planned":false,"timeOff":1794101990745},"type":"Feature"},
 {"geometry":{"coordinates":[-124.156434,47.004545],"type":"Point"},"properties":{"id":"195198","nbrOut":1,"planned":false,"timeOff":1794102133636},"type":"Feature"}
 ]}
