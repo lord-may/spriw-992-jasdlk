@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.38047,45.582005],"type":"Point"},"properties":{"affectedCustomerCount":65,"cause":"Tree into power lines","estimatedRestoration":"2026-11-08T06:30:00.000-08:00","key":"41840","lat":45.582005,"lon":-122.38047,"reported":"2026-11-07T21:59:00.000-08:00","status":null},"type":"Feature"},
-{"geometry":{"coordinates":[-122.55656,45.842346],"type":"Point"},"properties":{"affectedCustomerCount":5,"cause":"Vehicle accident","estimatedRestoration":null,"key":"41843","lat":45.842346,"lon":-122.55656,"reported":"2026-11-07T23:19:00.000-08:00","status":null},"type":"Feature"},
+{"geometry":{"coordinates":[-122.504654,45.58781],"type":"Point"},"properties":{"affectedCustomerCount":3,"cause":"Other","estimatedRestoration":null,"key":"41846","lat":45.58781,"lon":-122.504654,"reported":"2026-11-07T23:03:00.000-08:00","status":null},"type":"Feature"},
 {"geometry":{"coordinates":[-122.40044,45.935135],"type":"Point"},"properties":{"affectedCustomerCount":11,"cause":null,"estimatedRestoration":null,"key":"41845","lat":45.935135,"lon":-122.40044,"reported":"2026-11-08T03:31:00.000-08:00","status":null},"type":"Feature"},
 {"geometry":{"coordinates":[-122.39352,45.65057],"type":"Point"},"properties":{"affectedCustomerCount":1,"cause":"Tree into power lines","estimatedRestoration":null,"key":"41844","lat":45.65057,"lon":-122.39352,"reported":"2026-11-08T04:49:00.000-08:00","status":null},"type":"Feature"}
 ]}
