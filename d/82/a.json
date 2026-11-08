@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.819717,61.15042],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JEREMIAH JIRIK","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DLSS 612","LATITUDE":"61.15042","LONGITUDE":"-149.819717","OUTAGE_START":"11/08/2026 01:20","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.819717,61.15042],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JEREMIAH JIRIK","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DLSS 612","LATITUDE":"61.15042","LONGITUDE":"-149.819717","OUTAGE_START":"11/08/2026 01:20","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.956237,61.146254],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"8","EST_RESTORATION":"-","FEEDER":"JLSS 142","LATITUDE":"61.146254","LONGITUDE":"-149.956237","OUTAGE_START":"11/08/2026 11:17","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
