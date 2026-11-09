@@ -1,7 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-123.79276,44.058825],[-123.792122,44.059141],[-123.791511,44.060006],[-123.78958,44.063595],[-123.789158,44.06479],[-123.79276,44.058825]]],"type":"Polygon"},{"coordinates":[-123.791035,44.06133],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"415112","lifeCycleStatus":"Planned Outage","nbrOut":6,"timeOff":1794243600000},"type":"Feature"},
-{"geometry":{"coordinates":[-124.079862,44.509468],"type":"Point"},"properties":{"id":"415219","lifeCycleStatus":"Planned Outage","nbrOut":2,"timeOff":1794238773000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-124.100487,44.328405],[-124.099885,44.328681],[-124.099562,44.329767],[-124.099741,44.32996],[-124.099975,44.329998],[-124.10019,44.329992],[-124.101682,44.329915],[-124.101682,44.329902],[-124.101053,44.328488],[-124.100487,44.328405]]],"type":"Polygon"},{"coordinates":[-124.100568,44.329298],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"415122","lifeCycleStatus":"Planned Outage","nbrOut":32,"timeOff":1794249000000},"type":"Feature"},
 {"geometry":{"coordinates":[-123.795617,44.057043],"type":"Point"},"properties":{"id":"415220","lifeCycleStatus":"Planned Outage","nbrOut":1,"timeOff":1794244190000},"type":"Feature"},
 {"geometry":{"coordinates":[-124.119899,44.021197],"type":"Point"},"properties":{"id":"415221","lifeCycleStatus":"Planned Outage","nbrOut":1,"timeOff":1794244576000},"type":"Feature"},
-{"geometry":{"coordinates":[-124.064437,44.816364],"type":"Point"},"properties":{"id":"415223","lifeCycleStatus":"Crew Assigned","nbrOut":2,"timeOff":1794245614000},"type":"Feature"}
+{"geometry":{"coordinates":[-124.064437,44.816364],"type":"Point"},"properties":{"id":"415223","lifeCycleStatus":"Crew Assigned","nbrOut":2,"timeOff":1794245614000},"type":"Feature"},
+{"geometry":{"coordinates":[-124.106874,43.967305],"type":"Point"},"properties":{"id":"415224","nbrOut":1,"timeOff":1794249299797},"type":"Feature"}
 ]}
