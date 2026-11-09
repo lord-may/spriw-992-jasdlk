@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.217997,34.129703],"type":"Point"},"properties":{"CENTROID_LAT":34.129703,"CENTROID_LNG":-118.217997,"CITY_NAM":"EAGLE ROCK","COUNT_IN_RANK":22,"COUNT_OTHERS":null,"ETR_DATETIME":null,"ETR_DATETIME_CHAR":null,"FAC_JOB_STATUS_NAM":"ASSIGNED","OBJECTID":266698,"OUTAGE_RANK":1},"type":"Feature"}
+{"geometry":{"coordinates":[-118.217997,34.129703],"type":"Point"},"properties":{"CENTROID_LAT":34.129703,"CENTROID_LNG":-118.217997,"CITY_NAM":"EAGLE ROCK","COUNT_IN_RANK":22,"COUNT_OTHERS":null,"ETR_DATETIME":null,"ETR_DATETIME_CHAR":null,"FAC_JOB_STATUS_NAM":"ASSIGNED","OBJECTID":266699,"OUTAGE_RANK":1},"type":"Feature"}
 ]}
