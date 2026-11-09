@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.366116,38.55841],"type":"Point"},"properties":{"AFFECTEDAREA":"Rosemont","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110900018","OUTAGEBEGINTIME":"Today at  6:41 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.366116029301","Y_COORD":"38.558410413037","name":"1","style":"Style3"},"type":"Feature"}
 ]}
