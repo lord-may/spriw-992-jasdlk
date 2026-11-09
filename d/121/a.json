@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-114.588876,32.810281],[-114.592567,32.806457],[-114.592481,32.801696],[-114.583727,32.802057],[-114.583727,32.808117],[-114.588876,32.810281]]],"type":"Polygon"},"properties":{"Area":"Addresses Affected: 2","Circuit":"","CityID":29256,"CityName":"Winterhaven","CustomerAffected":"5","OutageLatitude":32.80559157683652,"OutageLongitude":-114.587503170503,"OutageReportInfo":"Forced outage due to broken pole. Streets affected are W Parkman Rd and Aaron Rd. Estimated restoration time is 9PM - 11PM.","Outagedate":"11/06/26 05:38 PM","OutagedateDB":"2026-11-06T17:38:00","RestorationTime":"","Restorationdate":"","RestorationdateDB":null,"STATUS":"Unresolved","ServiceTypeID":1,"Title":"Forced Outage - Winterhaven","ZipCode":"92283"},"type":"Feature"}
+
 ]}
