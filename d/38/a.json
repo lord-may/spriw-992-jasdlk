@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.239289,32.247683],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390234","nbrOut":1,"planned":true,"timeOff":1793629015000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.239289,32.247683],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390234","nbrOut":1,"planned":true,"timeOff":1793629015000},"type":"Feature"},
+{"geometry":{"coordinates":[-111.224961,32.29533],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1794250800000,"id":"390321","nbrOut":4,"planned":true,"timeOff":1794236400000},"type":"Feature"}
 ]}

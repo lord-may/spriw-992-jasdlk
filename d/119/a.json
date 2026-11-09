@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-116.808383,47.852426],"type":"Point"},"properties":{"ETR":"1:00PM Thu Nov 12","MembersOut":"2","OI_STATUS_CD":"N","description":["Members","2","Time Off","8:00AM Thu Nov 12","Est Time On","1:00PM Thu Nov 12"],"name":"355957","style":"KMLStyler_4"},"type":"Feature"},
-{"geometry":{"coordinates":[-116.790181,47.393992],"type":"Point"},"properties":{"ETR":"10:00AM Mon Nov 09","MembersOut":"1","OI_STATUS_CD":"V","description":["Members","1","Est Time On","10:00AM Mon Nov 09"],"name":"355971","style":"KMLStyler_2"},"type":"Feature"}
+{"geometry":{"coordinates":[-116.790181,47.393992],"type":"Point"},"properties":{"ETR":"10:00AM Mon Nov 09","MembersOut":"1","OI_STATUS_CD":"V","Status":"Assigned","description":["Members","1","Est Time On","10:00AM Mon Nov 09"],"name":"355971","style":"KMLStyler_2"},"type":"Feature"}
 ]}
