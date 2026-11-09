@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-104.662345,39.107125],[-104.656461,39.108345],[-104.655437,39.108568],[-104.654297,39.109224],[-104.654261,39.11206],[-104.669927,39.132766],[-104.670646,39.132989],[-104.673799,39.131525],[-104.67759,39.124745],[-104.676638,39.109133],[-104.662345,39.107125]]],"type":"Polygon"},{"coordinates":[-104.667807,39.117797],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crews have been dispatched and are en route to restore power as quickly and safely as possible.","crewAssigned":true,"estimateTime":1794250800000,"id":"215654","nbrOut":71,"planned":false,"timeOff":1794239476000},"type":"Feature"}
 ]}
