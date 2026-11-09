@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-123.257023,46.8588],"type":"Point"},"properties":{"id":"195633","nbrOut":2,"planned":false,"timeOff":1794181466396},"type":"Feature"},
-{"geometry":{"coordinates":[-124.199787,47.19697],"type":"Point"},"properties":{"comment":"We are actively working on power restoration.","id":"195635","nbrOut":1,"planned":true,"timeOff":1794186412015},"type":"Feature"},
 {"geometry":{"coordinates":[-123.891673,46.984105],"type":"Point"},"properties":{"id":"195636","nbrOut":5,"planned":false,"timeOff":1794187054821},"type":"Feature"},
 {"geometry":{"coordinates":[-123.884837,47.40809],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195637","nbrOut":2,"planned":false,"timeOff":1794188458236},"type":"Feature"}
 ]}
