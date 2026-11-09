@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-106.865203,39.211162],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for underground construction in the Aspen Airport area.","crewAssigned":true,"estimateTime":1794250800000,"id":"387232","nbrOut":8,"planned":true,"timeOff":1794243600000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.204281,39.351537],"type":"Point"},"properties":{"cause":"Member Requested Outage","crewAssigned":true,"id":"387829","nbrOut":1,"planned":false,"timeOff":1794240108000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.208791,39.076329],"type":"Point"},"properties":{"cause":"Member Requested Outage","crewAssigned":true,"id":"387831","nbrOut":1,"planned":false,"timeOff":1794241273000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.977686,39.446776],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage in the Battlment Creek area to replace a defective power pole.","crewAssigned":true,"id":"387844","nbrOut":3,"planned":false,"timeOff":1794243054000},"type":"Feature"}
