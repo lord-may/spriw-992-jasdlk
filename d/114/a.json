@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.52329,45.835133],"type":"Point"},"properties":{"affectedCustomerCount":3,"cause":"Power line failure","estimatedRestoration":"2026-11-09T12:30:00.000-08:00","key":"41852","lat":45.835133,"lon":-122.52329,"reported":"2026-11-08T18:25:00.000-08:00","status":null},"type":"Feature"}
+
 ]}
