@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.100833,47.220196],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368320","nbrOut":4,"timeOff":1794260188000},"type":"Feature"}
+{"geometry":{"coordinates":[-123.100833,47.220196],"type":"Point"},"properties":{"cause":"Planned Outage","crewAssigned":true,"id":"368320","lifeCycleStatus":"Planned Outage","nbrOut":4,"timeOff":1794260188000},"type":"Feature"}
 ]}
