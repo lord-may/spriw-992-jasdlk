@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.81321,37.516355],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"564c95db66659b91c8ce33c8":"Under Investigation","65e9e255db37c33c7551036d":"Outage Reported","65e9f27cdb37c33c7551037c":"Unplanned Outage","currentAffected":"1","outageStepOffTime":"2026-11-10T21:16:53Z","publishedEtr":"2026-11-11T00:30:00Z","updatedAt":"2026-11-10T21:33:05Z"},"geoJSONPolygon":null,"id":"6af38d90b50c11422f51a700","lat":37.516355,"lon":-120.81321,"serviceType":"Electric"},"type":"Feature"}
 ]}
