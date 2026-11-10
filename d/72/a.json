@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.907232,45.060164],[-123.907762,45.061794],[-123.9205,45.07284],[-123.924183,45.075987],[-123.956999,45.093391],[-123.958077,45.093575],[-123.973645,45.090493],[-123.915847,45.062461],[-123.907232,45.060164]]],"type":"Polygon"},{"coordinates":[-123.940524,45.079044],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Wind and Trees","crewAssigned":true,"estimateTime":1794274200000,"id":"381126","nbrOut":57,"planned":false,"timeOff":1794265912928},"type":"Feature"}
+
 ]}
