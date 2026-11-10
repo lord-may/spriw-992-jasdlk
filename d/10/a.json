@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.103,43.658],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"standard","latitude":43.658,"longitude":-112.103,"outCount":1,"reported":"04:23 PM on 11/09","zip":"83444"},"type":"Feature"}
+{"geometry":{"coordinates":[-112.103,43.658],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Notified","custOut":1,"etr":"Before 12:00 AM on 11/10","icon":"standard","latitude":43.658,"longitude":-112.103,"outCount":1,"reported":"04:23 PM on 11/09","zip":"83444"},"type":"Feature"}
 ]}
