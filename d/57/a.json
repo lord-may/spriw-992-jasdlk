@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.675337,47.174155],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","id":"262227","nbrOut":2,"planned":true,"timeOff":1793131086000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.675337,47.174155],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","id":"262227","nbrOut":2,"planned":true,"timeOff":1793131086000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-122.698962,47.170393],[-122.697498,47.171022],[-122.698262,47.171962],[-122.701855,47.17319],[-122.703768,47.171309],[-122.703625,47.17101],[-122.702636,47.170472],[-122.698962,47.170393]]],"type":"Polygon"},{"coordinates":[-122.700777,47.171523],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"New Outage, Cause Unknown","comment":"TEC is aware of an outage affecting the area near Wapato and Kootenai on Anderson Island. Crew are heading that way.","id":"263025","nbrOut":19,"planned":false,"timeOff":1794325318565},"type":"Feature"}
 ]}
