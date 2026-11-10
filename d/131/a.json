@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.890492,40.416615],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-10T16:53:13.757-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T14:53:13.8-07:00","outageName":"T_636","outagePoint":{"lat":40.41661482288093,"lng":-111.89049234433483},"outageRecID":"2026-11-10-0017","outageStartTime":"2026-11-10T14:53:04-07:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["W 2350 N"],"verified":false},"type":"Feature"}
+
 ]}
