@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.508,46.611],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:30 PM on 11/09","icon":"standard","latitude":46.611,"longitude":-120.508,"outCount":1,"reported":"03:07 PM on 11/09","zip":"98902"},"type":"Feature"}
+{"geometry":{"coordinates":[-120.741,46.736],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 08:00 PM on 11/09","icon":"standard","latitude":46.736,"longitude":-120.741,"outCount":1,"reported":"04:47 PM on 11/09","zip":"98937"},"type":"Feature"}
 ]}
