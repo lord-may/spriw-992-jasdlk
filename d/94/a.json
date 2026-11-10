@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.669513,64.943991],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T04:27:33.933-09:00","outageName":"FXS R1 FUS_2292","outagePoint":{"lat":64.94399142839553,"lng":-147.66951324023773},"outageRecID":"2026-11-10-0112","outageStartTime":"2026-11-10T04:18:01-09:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
