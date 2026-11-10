@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.300215,38.248851],"type":"Point"},"properties":{"AFFECTEDAREA":"Galt","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26110900113","OUTAGEBEGINTIME":"Today at  10:31 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.300215405625","Y_COORD":"38.2488512893016","name":"1","style":"Style3"},"type":"Feature"}
+
 ]}
