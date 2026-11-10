@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-120.354381,47.310651],[-120.342309,47.303414],[-120.295847,47.339232],[-120.307921,47.346474],[-120.354381,47.310651]]],"type":"Polygon"},"properties":{"AffectedCustomers":26,"Cause":"Other Party","CommunityName":"Stemilt Hill","CrewDispatched":null,"EndTimeFormatted":"Nov 10, 05:02 PM","EstimatedEndTime":null,"OBJECTID":1841,"OutageID":"6af3913e2a111b402df6cb5e","ProjectedDuration":null,"Shape__Area":69551752.63090515,"Shape__Length":42827.74687796466,"SpanishCause":"Otra agencia","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Nov 10, 05:02 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 10, 01:47 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 10, 01:47 PM","Status":"Active"},"type":"Feature"}
+
 ]}
