@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.480017,64.903413],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-10T14:26:41.927-09:00","outageName":"BKS R4 FUS_1042","outagePoint":{"lat":64.90341263976742,"lng":-147.48001722846723},"outageRecID":"2026-11-10-0129","outageStartTime":"2026-11-10T14:21:45-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
