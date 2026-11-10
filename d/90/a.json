@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.119401,47.223338],"type":"Point"},"properties":{"cause":"105 OH Vehicle-Pole/Lines/Guy Wire","crewAssigned":true,"id":"368414","nbrOut":164,"timeOff":1794347548000},"type":"Feature"},
-{"geometry":{"coordinates":[-123.119455,47.219946],"type":"Point"},"properties":{"cause":"105 OH Vehicle-Pole/Lines/Guy Wire","crewAssigned":true,"id":"368417","nbrOut":66,"timeOff":1794339241255},"type":"Feature"}
+{"geometry":{"coordinates":[-123.119401,47.223338],"type":"Point"},"properties":{"cause":"105 OH Vehicle-Pole/Lines/Guy Wire","crewAssigned":true,"estimateTime":1794364200000,"id":"368414","nbrOut":164,"timeOff":1794347548000},"type":"Feature"},
+{"geometry":{"coordinates":[-123.119455,47.219946],"type":"Point"},"properties":{"cause":"105 OH Vehicle-Pole/Lines/Guy Wire","crewAssigned":true,"estimateTime":1794364200000,"id":"368417","nbrOut":66,"timeOff":1794339241255},"type":"Feature"}
 ]}
