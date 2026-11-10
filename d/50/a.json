@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-120.578642,39.79164],[-120.580645,39.794311],[-120.58166,39.794304],[-120.578642,39.79164]]],"type":"Polygon"},{"coordinates":[-120.580313,39.793421],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Other planned","comment":"PLANNED OUTAGE FOR CREW TO REPLACE JUNCTION BOX.","crewAssigned":false,"estimateTime":1793916000000,"id":"232422","nbrOut":3,"planned":true,"timeOff":1793896200000},"type":"Feature"}
+
 ]}
