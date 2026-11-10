@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.476754,38.5837],"type":"Point"},"properties":{"AFFECTEDAREA":"Downtown Sacramento","CALLCOUNT":"0","CAUSE_CODE":"EMERGENCY SHUTDOWN - SMUD","CUSTOMERSIMPACTED":"16","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Today at  10:45 AM","EVENTNUMBER":"J26111000012","OUTAGEBEGINTIME":"Today at  4:00 AM","OUTAGEDESCRIPTION":"Damaged equipment","OUTAGE_STATUS":"30 - REPAIR SCHEDULED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.476754224879","Y_COORD":"38.5836995710153","name":"16","style":"Style3"},"type":"Feature"}
+
 ]}
