@@ -14,7 +14,10 @@
 {"geometry":{"coordinates":[-123.211981,45.798655],"type":"Point"},"properties":{"crewAssigned":true,"id":"215604","nbrOut":1,"planned":false,"timeOff":1794341153105},"type":"Feature"},
 {"geometry":{"coordinates":[-123.225186,45.788552],"type":"Point"},"properties":{"crewAssigned":true,"id":"215606","nbrOut":1,"planned":false,"timeOff":1794341228428},"type":"Feature"},
 {"geometry":{"coordinates":[-123.183702,45.84137],"type":"Point"},"properties":{"crewAssigned":true,"id":"215607","nbrOut":1,"planned":false,"timeOff":1794341279029},"type":"Feature"},
-{"geometry":{"coordinates":[-123.196413,45.752704],"type":"Point"},"properties":{"crewAssigned":false,"id":"215608","nbrOut":1,"planned":false,"timeOff":1794342251020},"type":"Feature"},
-{"geometry":{"coordinates":[-123.224647,45.78765],"type":"Point"},"properties":{"crewAssigned":false,"id":"215609","nbrOut":1,"planned":false,"timeOff":1794342615510},"type":"Feature"},
-{"geometry":{"coordinates":[-123.187906,45.840143],"type":"Point"},"properties":{"crewAssigned":false,"id":"215610","nbrOut":1,"planned":false,"timeOff":1794342750978},"type":"Feature"}
+{"geometry":{"coordinates":[-123.224647,45.78765],"type":"Point"},"properties":{"crewAssigned":true,"id":"215609","nbrOut":1,"planned":false,"timeOff":1794342615510},"type":"Feature"},
+{"geometry":{"coordinates":[-123.187906,45.840143],"type":"Point"},"properties":{"crewAssigned":true,"id":"215610","nbrOut":1,"planned":false,"timeOff":1794342750978},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-123.196413,45.75271],[-123.187197,45.759047],[-123.186631,45.766498],[-123.187646,45.768378],[-123.188526,45.767632],[-123.199872,45.754384],[-123.196413,45.75271]]],"type":"Polygon"},{"coordinates":[-123.192003,45.759711],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"215612","nbrOut":14,"planned":false,"timeOff":1794342251020},"type":"Feature"},
+{"geometry":{"coordinates":[-123.223192,45.792598],"type":"Point"},"properties":{"crewAssigned":true,"id":"215613","nbrOut":1,"planned":false,"timeOff":1794343368840},"type":"Feature"},
+{"geometry":{"coordinates":[-123.213805,45.798129],"type":"Point"},"properties":{"crewAssigned":false,"id":"215614","nbrOut":1,"planned":false,"timeOff":1794343670645},"type":"Feature"},
+{"geometry":{"coordinates":[-123.177207,45.847033],"type":"Point"},"properties":{"crewAssigned":false,"id":"215615","nbrOut":1,"planned":false,"timeOff":1794343686271},"type":"Feature"}
 ]}
