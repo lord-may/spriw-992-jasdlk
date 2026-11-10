@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-116.229224,46.426781],[-116.222666,46.43075],[-116.227014,46.432979],[-116.231937,46.431444],[-116.229224,46.426781]]],"type":"Polygon"},{"coordinates":[-116.227724,46.430273],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Other            ","comment":"CREW ENROUTE TO OUTAGE, NO ETR AT THIS TIME.","crewAssigned":true,"estimateTime":1794356100000,"id":"323915","nbrOut":4,"planned":false,"timeOff":1794340616460},"type":"Feature"}
+
 ]}
