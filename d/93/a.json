@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.626714,35.796352],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T14:02:03.827-08:00","outageName":"5861B5028","outagePoint":{"lat":35.79635169972945,"lng":-115.62671401593208},"outageRecID":"2026-11-10-0045","outageStartTime":"2026-11-10T13:54:42-08:00","outageWorkStatus":"","streetsAffected":["E GERONIMO N RUNWAY"],"verified":false},"type":"Feature"}
 ]}
