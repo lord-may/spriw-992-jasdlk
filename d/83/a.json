@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-115.056457,36.131871],"type":"Point"},"properties":{"CAUSEDESC":"Underground Equipment Failure","ERTDATETIME":"11/11/2026 03:30:00 PM","EVENTID":"1868607","LATITUDE":36.1318712,"LONGITUDE":-115.0564572,"NUMCUSTDEENERGIZED":8,"STARTDATETIME":"11/11/2026 10:27:02 AM","XCORD":2214190,"YCORD":13124424},"type":"Feature"},
-{"geometry":{"coordinates":[-115.288752,36.144409],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1868620","LATITUDE":36.1444093,"LONGITUDE":-115.2887525,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"11/11/2026 11:55:45 AM","XCORD":2145525,"YCORD":13127697},"type":"Feature"},
 {"geometry":{"coordinates":[-119.510161,39.277951],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1868626","LATITUDE":39.2779511,"LONGITUDE":-119.5101609,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"11/11/2026 01:36:08 PM","XCORD":930052,"YCORD":14273706},"type":"Feature"}
 ]}
