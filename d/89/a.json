@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-124.149149,46.953277],[-124.147981,46.954565],[-124.147855,46.956183],[-124.151251,46.958409],[-124.156748,46.960432],[-124.157323,46.960426],[-124.156712,46.959249],[-124.152805,46.954589],[-124.152436,46.954362],[-124.151287,46.95378],[-124.150694,46.953547],[-124.149714,46.953363],[-124.149679,46.953357],[-124.149409,46.953314],[-124.149149,46.953277]]],"type":"Polygon"},{"coordinates":[-124.152032,46.956674],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Equipment damage will require additional repair time. We are working to restore service as soon as possible.","id":"195673","nbrOut":143,"planned":false,"timeOff":1794393944851},"type":"Feature"}
+
 ]}
