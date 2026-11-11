@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-109.877012,34.106222],"type":"Point"},"properties":{"cause":"NO OUTAGE","comment":"UPGD Member requested disconnect to upgrade their panel","crewAssigned":true,"id":"536088","nbrOut":1,"planned":false,"timeOff":1794412738000},"type":"Feature"},
-{"geometry":{"coordinates":[-110.531569,34.392976],"type":"Point"},"properties":{"crewAssigned":false,"id":"536093","nbrOut":1,"planned":false,"timeOff":1794438766000},"type":"Feature"}
+
 ]}
