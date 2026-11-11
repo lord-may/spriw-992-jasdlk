@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-149.068053,64.620128],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T17:54:47.86-09:00","outageName":"NNS R1 SER_10010961","outagePoint":{"lat":64.62012787775002,"lng":-149.06805255424692},"outageRecID":"2026-11-10-0132","outageStartTime":"2026-11-10T17:54:27-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
