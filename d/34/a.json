@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.873957,37.92069],"type":"Point"},"properties":{"cause":"Equipment Failure","crewAssigned":true,"estimateTime":1794432600000,"id":"238189","nbrOut":2,"planned":false,"timeOff":1794424801000},"type":"Feature"}
+
 ]}

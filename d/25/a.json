@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-106.838523,39.184325],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for overhead maintenance in the Castle Creek area.","crewAssigned":true,"estimateTime":1794436200000,"id":"387865","nbrOut":3,"planned":false,"timeOff":1794426300000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.813074,39.195534],"type":"Point"},"properties":{"cause":"Member Requested Outage","crewAssigned":true,"id":"387872","nbrOut":1,"planned":false,"timeOff":1794422675000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.819784,39.659144],"type":"Point"},"properties":{"crewAssigned":false,"id":"387876","nbrOut":1,"planned":false,"timeOff":1794433902189},"type":"Feature"}
+{"geometry":{"coordinates":[-106.813074,39.195534],"type":"Point"},"properties":{"cause":"Member Requested Outage","crewAssigned":true,"id":"387872","nbrOut":1,"planned":false,"timeOff":1794422675000},"type":"Feature"}
 ]}
