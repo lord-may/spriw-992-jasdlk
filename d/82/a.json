@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.806001,61.225804],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S20F6","LATITUDE":"61.225804","LONGITUDE":"-149.806001","OUTAGE_START":"11/11/2026 08:46","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.806001,61.225804],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"DOMINIC HODGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S20F6","LATITUDE":"61.225804","LONGITUDE":"-149.806001","OUTAGE_START":"11/11/2026 08:46","OUTAGE_STATUS":"Crew Dispatched","STAGE":"En Route"},"type":"Feature"}
 ]}
