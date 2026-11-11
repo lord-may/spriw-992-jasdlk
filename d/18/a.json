@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-104.716781,40.060453],"type":"Point"},"properties":{"AVGLAT":"40.060453000000003","AVGLONG":"-104.716780999999997","CASESTAT":"1","COORDCOUNT":"1","COORDLIST":"40.0604527135593,-104.716780801196","CURCUST":"1","DESC":"","DESC_CAUSE":"Unknown","INITCUST":"1","NOTES":"","OUTTIME":"2026-11-11 11:49:36","PLANNED":"0","PUBLICMSG":"","RESTORETIM":"","RESTRANGE":"","SERIAL":"26930","TYPE":"0","TypeSort":"3","WORKSTAT":"0"},"type":"Feature"},
+{"geometry":{"coordinates":[-104.717665,40.060488],"type":"Point"},"properties":{"AVGLAT":"40.060487999999999","AVGLONG":"-104.717664999999997","CASESTAT":"1","COORDCOUNT":"1","COORDLIST":"40.0604877646556,-104.717664689537","CURCUST":"1","DESC":"","DESC_CAUSE":"Unknown","INITCUST":"1","NOTES":"","OUTTIME":"2026-11-11 11:59:50","PLANNED":"0","PUBLICMSG":"","RESTORETIM":"","RESTRANGE":"","SERIAL":"26931","TYPE":"0","TypeSort":"3","WORKSTAT":"0"},"type":"Feature"}
 ]}
