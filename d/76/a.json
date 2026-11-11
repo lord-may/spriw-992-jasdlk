@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":null,"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Canon City","outageStepOffTime":"2026-11-11T13:35:37Z","publishedEtr":"2026-11-11T15:25:38Z"},"geoJSONPolygon":null,"id":"6af46f2ad7a1c04c72ab6a0b","lat":null,"lon":null,"serviceType":"Electric"},"type":"Feature"}
 ]}
