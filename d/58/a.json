@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.663887,47.862523],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Power contract crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"estimateTime":1794438000000,"id":"528047","lifeCycleStatus":"Crew Assigned","nbrOut":2,"planned":false,"timeOff":1794434554625},"type":"Feature"}
+
 ]}
