@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.334401,33.497657],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Llano Dr. to Indian School Rd. and Dysart Rd. to 127th Ave.","Cause":"Vehicle accident","City":"Litchfield Park","Comments":"We are working to restore the power outage caused by a vehicle that damaged our equipment.","MediaLink":null,"OBJECTID":13647,"Ticket":"187089955","customers":94,"datastatus":"current","etr":1794364200000,"latLong":"33.497656876474_-112.3344007301","off":1794350040000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}
