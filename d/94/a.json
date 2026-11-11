@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.959018,64.860449],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":0,"customersRestored":1,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-11-11T10:17:39-09:00","outageModifiedTime":"2026-11-11T10:34:48.437-09:00","outageName":"ETS R3 SER_8828800","outagePoint":{"lat":64.86044865912883,"lng":-147.95901815218835},"outageRecID":"2026-11-11-0138","outageStartTime":"2026-11-11T09:27:41-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
