@@ -2,5 +2,8 @@
 {"geometry":{"geometries":[{"coordinates":[[[-123.971381,46.703862],[-123.970716,46.703892],[-123.970204,46.704059],[-123.967177,46.705346],[-123.966674,46.707447],[-124.012739,46.726398],[-124.031532,46.730708],[-124.035027,46.728565],[-124.035027,46.72843],[-124.003891,46.70959],[-123.971381,46.703862]]],"type":"Polygon"},{"coordinates":[-124.001052,46.716316],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Equipment damage will require additional repair time. We are working to restore service as soon as possible.","id":"195662","nbrOut":445,"planned":false,"timeOff":1794380363663},"type":"Feature"},
 {"geometry":{"coordinates":[-124.241316,47.296583],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195663","nbrOut":1,"planned":false,"timeOff":1794383224335},"type":"Feature"},
 {"geometry":{"coordinates":[-124.150783,46.957183],"type":"Point"},"properties":{"id":"195666","nbrOut":1,"planned":false,"timeOff":1794393944851},"type":"Feature"},
-{"geometry":{"coordinates":[-124.152212,46.958575],"type":"Point"},"properties":{"id":"195667","nbrOut":1,"planned":false,"timeOff":1794394318921},"type":"Feature"}
+{"geometry":{"coordinates":[-124.152212,46.958575],"type":"Point"},"properties":{"id":"195667","nbrOut":1,"planned":false,"timeOff":1794394318921},"type":"Feature"},
+{"geometry":{"coordinates":[-124.153128,46.956594],"type":"Point"},"properties":{"id":"195668","nbrOut":1,"planned":false,"timeOff":1794396271721},"type":"Feature"},
+{"geometry":{"coordinates":[-124.24075,47.295998],"type":"Point"},"properties":{"id":"195669","nbrOut":1,"planned":false,"timeOff":1794396441653},"type":"Feature"},
+{"geometry":{"coordinates":[-124.148385,46.955693],"type":"Point"},"properties":{"id":"195670","nbrOut":1,"planned":false,"timeOff":1794396738608},"type":"Feature"}
 ]}
