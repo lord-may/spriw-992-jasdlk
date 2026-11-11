@@ -1,4 +1,11 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.865851,47.292738],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368430","nbrOut":1,"timeOff":1794372064000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.919939,47.244418],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368464","nbrOut":580,"timeOff":1794372064000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.919939,47.244418],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":true,"id":"368464","nbrOut":580,"timeOff":1794372064000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.868061,47.289259],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368467","nbrOut":1,"timeOff":1794375392000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.870828,47.289424],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368469","nbrOut":1,"timeOff":1794375392000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.872274,47.283702],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368470","nbrOut":1,"timeOff":1794375391000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.872652,47.277876],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368471","nbrOut":1,"timeOff":1794375391000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.872966,47.27542],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368472","nbrOut":2,"timeOff":1794375392000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.858045,47.290825],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368473","nbrOut":1,"timeOff":1794375515640},"type":"Feature"},
+{"geometry":{"coordinates":[-122.899314,47.272092],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368478","nbrOut":104,"timeOff":1794375904000},"type":"Feature"}
 ]}
