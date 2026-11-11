@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.90473,47.265393],"type":"Point"},"properties":{"cause":"102 OH Lines Down/Low","crewAssigned":true,"estimateTime":1794387600000,"id":"368482","nbrOut":172,"timeOff":1794376969000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.90473,47.265393],"type":"Point"},"properties":{"cause":"102 OH Lines Down/Low","crewAssigned":true,"estimateTime":1794387600000,"id":"368482","nbrOut":172,"timeOff":1794376969000},"type":"Feature"},
+{"geometry":{"coordinates":[-123.134313,47.107992],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368483","nbrOut":1,"timeOff":1794381215000},"type":"Feature"}
 ]}
