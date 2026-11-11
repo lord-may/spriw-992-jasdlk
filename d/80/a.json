@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.952966,33.581729],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Shea Blvd to Mountainview Rd and 58th St to Montrose Way","Cause":"Damage to Electrical Equipment","City":"Paradise Valley","Comments":"We are working to restore the power outage caused by damage to electrical equipment.","MediaLink":null,"OBJECTID":13655,"Ticket":"7187090034","customers":46,"datastatus":"current","etr":1794413100000,"latLong":"33.581729452543_-111.9529662169","off":1794403920000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}
