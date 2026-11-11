@@ -7,7 +7,9 @@
 {"geometry":{"coordinates":[-122.811121,45.576054],"type":"Point"},"properties":{"adjustedCustomerCount":1,"eventId":"2526721","lat":"45.57605366","long":"-122.81112108","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.691192,45.518785],"type":"Point"},"properties":{"adjustedCustomerCount":1,"eventId":"2526731","lat":"45.51878546","long":"-122.69119235","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.691136,45.518769],"type":"Point"},"properties":{"adjustedCustomerCount":2,"eventId":"2526732","lat":"45.51876906","long":"-122.69113586","totalCustomersImpacted":2},"type":"Feature"},
-{"geometry":{"coordinates":[-122.600632,45.356313],"type":"Point"},"properties":{"adjustedCustomerCount":2,"eventId":"2526736","lat":"45.35631255","long":"-122.60063162","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.790971,45.685253],"type":"Point"},"properties":{"adjustedCustomerCount":1,"eventId":"2526739","lat":"45.68525318","long":"-122.79097110","totalCustomersImpacted":1},"type":"Feature"},
-{"geometry":{"coordinates":[-122.622879,45.337939],"type":"Point"},"properties":{"adjustedCustomerCount":3,"eventId":"2526740","lat":"45.33793922","long":"-122.62287879","totalCustomersImpacted":3},"type":"Feature"}
+{"geometry":{"coordinates":[-122.622879,45.337939],"type":"Point"},"properties":{"adjustedCustomerCount":3,"eventId":"2526740","lat":"45.33793922","long":"-122.62287879","totalCustomersImpacted":3},"type":"Feature"},
+{"geometry":{"coordinates":[-122.933734,44.917445],"type":"Point"},"properties":{"adjustedCustomerCount":3,"eventId":"2526741","lat":"44.91744516","long":"-122.93373352","totalCustomersImpacted":3},"type":"Feature"},
+{"geometry":{"coordinates":[-122.680903,45.570836],"type":"Point"},"properties":{"adjustedCustomerCount":12,"eventId":"2526743","lat":"45.57083598","long":"-122.68090340","totalCustomersImpacted":12},"type":"Feature"},
+{"geometry":{"coordinates":[-122.728486,45.510357],"type":"Point"},"properties":{"adjustedCustomerCount":11,"eventId":"2526749","lat":"45.51035695","long":"-122.72848624","totalCustomersImpacted":11},"type":"Feature"}
 ]}
