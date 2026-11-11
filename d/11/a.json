@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-108.485,41.612],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 03:00 PM on 11/11","icon":"standard","latitude":41.612,"longitude":-108.485,"outCount":1,"reported":"11:37 AM on 11/11","zip":"82901"},"type":"Feature"},
+{"geometry":{"coordinates":[-106.684,44.362],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:00 PM on 11/11","icon":"standard","latitude":44.362,"longitude":-106.684,"outCount":1,"reported":"02:38 PM on 11/11","zip":"82834"},"type":"Feature"},
 {"geometry":{"coordinates":[-105.907,42.869],"type":"Point"},"properties":{"cause":"Wildlife","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 12:00 AM on 11/12","icon":"standard","latitude":42.869,"longitude":-105.907,"outCount":1,"reported":"11:40 AM on 11/11","zip":"82637"},"type":"Feature"}
 ]}
