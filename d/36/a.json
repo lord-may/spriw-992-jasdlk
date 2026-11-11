@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-113.53417,37.671079],"type":"Point"},"properties":{"comment":"This outage is necessary to make repairs to our power system equipment to prevent an extended outage.","crewAssigned":true,"estimateTime":1794417300000,"id":"262327","lifeCycleStatus":"Crews en route","nbrOut":983,"planned":true,"timeOff":1794416400000},"type":"Feature"}
 ]}
