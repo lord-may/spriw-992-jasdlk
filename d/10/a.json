@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.133,43.634],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":11,"etr":"Before 01:00 PM on 11/11","icon":"planned","latitude":43.634,"longitude":-112.133,"outCount":1,"reported":"08:55 AM on 11/11","zip":"83444"},"type":"Feature"}
 ]}
