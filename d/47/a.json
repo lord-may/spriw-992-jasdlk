@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-109.868298,34.114478],"type":"Point"},"properties":{"cause":"NO OUTAGE","crewAssigned":true,"id":"536087","nbrOut":1,"planned":false,"timeOff":1794411564000},"type":"Feature"},
 {"geometry":{"coordinates":[-109.877012,34.106222],"type":"Point"},"properties":{"cause":"NO OUTAGE","comment":"UPGD Member requested disconnect to upgrade their panel","crewAssigned":true,"id":"536088","nbrOut":1,"planned":false,"timeOff":1794412738000},"type":"Feature"},
-{"geometry":{"coordinates":[-110.53501,34.421459],"type":"Point"},"properties":{"cause":"NO OUTAGE","comment":"UPGD Member requested disconnect to upgrade their panel","crewAssigned":true,"id":"536089","nbrOut":1,"planned":false,"timeOff":1794429529000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.533599,34.421503],"type":"Point"},"properties":{"cause":"NO OUTAGE","comment":"CREW PULLED METER UPGRADING METER 213442 AND SIWTCHING XFMRS","crewAssigned":true,"id":"536090","nbrOut":1,"planned":false,"timeOff":1794433199000},"type":"Feature"}
 ]}
