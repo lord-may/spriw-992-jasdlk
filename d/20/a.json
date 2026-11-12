@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.415713,34.024],"type":"Point"},"properties":{"CENTROID_LAT":34.024,"CENTROID_LNG":-118.415713,"CITY_NAM":"PALMS","COUNT_IN_RANK":1,"COUNT_OTHERS":null,"ETR_DATETIME":1794450600000,"ETR_DATETIME_CHAR":"11/12/2026 02:30","FAC_JOB_STATUS_NAM":"ASSIGNED","OBJECTID":267215,"OUTAGE_RANK":1},"type":"Feature"}
+
 ]}
