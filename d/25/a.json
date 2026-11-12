@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-107.124259,39.41302],"type":"Point"},"properties":{"crewAssigned":false,"id":"387902","nbrOut":1,"planned":false,"timeOff":1794496389000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.505769,39.624924],"type":"Point"},"properties":{"comment":"Power is out in the Avon area. The cause is unknown at this time. Crews are responding and will restore power as quickly and safely as possible.\nNo estimated time of restoration.\nMembers may experience intermittent restoration and outages while we troubleshoot the cause.","crewAssigned":true,"id":"387914","nbrOut":39,"planned":false,"timeOff":1794496405000},"type":"Feature"}
 ]}
