@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.986539,37.694378],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":68,"customersOutNow":68,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T04:41:25.02-08:00","outageName":"OF9H8-18","outagePoint":{"lat":37.69437775964326,"lng":-120.98653929846529},"outageRecID":"2026-11-12-0037","outageStartTime":"2026-11-12T04:37:44-08:00","outageWorkStatus":"Crew in Route","streetsAffected":["Coralwood Road","Fensom Way","Ramsey Drive","Wendy Court"],"verified":true},"type":"Feature"}
+
 ]}

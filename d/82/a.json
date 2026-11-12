@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-148.966432,60.821198],"type":"Point"},"properties":{"CITY":"PORTAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"PTSS 222","LATITUDE":"60.821198","LONGITUDE":"-148.966432","OUTAGE_START":"11/11/2026 17:08","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+
 ]}
