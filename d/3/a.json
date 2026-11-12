@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.28565,47.51541],"type":"Point"},"properties":{"cause":"Investigating","city":"South Seattle","etrTime":1794523197000,"id":2248634,"identifier":"226290","lastUpdatedTime":1794501603000,"latitude":47.51541,"longitude":-122.28565,"numPeople":1,"polygons":{"hasM":false,"hasZ":false,"rings":[[[-122.28554,47.51519],[-122.28565,47.51513],[-122.28577,47.51511],[-122.28589,47.51514],[-122.28601,47.51523],[-122.28608,47.51533],[-122.2861,47.51545],[-122.28608,47.51557],[-122.28601,47.51567],[-122.28587,47.51576],[-122.28575,47.51579],[-122.28563,47.51576],[-122.28549,47.51567],[-122.28543,47.51557],[-122.2854,47.51543],[-122.28544,47.51529]]],"spatialReference":{"latestWkid":4326,"wkid":4326},"type":"polygon"},"startTime":1794501535000,"state":"WA","title":"Outage"},"type":"Feature"}
 ]}
