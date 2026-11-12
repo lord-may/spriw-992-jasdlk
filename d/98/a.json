@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.052729,40.544062],"type":"Point"},"properties":{"AFFECTEDSERV":35,"CURRENTEVENTSTEP":2,"ESTRESTORETIME":"11/11 02:29 PM (est)","EVENTSTART":"11/11 08:29 AM","EVENTSTATUS":"C","EVENTSTEP":1,"EVENTTYPE":"MO","GEOPROCESSED":0,"OBJECTID":905,"OUTAGECAUSE":"Equip Replace","OUTAGEID":550,"RESTORETIME":"11/11 12:49 PM","RESTORE_HRS":6,"STEPSTART":"11/11 08:29 AM","STEPSTARTTS":1794410993000,"TYPE":"Planned Maintenance"},"type":"Feature"}
+
 ]}
