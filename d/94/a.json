@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.791697,64.906313],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T13:46:25.35-09:00","outageName":"MOS R4 SER_10037463","outagePoint":{"lat":64.90631283161866,"lng":-147.7916965479599},"outageRecID":"2026-11-12-0164","outageStartTime":"2026-11-12T13:42:18-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
