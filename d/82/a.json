@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-149.53548,60.926299],"type":"Point"},"properties":{"CITY":"HOPE","CREW":"JESSE KOLBECK","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HPSS 322","LATITUDE":"60.926299","LONGITUDE":"-149.53548","OUTAGE_START":"11/12/2026 10:27","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
 {"geometry":{"coordinates":[-149.553716,60.930491],"type":"Point"},"properties":{"CITY":"HOPE","CREW":"JESSE KOLBECK","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HPSS 322","LATITUDE":"60.930491","LONGITUDE":"-149.553716","OUTAGE_START":"11/12/2026 10:27","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.838874,61.192222],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S8F5","LATITUDE":"61.192222","LONGITUDE":"-149.838874","OUTAGE_START":"11/12/2026 10:44","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.738972,61.224865],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S14F1","LATITUDE":"61.224865","LONGITUDE":"-149.738972","OUTAGE_START":"11/12/2026 12:58","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
