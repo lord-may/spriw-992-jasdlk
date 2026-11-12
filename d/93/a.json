@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.623564,35.795353],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T13:07:12-08:00","outageName":"5861B5143","outagePoint":{"lat":35.795353408264184,"lng":-115.62356353133067},"outageRecID":"2026-11-11-0051","outageStartTime":"2026-11-11T12:57:28-08:00","outageWorkStatus":"","streetsAffected":["EAGLE"],"verified":true},"type":"Feature"}
+
 ]}
