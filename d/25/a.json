@@ -1,6 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.913371,39.380032],"type":"Point"},"properties":{"cause":"Tree Growth","comment":"Planned outage in the Frying Pan area for tree trimming operations.","crewAssigned":true,"estimateTime":1794510000000,"id":"387852","nbrOut":7,"planned":false,"timeOff":1794502500000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.913371,39.380032],"type":"Point"},"properties":{"cause":"Tree Growth","comment":"Planned outage in the Frying Pan area for tree trimming operations.","crewAssigned":true,"estimateTime":1794510000000,"id":"387852","nbrOut":7,"planned":false,"timeOff":1794503100000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.189971,39.456716],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"387916","nbrOut":1,"planned":false,"timeOff":1794498995000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.188148,39.456695],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"387918","nbrOut":1,"planned":false,"timeOff":1794500320000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.111189,39.769169],"type":"Point"},"properties":{"crewAssigned":false,"id":"387919","nbrOut":1,"planned":false,"timeOff":1794503154000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.111189,39.769169],"type":"Point"},"properties":{"crewAssigned":false,"id":"387919","nbrOut":1,"planned":false,"timeOff":1794503154000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.822605,39.205475],"type":"Point"},"properties":{"cause":"Member Requested Outage","crewAssigned":true,"id":"387921","nbrOut":3,"planned":false,"timeOff":1794503718000},"type":"Feature"}
 ]}
