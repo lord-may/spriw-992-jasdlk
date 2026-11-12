@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.477622,64.897796],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T14:25:47-09:00","outageName":"BKS R4 FUS_1084","outagePoint":{"lat":64.8977963071615,"lng":-147.4776216773666},"outageRecID":"2026-11-11-0148","outageStartTime":"2026-11-11T14:21:28-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
