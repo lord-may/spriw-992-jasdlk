@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.130881,47.886782],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"11/12/26: Scheduled outage for crews to complete maintenance, Thank you for your patience and understanding.","crewAssigned":true,"estimateTime":1794528000000,"id":"527871","lifeCycleStatus":"Planned","nbrOut":2,"planned":true,"timeOff":1794470400000},"type":"Feature"}
+
 ]}
