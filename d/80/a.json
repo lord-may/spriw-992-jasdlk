@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.590203,33.369866],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Monroe Ave. to Jackson Ave. and 1st St. to 2nd St.","Cause":"Planned outage","City":"Buckeye","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13658,"Ticket":"WA1065834 7187090124","customers":8,"datastatus":"current","etr":1794474000000,"latLong":"33.369866474624_-112.5902030323","off":1794469440000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
 ]}
