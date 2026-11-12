@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-116.051144,36.244622],"type":"Point"},"properties":{"cause":"700 Customer-caused","code":"700","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T12:01:14.683-08:00","outageName":"5556A7020","outagePoint":{"lat":36.24462183835874,"lng":-116.05114354783686},"outageRecID":"2026-11-12-0057","outageStartTime":"2026-11-12T11:51:51-08:00","outageWorkStatus":"","streetsAffected":["N LESLIE"],"verified":false},"type":"Feature"}
+
 ]}
