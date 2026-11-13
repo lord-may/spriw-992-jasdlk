@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.107912,33.6083],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Eugie Ave and 23rd Ave","Cause":"Planned outage","City":"Phoenix","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13645,"Ticket":"7187090459","customers":5,"datastatus":"current","etr":1794563700000,"latLong":"33.608299729879_-112.1079117612","off":1794553380000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
 ]}
