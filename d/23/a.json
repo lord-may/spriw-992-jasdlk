@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.520988,38.681692],"type":"Point"},"properties":{"AFFECTEDAREA":"North Natomas","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26111300001","OUTAGEBEGINTIME":"Today at  12:35 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.520987859577","Y_COORD":"38.6816920384108","name":"1","style":"Style3"},"type":"Feature"}
 ]}
