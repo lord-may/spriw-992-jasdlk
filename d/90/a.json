@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.0209,47.435988],"type":"Point"},"properties":{"cause":"112 OH Tree on Svc/Sec","crewAssigned":true,"id":"368519","nbrOut":1,"timeOff":1794530137089},"type":"Feature"}
+{"geometry":{"coordinates":[-123.0209,47.435988],"type":"Point"},"properties":{"cause":"112 OH Tree on Svc/Sec","crewAssigned":true,"id":"368519","nbrOut":1,"timeOff":1794530137089},"type":"Feature"},
+{"geometry":{"coordinates":[-123.310365,47.134765],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368521","nbrOut":5,"timeOff":1794532483000},"type":"Feature"}
 ]}
