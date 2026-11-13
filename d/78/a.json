@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.791034,19.923866],"type":"Point"},"properties":{"affectedAreas":["Waikoloa"],"centerPoint":{"srid":4326,"x":-155.791034264577,"y":19.923866229803696},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 06:20 PM HST","outageCause":"Unavailable","outageId":47104,"outageStartTime":"Today at 06:03 PM HST","outageStatus":1,"radius":0.007071067811859044,"totalCustomersAffected":1},"type":"Feature"}
+{"geometry":{"coordinates":[-155.791034,19.923866],"type":"Point"},"properties":{"affectedAreas":["Waikoloa"],"centerPoint":{"srid":4326,"x":-155.791034264577,"y":19.923866229803696},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 06:35 PM HST","outageCause":"Unavailable","outageId":47104,"outageStartTime":"Today at 06:03 PM HST","outageStatus":1,"radius":0.007071067811859044,"totalCustomersAffected":1},"type":"Feature"}
 ]}
