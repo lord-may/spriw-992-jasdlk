@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-123.873069,47.487204],[-123.822386,47.50182],[-123.782932,47.516595],[-123.782609,47.517311],[-123.814077,47.512457],[-123.856397,47.49634],[-123.873069,47.487204]]],"type":"Polygon"},{"coordinates":[-123.826564,47.504023],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"A tree came through the wire.  Crew is enroute to make repairs.","id":"195705","nbrOut":27,"planned":false,"timeOff":1794586316284},"type":"Feature"},
-{"geometry":{"coordinates":[-123.883831,46.977474],"type":"Point"},"properties":{"id":"195706","nbrOut":1,"planned":false,"timeOff":1794590943000},"type":"Feature"}
+{"geometry":{"coordinates":[-123.883831,46.977474],"type":"Point"},"properties":{"id":"195706","nbrOut":1,"planned":false,"timeOff":1794590943000},"type":"Feature"},
+{"geometry":{"coordinates":[-124.173187,46.935829],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195707","nbrOut":1,"planned":false,"timeOff":1794596963712},"type":"Feature"}
 ]}
