@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.675337,47.174155],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","id":"262227","nbrOut":2,"planned":true,"timeOff":1793131086000},"type":"Feature"},
-{"geometry":{"coordinates":[-121.716035,47.472075],"type":"Point"},"properties":{"cause":"New Outage, Cause Unknown","id":"263181","nbrOut":2,"planned":false,"timeOff":1794584700000},"type":"Feature"}
+{"geometry":{"coordinates":[-121.716035,47.472075],"type":"Point"},"properties":{"cause":"Tree Growth/Break","estimateTime":1794595500000,"id":"263181","nbrOut":2,"planned":false,"timeOff":1794584700000},"type":"Feature"}
 ]}
