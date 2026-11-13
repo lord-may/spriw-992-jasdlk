@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.423,46.604],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Arrived","custOut":1,"etr":"Assessing","icon":"standard","latitude":46.604,"longitude":-120.423,"outCount":1,"reported":"05:16 PM on 11/12","zip":"98901"},"type":"Feature"}
+
 ]}
