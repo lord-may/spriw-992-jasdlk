@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-106.817305,39.186233],"type":"Point"},"properties":{"cause":"Member Requested Outage","comment":"Planned power outage for Electrician Work in the Aspen area.","crewAssigned":true,"estimateTime":1794542400000,"id":"387871","nbrOut":3,"planned":true,"timeOff":1794528000000},"type":"Feature"}
 ]}
