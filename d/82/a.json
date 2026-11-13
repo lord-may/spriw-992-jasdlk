@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.752546,61.18901],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"BFSS 612","LATITUDE":"61.18901","LONGITUDE":"-149.752546","OUTAGE_START":"11/13/2026 10:21","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.752546,61.18901],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"DOMINIC HODGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"BFSS 612","LATITUDE":"61.18901","LONGITUDE":"-149.752546","OUTAGE_START":"11/13/2026 10:21","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.817629,61.202849],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JOE PETERS","CUSTOMERS_AFFECTED":"16","EST_RESTORATION":"-","FEEDER":"S15F7","LATITUDE":"61.202849","LONGITUDE":"-149.817629","OUTAGE_START":"11/13/2026 11:07","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
