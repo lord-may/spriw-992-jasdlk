@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.131425,38.619991],"type":"Point"},"properties":{"AFFECTEDAREA":"Prairie City","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26111400021","OUTAGEBEGINTIME":"Today at  5:29 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"20 - ASSESSING","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.131425236681","Y_COORD":"38.6199914897529","name":"1","style":"Style3"},"type":"Feature"},
-{"geometry":{"coordinates":[-121.341875,38.600738],"type":"Point"},"properties":{"AFFECTEDAREA":"Carmichael","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26111400035","OUTAGEBEGINTIME":"Today at  8:00 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.34187481239","Y_COORD":"38.6007378501108","name":"1","style":"Style3"},"type":"Feature"}
+
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.626938,35.802073],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-14T08:17:52.64-08:00","outageName":"2038","outagePoint":{"lat":35.80207340758673,"lng":-115.62693806003293},"outageRecID":"2026-11-14-0065","outageStartTime":"2026-11-14T08:15:44-08:00","outageWorkStatus":"","streetsAffected":["JADE"],"verified":true},"type":"Feature"}
 ]}

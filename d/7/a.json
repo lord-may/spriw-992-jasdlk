@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.057,41.496],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 08:00 AM on 11/14","icon":"standard","latitude":41.496,"longitude":-124.057,"outCount":1,"reported":"04:43 PM on 11/13","zip":"95548"},"type":"Feature"}
+{"geometry":{"coordinates":[-124.057,41.496],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"standard","latitude":41.496,"longitude":-124.057,"outCount":1,"reported":"04:43 PM on 11/13","zip":"95548"},"type":"Feature"}
 ]}
