@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-111.100454,32.467334],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390353","nbrOut":1,"planned":true,"timeOff":1794495272000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.905942,32.512395],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390359","nbrOut":1,"planned":true,"timeOff":1794581878000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.181815,32.330451],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390376","nbrOut":73,"planned":false,"timeOff":1794692302000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.184617,32.316012],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390378","nbrOut":1,"planned":false,"timeOff":1794692609074},"type":"Feature"}
+{"geometry":{"coordinates":[-111.184617,32.316012],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390378","nbrOut":1,"planned":false,"timeOff":1794692609074},"type":"Feature"},
+{"geometry":{"coordinates":[-111.185219,32.314843],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390379","nbrOut":1,"planned":false,"timeOff":1794697035178},"type":"Feature"}
 ]}
