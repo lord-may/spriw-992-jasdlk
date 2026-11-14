@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.605404,35.224001],"type":"Point"},"properties":{"APSArea":"Northeastern Arizona","Boundary":"Hamblin St to East Route 88 and Cedar Ave to Marketplace Dr","Cause":"Damage to Electrical Equipment","City":"Flagstaff","Comments":"We are working to restore the power outage caused by damage to electrical equipment.","MediaLink":null,"OBJECTID":13689,"Ticket":"7187090763","customers":1131,"datastatus":"current","etr":1794661800000,"latLong":"35.224000825815_-111.6054041007","off":1794646860000,"outageimpact":"XLarge","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}
