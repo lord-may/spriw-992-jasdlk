@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-157.88538,21.35491],"type":"Point"},"properties":{"affectedAreas":["Moanalua"],"centerPoint":{"srid":4326,"x":-157.885379549796,"y":21.3549101111239},"company":0,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 09:03 PM HST","outageCause":"Unavailable","outageId":555315,"outageStartTime":"Today at 08:55 PM HST","outageStatus":1,"radius":0.007071067811861557,"totalCustomersAffected":1},"type":"Feature"}
 ]}
