@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.245636,38.294575],"type":"Point"},"properties":{"AFFECTEDAREA":"Wilton/Herald","CALLCOUNT":"0","CAUSE_CODE":"FIRE","CUSTOMERSIMPACTED":"28","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Today at  12:00 AM","EVENTNUMBER":"J26111300116","OUTAGEBEGINTIME":"4:17 PM on Nov 13","OUTAGEDESCRIPTION":"Damaged equipment","OUTAGE_STATUS":"30 - REPAIR SCHEDULED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.245636146184","Y_COORD":"38.2945748305435","name":"28","style":"Style3"},"type":"Feature"}
+
 ]}
