@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-122.667,45.597],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 11:30 AM on 11/14","icon":"standard","latitude":45.597,"longitude":-122.667,"outCount":1,"reported":"02:02 AM on 11/14","zip":"97211"},"type":"Feature"},
 {"geometry":{"coordinates":[-122.71,42.595],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Notified","custOut":1,"etr":"Before 02:30 AM on 11/14","icon":"standard","latitude":42.595,"longitude":-122.71,"outCount":1,"reported":"07:26 PM on 11/13","zip":"97524"},"type":"Feature"}
 ]}
