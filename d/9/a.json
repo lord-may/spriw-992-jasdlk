@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-113.291,37.245],"type":"Point"},"properties":{"cause":"Pole Fire","crewStatus":"Crews Arrived","custOut":22,"etr":"Before 08:00 AM on 11/14","icon":"standard","latitude":37.245,"longitude":-113.291,"outCount":1,"reported":"01:08 AM on 11/14","zip":"84774"},"type":"Feature"},
-{"geometry":{"coordinates":[-111.843,40.687],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"standard","latitude":40.687,"longitude":-111.843,"outCount":1,"reported":"01:18 PM on 11/13","zip":"84124"},"type":"Feature"}
+{"geometry":{"coordinates":[-113.291,37.245],"type":"Point"},"properties":{"cause":"Pole Fire","crewStatus":"Crews Arrived","custOut":22,"etr":"Before 08:00 AM on 11/14","icon":"standard","latitude":37.245,"longitude":-113.291,"outCount":1,"reported":"01:08 AM on 11/14","zip":"84774"},"type":"Feature"}
 ]}
