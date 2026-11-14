@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.840096,40.421385],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-14T07:11:50.38-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T05:16:21.227-07:00","outageName":"XFMR144113","outagePoint":{"lat":40.42138538102576,"lng":-111.84009620822049},"outageRecID":"2026-11-14-0023","outageStartTime":"2026-11-14T05:11:48-07:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["N 600 E","N 600 E (COMCAST METER)"],"verified":true},"type":"Feature"}
 ]}
