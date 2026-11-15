@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.989662,36.209264],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T08:32:40.33-08:00","outageName":"F1106","outagePoint":{"lat":36.20926425575297,"lng":-115.98966151245506},"outageRecID":"2026-11-15-0068","outageStartTime":"2026-11-15T07:51:15-08:00","outageWorkStatus":"","streetsAffected":["S EAST","S EAST #02","S EAST (PAHRUMP LIBRARY)"],"verified":true},"type":"Feature"}
+
 ]}
