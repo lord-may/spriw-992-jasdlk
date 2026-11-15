@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.864325,40.409851],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-15T10:14:40.12-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T08:21:45.097-07:00","outageName":"FUS_662","outagePoint":{"lat":40.40985092301497,"lng":-111.86432498644663},"outageRecID":"2026-11-15-0024","outageStartTime":"2026-11-15T08:09:04-07:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["W STATE (FOUNDRY)","W STATE ST","W STATE ST BLDG#2"],"verified":false},"type":"Feature"}
 ]}
