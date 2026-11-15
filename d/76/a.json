@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.647589,38.3761],"type":"Point"},"properties":{"currentAffected":3,"fieldValues":{"currentAffected":"3","energizationStatus":"Verified","geographicAorIDs":"Pueblo North","outageStepOffTime":"2026-11-15T09:10:24Z","publishedEtr":"2026-11-15T11:20:28Z"},"geoJSONPolygon":null,"id":"6af97704d7a1c04c72afbc9e","lat":38.37610017,"lon":-104.6475889,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-104.647589,38.3761],"type":"Point"},"properties":{"currentAffected":3,"fieldValues":{"currentAffected":"3","energizationStatus":"Verified","geographicAorIDs":"Pueblo North","outageStepOffTime":"2026-11-15T09:10:24Z","publishedEtr":"2026-11-15T15:20:00Z"},"geoJSONPolygon":null,"id":"6af97704d7a1c04c72afbc9e","lat":38.37610017,"lon":-104.6475889,"serviceType":"Electric"},"type":"Feature"}
 ]}
