@@ -1,7 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.144275,47.104012],"type":"Point"},"properties":{"cause":"106 OH Tree on Pri Line/XFMR","crewAssigned":true,"id":"368631","nbrOut":3,"timeOff":1794771216000},"type":"Feature"},
-{"geometry":{"coordinates":[-123.135714,47.108414],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368632","nbrOut":1,"timeOff":1794772832000},"type":"Feature"},
-{"geometry":{"coordinates":[-123.141427,47.10628],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368633","nbrOut":1,"timeOff":1794772832000},"type":"Feature"},
-{"geometry":{"coordinates":[-123.138463,47.111985],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368634","nbrOut":1,"timeOff":1794772832000},"type":"Feature"},
-{"geometry":{"coordinates":[-123.13867,47.111661],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368635","nbrOut":1,"timeOff":1794772832000},"type":"Feature"}
+{"geometry":{"coordinates":[-123.133028,47.109985],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":true,"id":"368638","nbrOut":30,"timeOff":1794771216000},"type":"Feature"}
 ]}
