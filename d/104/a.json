@@ -1,12 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.036096,46.452026],"type":"Point"},"properties":{"crewAssigned":false,"id":"193433","nbrOut":1,"planned":false,"timeOff":1794704878779},"type":"Feature"},
-{"geometry":{"coordinates":[-124.043264,46.522634],"type":"Point"},"properties":{"crewAssigned":false,"id":"193434","nbrOut":1,"planned":false,"timeOff":1794705073410},"type":"Feature"},
-{"geometry":{"coordinates":[-124.030113,46.513152],"type":"Point"},"properties":{"crewAssigned":false,"id":"193435","nbrOut":1,"planned":false,"timeOff":1794705804734},"type":"Feature"},
-{"geometry":{"coordinates":[-124.043695,46.498764],"type":"Point"},"properties":{"crewAssigned":false,"id":"193436","nbrOut":1,"planned":false,"timeOff":1794710182812},"type":"Feature"},
-{"geometry":{"coordinates":[-124.052768,46.526145],"type":"Point"},"properties":{"crewAssigned":false,"id":"193437","nbrOut":1,"planned":false,"timeOff":1794711867596},"type":"Feature"},
-{"geometry":{"coordinates":[-124.053909,46.54157],"type":"Point"},"properties":{"crewAssigned":false,"id":"193438","nbrOut":1,"planned":false,"timeOff":1794715026929},"type":"Feature"},
-{"geometry":{"coordinates":[-124.056335,46.525552],"type":"Point"},"properties":{"crewAssigned":false,"id":"193439","nbrOut":1,"planned":false,"timeOff":1794715623437},"type":"Feature"},
-{"geometry":{"coordinates":[-124.057979,46.531695],"type":"Point"},"properties":{"crewAssigned":false,"id":"193440","nbrOut":1,"planned":false,"timeOff":1794717749207},"type":"Feature"},
-{"geometry":{"coordinates":[-124.047118,46.488424],"type":"Point"},"properties":{"crewAssigned":false,"id":"193441","nbrOut":1,"planned":false,"timeOff":1794718828418},"type":"Feature"},
-{"geometry":{"coordinates":[-124.02687,46.371001],"type":"Point"},"properties":{"crewAssigned":false,"id":"193442","nbrOut":541,"planned":false,"timeOff":1794702565287},"type":"Feature"}
+{"geometry":{"coordinates":[-124.02687,46.371001],"type":"Point"},"properties":{"cause":"Car Hit Pole","crewAssigned":false,"id":"193442","nbrOut":541,"planned":false,"timeOff":1794702565287},"type":"Feature"},
+{"geometry":{"coordinates":[-124.033392,46.490304],"type":"Point"},"properties":{"cause":"Car Hit Pole","crewAssigned":false,"estimateTime":1794733200000,"id":"193443","nbrOut":4335,"planned":false,"timeOff":1794503367000},"type":"Feature"},
+{"geometry":{"coordinates":[-124.030023,46.527635],"type":"Point"},"properties":{"cause":"Car Hit Pole","crewAssigned":false,"estimateTime":1794733200000,"id":"193444","nbrOut":1777,"planned":false,"timeOff":1794705804734},"type":"Feature"}
 ]}
