@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.284358,64.887454],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T22:10:59.017-09:00","outageName":"BKS R2 SER_5924105","outagePoint":{"lat":64.88745400846966,"lng":-147.28435763275164},"outageRecID":"2026-11-14-0181","outageStartTime":"2026-11-14T22:10:38-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
