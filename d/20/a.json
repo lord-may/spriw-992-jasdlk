@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.288915,33.933932],"type":"Point"},"properties":{"CENTROID_LAT":33.933932,"CENTROID_LNG":-118.288915,"CITY_NAM":"VERMONT VISTA","COUNT_IN_RANK":14,"COUNT_OTHERS":null,"ETR_DATETIME":1794747600000,"ETR_DATETIME_CHAR":"11/15/2026 13:00","FAC_JOB_STATUS_NAM":"CREWS WORKING","OBJECTID":267599,"OUTAGE_RANK":1},"type":"Feature"}
+
 ]}
