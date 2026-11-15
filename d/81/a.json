@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.984155,37.662696],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":26,"customersOutNow":26,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T16:44:36.35-08:00","outageName":"O57513910369068","outagePoint":{"lat":37.66269626363512,"lng":-120.98415460882416},"outageRecID":"2026-11-14-0059","outageStartTime":"2026-11-14T16:44:08-08:00","outageWorkStatus":"Repair in Progress","streetsAffected":["Dawn Drive","Ford Avenue","Sunrise Avenue"],"verified":true},"type":"Feature"}
 ]}
