@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.02687,46.371001],"type":"Point"},"properties":{"cause":"Car Hit Pole","crewAssigned":true,"estimateTime":1794733200000,"id":"193442","nbrOut":541,"planned":false,"timeOff":1794702565287},"type":"Feature"},
-{"geometry":{"coordinates":[-124.033392,46.490304],"type":"Point"},"properties":{"cause":"Car Hit Pole","crewAssigned":false,"estimateTime":1794733200000,"id":"193443","nbrOut":4335,"planned":false,"timeOff":1794503367000},"type":"Feature"},
-{"geometry":{"coordinates":[-124.030023,46.527635],"type":"Point"},"properties":{"cause":"Car Hit Pole","crewAssigned":false,"estimateTime":1794733200000,"id":"193444","nbrOut":1777,"planned":false,"timeOff":1794705804734},"type":"Feature"}
+{"geometry":{"coordinates":[-124.02687,46.371001],"type":"Point"},"properties":{"cause":"Car Hit Pole","crewAssigned":true,"estimateTime":1794733200000,"id":"193442","nbrOut":541,"planned":false,"timeOff":1794702565287},"type":"Feature"}
 ]}
