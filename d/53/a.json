@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-119.220757,46.331361],"type":"Point"},"properties":{"comment":"CONSTRUCTION JOB","id":"202178","nbrOut":1,"planned":false,"timeOff":1794843857000},"type":"Feature"},
 {"geometry":{"coordinates":[-118.386573,47.119534],"type":"Point"},"properties":{"id":"202179","nbrOut":1,"planned":false,"timeOff":1794844217000},"type":"Feature"},
 {"geometry":{"coordinates":[-118.950059,46.812944],"type":"Point"},"properties":{"comment":"CONSTRUCTION/ CREW ON SITE","id":"202180","nbrOut":1,"planned":false,"timeOff":1794844973000},"type":"Feature"},
-{"geometry":{"coordinates":[-119.005844,46.784564],"type":"Point"},"properties":{"id":"202181","nbrOut":1,"planned":false,"timeOff":1794846138000},"type":"Feature"}
+{"geometry":{"coordinates":[-119.005844,46.784564],"type":"Point"},"properties":{"comment":"MAINTENANCE / DJ'S CREW","id":"202181","nbrOut":1,"planned":false,"timeOff":1794846138000},"type":"Feature"}
 ]}

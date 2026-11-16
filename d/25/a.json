@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-106.378918,39.641438],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for underground electrical maintenance in the Vail area.","crewAssigned":true,"estimateTime":1794866400000,"id":"387874","nbrOut":26,"planned":false,"timeOff":1794845340000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.378864,39.64112],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for underground electrical maintenance in the Vail area.","crewAssigned":true,"estimateTime":1794866400000,"id":"387875","nbrOut":3,"planned":false,"timeOff":1794845340000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.378864,39.64112],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","comment":"Planned power outage for underground electrical maintenance in the Vail area.","crewAssigned":true,"estimateTime":1794866400000,"id":"387875","nbrOut":3,"planned":false,"timeOff":1794845340000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.946528,39.201431],"type":"Point"},"properties":{"crewAssigned":false,"id":"388028","nbrOut":1,"planned":false,"timeOff":1794847326000},"type":"Feature"}
 ]}
