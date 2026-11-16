@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.905125,61.181802],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JJ WALDROP","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"SPSS 312","LATITUDE":"61.181802","LONGITUDE":"-149.905125","OUTAGE_START":"11/15/2026 10:20","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.692816,61.164938],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"BFSS 312","LATITUDE":"61.164938","LONGITUDE":"-149.692816","OUTAGE_START":"11/15/2026 19:17","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.909354,61.108935],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"CLSS 512","LATITUDE":"61.108935","LONGITUDE":"-149.909354","OUTAGE_START":"11/15/2026 19:20","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.905125,61.181802],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JJ WALDROP","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"SPSS 312","LATITUDE":"61.181802","LONGITUDE":"-149.905125","OUTAGE_START":"11/15/2026 10:20","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
