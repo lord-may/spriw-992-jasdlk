@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-116.997,32.5734],[-116.9791,32.5766],[-116.9767,32.5784],[-116.9861,32.6104],[-117.001,32.585],[-116.997,32.5734]]],"type":"Polygon"},{"coordinates":[-116.98877,32.58772],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando."},"circuits":"463","cluster":false,"comments":null,"communities":"Nestor/ San Ysidro/ Otay Mesa, Sunnyside/ Otay Lake/ Otay Mesa","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"17","etr":"2026-11-16T22:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-16T16:10:27Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
