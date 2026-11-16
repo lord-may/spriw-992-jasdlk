@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.057,41.496],"type":"Point"},"properties":{"cause":"Wind","crewStatus":"Crews Notified","custOut":1,"etr":"Before 03:30 PM on 11/16","icon":"standard","latitude":41.496,"longitude":-124.057,"outCount":1,"reported":"07:13 AM on 11/16","zip":"95548"},"type":"Feature"},
 {"geometry":{"coordinates":[-122.48,41.88],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":55,"etr":"Before 05:00 PM on 11/16","icon":"planned","latitude":41.88,"longitude":-122.48,"outCount":1,"reported":"09:35 AM on 11/16","zip":"96044, 96064"},"type":"Feature"},
 {"geometry":{"coordinates":[-122.853,41.593],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":1,"etr":"Before 02:00 PM on 11/16","icon":"planned","latitude":41.593,"longitude":-122.853,"outCount":1,"reported":"12:26 PM on 11/16","zip":"96032"},"type":"Feature"}
 ]}
