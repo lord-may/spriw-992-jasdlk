@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-115.125604,36.239828],"type":"Point"},"properties":{"CAUSEDESC":"Padmounted Transformer Problem","ERTDATETIME":null,"EVENTID":"1869281","LATITUDE":36.2398276,"LONGITUDE":-115.1256043,"NUMCUSTDEENERGIZED":12,"STARTDATETIME":"11/15/2026 03:56:52 PM","XCORD":2193015,"YCORD":13163315},"type":"Feature"},
-{"geometry":{"coordinates":[-115.163797,36.114684],"type":"Point"},"properties":{"CAUSEDESC":"Motor Vehicle Accident","ERTDATETIME":"11/15/2026 07:15:00 PM","EVENTID":"1869291","LATITUDE":36.1146841,"LONGITUDE":-115.1637972,"NUMCUSTDEENERGIZED":224,"STARTDATETIME":"11/15/2026 04:54:23 PM","XCORD":2182616,"YCORD":13117552},"type":"Feature"}
+{"geometry":{"coordinates":[-115.163797,36.114684],"type":"Point"},"properties":{"CAUSEDESC":"Motor Vehicle Accident","ERTDATETIME":"11/15/2026 07:15:00 PM","EVENTID":"1869291","LATITUDE":36.1146841,"LONGITUDE":-115.1637972,"NUMCUSTDEENERGIZED":198,"STARTDATETIME":"11/15/2026 04:54:23 PM","XCORD":2182616,"YCORD":13117552},"type":"Feature"}
 ]}

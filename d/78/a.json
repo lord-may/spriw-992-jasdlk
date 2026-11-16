@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-155.52311,20.091263],"type":"Point"},"properties":{"affectedAreas":["Honokaa"],"centerPoint":{"srid":4326,"x":-155.5231100541843,"y":20.09126288041134},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 04:50 PM HST","outageCause":"Unavailable","outageId":47136,"outageStartTime":"Today at 02:25 PM HST","outageStatus":1,"radius":0.019428294337618713,"totalCustomersAffected":13},"type":"Feature"}
+{"geometry":{"coordinates":[-155.52311,20.091263],"type":"Point"},"properties":{"affectedAreas":["Honokaa"],"centerPoint":{"srid":4326,"x":-155.5231100541843,"y":20.09126288041134},"company":1,"completedTime":null,"estimatedRestoreTime":null,"lastUpdated":"Today at 05:05 PM HST","outageCause":"Unavailable","outageId":47136,"outageStartTime":"Today at 02:25 PM HST","outageStatus":1,"radius":0.019428294337618713,"totalCustomersAffected":13},"type":"Feature"}
 ]}
