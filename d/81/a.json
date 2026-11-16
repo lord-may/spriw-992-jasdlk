@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.04696,37.6964],"type":"Point"},"properties":{"cause":"2.1 UG Transformer","code":"200","crewAssigned":true,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T14:00:05.807-08:00","outageName":"UT21175","outagePoint":{"lat":37.69639959977853,"lng":-121.0469602514019},"outageRecID":"2026-11-15-0061","outageStartTime":"2026-11-15T10:45:30.977-08:00","outageWorkStatus":"Repair in Progress","streetsAffected":["Alessandro Lane","Snyder Avenue"],"verified":true},"type":"Feature"}
+
 ]}
