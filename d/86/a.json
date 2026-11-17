@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.976137,46.45582],"type":"Point"},"properties":{"cause":"Public Damage / Customer Damage","estimateTime":1794963600000,"id":"214434","nbrOut":2,"planned":false,"timeOff":1794957300000},"type":"Feature"}
 ]}

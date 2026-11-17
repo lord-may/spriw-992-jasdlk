@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-110.621763,31.68522],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":8,"GlobalID":"13646437-27d2-499b-ae9f-e528ce6fd5f1","INCIDENT_ID":21504,"MetersRestored":20,"OBJECTID":1,"REGION":"Sierra Vista","STATUS":"Power Out","TIME_OUTAGE":1794931041000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
+
 ]}
