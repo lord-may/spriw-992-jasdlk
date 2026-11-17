@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.645734,38.239739],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Pueblo South","outageStepOffTime":"2026-11-17T16:33:29Z","publishedEtr":"2026-11-17T18:23:31Z"},"geoJSONPolygon":null,"id":"6afc81dbd782ad7fa509d252","lat":38.23973928,"lon":-104.645734,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-104.645734,38.239739],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Verified","geographicAorIDs":"Pueblo South","outageStepOffTime":"2026-11-17T16:33:29Z","publishedEtr":"2026-11-17T18:23:31Z"},"geoJSONPolygon":null,"id":"6afc81dbd782ad7fa509d252","lat":38.23973928,"lon":-104.645734,"serviceType":"Electric"},"type":"Feature"}
 ]}

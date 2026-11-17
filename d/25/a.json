@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.904927,39.379824],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Red Table area.","crewAssigned":true,"estimateTime":1794952800000,"id":"388027","nbrOut":3,"planned":true,"timeOff":1794932700000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.904927,39.379824],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Red Table area.","crewAssigned":true,"estimateTime":1794952800000,"id":"388027","nbrOut":3,"planned":false,"timeOff":1794932700000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.187357,39.457167],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388078","nbrOut":2,"planned":false,"timeOff":1794928687000},"type":"Feature"}
 ]}
