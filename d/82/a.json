@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.955305,61.174622],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRIAN KOECHER","CUSTOMERS_AFFECTED":"17","EST_RESTORATION":"-","FEEDER":"","LATITUDE":"61.174622","LONGITUDE":"-149.955305","OUTAGE_START":"11/17/2026 00:20","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.979128,61.182234],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRIAN KOECHER","CUSTOMERS_AFFECTED":"17","EST_RESTORATION":"-","FEEDER":"","LATITUDE":"61.182234","LONGITUDE":"-149.979128","OUTAGE_START":"11/17/2026 00:20","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
+
 ]}
