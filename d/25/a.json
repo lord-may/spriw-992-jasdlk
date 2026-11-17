@@ -1,14 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.280481,39.62298],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","comment":"Planned power outage for underground electrical maintenance in the Vail, Gore Creek area.","crewAssigned":true,"estimateTime":1794956400000,"id":"387930","nbrOut":1,"planned":true,"timeOff":1794945300000},"type":"Feature"},
 {"geometry":{"coordinates":[-106.27996,39.621056],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","comment":"Planned power outage for underground electrical maintenance in the Vail, Gore Creek area.","crewAssigned":true,"estimateTime":1794956400000,"id":"387931","nbrOut":2,"planned":true,"timeOff":1794945300000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.945584,39.200714],"type":"Point"},"properties":{"crewAssigned":true,"id":"388084","nbrOut":1,"planned":false,"timeOff":1794950463000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.806355,39.076413],"type":"Point"},"properties":{"crewAssigned":false,"id":"388088","nbrOut":1,"planned":false,"timeOff":1794951293000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.803444,39.07195],"type":"Point"},"properties":{"crewAssigned":false,"id":"388093","nbrOut":5,"planned":false,"timeOff":1794951293000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.806364,39.076399],"type":"Point"},"properties":{"crewAssigned":false,"id":"388094","nbrOut":5,"planned":false,"timeOff":1794951293000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.802123,39.061453],"type":"Point"},"properties":{"crewAssigned":false,"id":"388098","nbrOut":1,"planned":false,"timeOff":1794951349000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.802195,39.061509],"type":"Point"},"properties":{"crewAssigned":false,"id":"388103","nbrOut":14,"planned":false,"timeOff":1794951293000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.804127,39.072877],"type":"Point"},"properties":{"crewAssigned":false,"id":"388104","nbrOut":1,"planned":false,"timeOff":1794951349000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.803444,39.071943],"type":"Point"},"properties":{"crewAssigned":false,"id":"388105","nbrOut":2,"planned":false,"timeOff":1794951349000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.802609,39.072842],"type":"Point"},"properties":{"crewAssigned":false,"id":"388106","nbrOut":2,"planned":false,"timeOff":1794951421853},"type":"Feature"},
-{"geometry":{"coordinates":[-106.808349,39.082557],"type":"Point"},"properties":{"crewAssigned":false,"id":"388107","nbrOut":1,"planned":false,"timeOff":1794951362000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.808349,39.082557],"type":"Point"},"properties":{"crewAssigned":false,"id":"388107","nbrOut":1,"planned":false,"timeOff":1794951362000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.807046,39.077731],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","comment":"Power is out in the Castle Creek area. Crews are responding and will restore power as quickly and safely as possible.\nNo estimated time of restoration.\nMembers may experience intermittent restoration and outages while we troubleshoot the cause.","crewAssigned":true,"id":"388108","nbrOut":30,"planned":false,"timeOff":1794951293000},"type":"Feature"}
 ]}

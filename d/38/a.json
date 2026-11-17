@@ -7,5 +7,5 @@
 {"geometry":{"coordinates":[-111.319814,32.392384],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390411","nbrOut":2,"planned":true,"timeOff":1794938800000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.789386,32.434897],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390412","nbrOut":1,"planned":true,"timeOff":1794945807000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.332606,32.428596],"type":"Point"},"properties":{"cause":"11 MAINTENANCE","id":"390413","nbrOut":1,"planned":true,"timeOff":1794946131000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.074304,32.164551],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390414","nbrOut":1,"planned":false,"timeOff":1794947302000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.074304,32.164551],"type":"Point"},"properties":{"cause":"19 OTHER SCHEDULED (SEE REMARKS)","id":"390414","nbrOut":1,"planned":true,"timeOff":1794947302000},"type":"Feature"}
 ]}
