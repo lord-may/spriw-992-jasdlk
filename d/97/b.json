@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[[[-121.109102,47.733383],[-121.08699,47.728086],[-121.065466,47.768936],[-121.087593,47.774237],[-121.109102,47.733383]]],"type":"Polygon"},"properties":{"AffectedCustomers":108,"Cause":"Under Investigation","CommunityName":"Stevens Pass","CrewDispatched":"","EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1842,"OutageID":"6afc835d4d89d73a28328567","ProjectedDuration":null,"Shape__Area":91312141.72814941,"Shape__Length":43175.79824115405,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 17, 08:39 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 17, 08:39 AM","Status":"Active"},"type":"Feature"}
+
 ]}
