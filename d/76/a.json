@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-104.305146,38.213369],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Pueblo East","outageStepOffTime":"2026-11-17T20:14:43Z","publishedEtr":"2026-11-17T22:04:47Z"},"geoJSONPolygon":null,"id":"6afcb5b7d782ad7fa50a55d9","lat":38.21336905,"lon":-104.305146,"serviceType":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-104.821527,41.114099],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne South","outageStepOffTime":"2026-11-17T20:16:56Z","publishedEtr":"2026-11-17T22:06:57Z"},"geoJSONPolygon":null,"id":"6afcb639d782ad7fa50a5b6a","lat":41.1140993,"lon":-104.8215273,"serviceType":"Electric"},"type":"Feature"}
 ]}

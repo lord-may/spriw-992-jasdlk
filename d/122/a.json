@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-109.892598,32.290103],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":2,"GlobalID":"a1fda22b-5ed4-49da-8969-64463d90572f","INCIDENT_ID":21503,"MetersRestored":0,"OBJECTID":2,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1794929589000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1794940389000},"type":"Feature"},
-{"geometry":{"coordinates":[-110.621763,31.68522],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":9,"GlobalID":"330b4075-5158-42c0-bd74-772f3e8bfb27","INCIDENT_ID":21504,"MetersRestored":18,"OBJECTID":1,"REGION":"Sierra Vista","STATUS":"Power Out","TIME_OUTAGE":1794931041000,"TIME_RESTORED":null,"TIME_RESTORED_EST":null},"type":"Feature"}
+
 ]}
