@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-119.779894,39.57438],"type":"Point"},"properties":{"CAUSEDESC":"Motor Vehicle Accident","ERTDATETIME":"11/16/2026 09:30:00 PM","EVENTID":"1869444","LATITUDE":39.5743802,"LONGITUDE":-119.7798941,"NUMCUSTDEENERGIZED":32,"STARTDATETIME":"11/16/2026 03:04:13 PM","XCORD":857036,"YCORD":14383895},"type":"Feature"},
-{"geometry":{"coordinates":[-118.882146,39.501774],"type":"Point"},"properties":{"CAUSEDESC":"Wildlife","ERTDATETIME":null,"EVENTID":"1869472","LATITUDE":39.5017742,"LONGITUDE":-118.8821457,"NUMCUSTDEENERGIZED":3,"STARTDATETIME":"11/16/2026 05:37:48 PM","XCORD":1109493,"YCORD":14350894},"type":"Feature"}
+{"geometry":{"coordinates":[-117.705265,41.071744],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1869477","LATITUDE":41.0717442,"LONGITUDE":-117.7052655,"NUMCUSTDEENERGIZED":4,"STARTDATETIME":"11/16/2026 05:32:31 PM","XCORD":1446031,"YCORD":14917851},"type":"Feature"}
 ]}
