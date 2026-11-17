@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.675337,47.174155],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","id":"262227","nbrOut":2,"planned":true,"timeOff":1793131086000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.675337,47.174155],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","id":"262227","nbrOut":2,"planned":true,"timeOff":1793131086000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.720944,47.16434],"type":"Point"},"properties":{"cause":"New Outage, Cause Unknown","id":"263223","nbrOut":1,"planned":false,"timeOff":1794907230824},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-122.723343,47.161054],[-122.723361,47.161519],[-122.723603,47.161177],[-122.723343,47.161054]]],"type":"Polygon"},{"coordinates":[-122.723441,47.16125],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"New Outage, Cause Unknown","id":"263224","nbrOut":3,"planned":false,"timeOff":1794907020000},"type":"Feature"}
 ]}
