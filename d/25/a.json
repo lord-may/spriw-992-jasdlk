@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-106.280481,39.62298],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","comment":"Planned power outage for underground electrical maintenance in the Vail, Gore Creek area.","crewAssigned":true,"estimateTime":1794956400000,"id":"387930","nbrOut":1,"planned":true,"timeOff":1794945300000},"type":"Feature"},
-{"geometry":{"coordinates":[-106.27996,39.621056],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","comment":"Planned power outage for underground electrical maintenance in the Vail, Gore Creek area.","crewAssigned":true,"estimateTime":1794956400000,"id":"387931","nbrOut":2,"planned":true,"timeOff":1794945300000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.27996,39.621056],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","comment":"Planned power outage for underground electrical maintenance in the Vail, Gore Creek area.","crewAssigned":true,"estimateTime":1794956400000,"id":"387931","nbrOut":2,"planned":true,"timeOff":1794945300000},"type":"Feature"},
+{"geometry":{"coordinates":[-106.945584,39.200714],"type":"Point"},"properties":{"crewAssigned":false,"id":"388084","nbrOut":1,"planned":false,"timeOff":1794950463000},"type":"Feature"}
 ]}
