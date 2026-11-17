@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.975467,37.590925],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T23:10:31.2-08:00","outageName":"3941C0727","outagePoint":{"lat":37.590925052200554,"lng":-117.97546702920063},"outageRecID":"2026-11-16-0075","outageStartTime":"2026-11-16T23:03:35-08:00","outageWorkStatus":"","streetsAffected":["WALLACE RANCH"],"verified":false},"type":"Feature"}
+
 ]}
