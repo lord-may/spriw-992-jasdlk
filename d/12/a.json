@@ -2,10 +2,10 @@
 {"geometry":{"coordinates":[-122.928204,45.559826],"type":"Point"},"properties":{"eventId":"2513229","lat":"45.55982557","long":"-122.92820381","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.962703,45.546624],"type":"Point"},"properties":{"eventId":"2522187","lat":"45.54662373","long":"-122.96270279","totalCustomersImpacted":1},"type":"Feature"},
 {"geometry":{"coordinates":[-122.484434,45.505394],"type":"Point"},"properties":{"eventId":"2528678","lat":"45.50539363","long":"-122.48443359","totalCustomersImpacted":3138},"type":"Feature"},
-{"geometry":{"coordinates":[-122.571108,45.503028],"type":"Point"},"properties":{"eventId":"2528679","lat":"45.50302754","long":"-122.57110760","totalCustomersImpacted":2},"type":"Feature"},
 {"geometry":{"coordinates":[-122.484434,45.505462],"type":"Point"},"properties":{"eventId":"2528680","lat":"45.50546220","long":"-122.48443448","totalCustomersImpacted":2066},"type":"Feature"},
 {"geometry":{"coordinates":[-122.484317,45.505463],"type":"Point"},"properties":{"eventId":"2528682","lat":"45.50546295","long":"-122.48431747","totalCustomersImpacted":2759},"type":"Feature"},
 {"geometry":{"coordinates":[-122.484317,45.505394],"type":"Point"},"properties":{"eventId":"2528684","lat":"45.50539438","long":"-122.48431658","totalCustomersImpacted":2921},"type":"Feature"},
 {"geometry":{"coordinates":[-122.506798,45.492726],"type":"Point"},"properties":{"eventId":"2528928","lat":"45.49272560","long":"-122.50679795","totalCustomersImpacted":7},"type":"Feature"},
-{"geometry":{"coordinates":[-123.201498,45.56327],"type":"Point"},"properties":{"eventId":"2530183","lat":"45.56326985","long":"-123.20149825","totalCustomersImpacted":1},"type":"Feature"}
+{"geometry":{"coordinates":[-122.572949,45.517238],"type":"Point"},"properties":{"eventId":"2530189","lat":"45.51723791","long":"-122.57294892","totalCustomersImpacted":2},"type":"Feature"},
+{"geometry":{"coordinates":[-122.550566,45.516051],"type":"Point"},"properties":{"eventId":"2530190","lat":"45.51605051","long":"-122.55056608","totalCustomersImpacted":1},"type":"Feature"}
 ]}
