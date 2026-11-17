@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-107.931656,38.614651],[-107.918199,38.617985],[-107.919466,38.643711],[-107.921065,38.647353],[-107.922134,38.649366],[-107.958399,38.685894],[-107.970248,38.686778],[-108.013115,38.689632],[-108.016538,38.687907],[-108.017724,38.681028],[-107.992427,38.630141],[-107.931656,38.614651]]],"type":"Polygon"},{"coordinates":[-107.96625,38.653267],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Public-Vehicle","comment":"Broken pole due to a vehicle accident.  Extended outage may apply.  Crews have isolated the broken pole and are working to replace and make additional repairs.","crewAssigned":true,"estimateTime":1794929400000,"id":"252799","nbrOut":108,"planned":false,"timeOff":1794913840000},"type":"Feature"}
 ]}
