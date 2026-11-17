@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-105.245436,38.454935],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Canon City","outageStepOffTime":"2026-11-17T14:08:45Z","publishedEtr":"2026-11-17T15:58:48Z"},"geoJSONPolygon":null,"id":"6afc5ff0d782ad7fa5099212","lat":38.45493511,"lon":-105.245436,"serviceType":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-104.825754,41.143338],"type":"Point"},"properties":{"currentAffected":48,"fieldValues":{"currentAffected":"48","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne South","outageStepOffTime":"2026-11-17T14:15:20Z","publishedEtr":"2026-11-17T16:05:21Z"},"geoJSONPolygon":null,"id":"6afc6179d782ad7fa50993e5","lat":41.14333805,"lon":-104.825754,"serviceType":"Electric"},"type":"Feature"}
 ]}
