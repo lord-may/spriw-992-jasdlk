@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-124.086761,44.394723],[-124.086662,44.39514],[-124.087237,44.395069],[-124.08721,44.394979],[-124.087075,44.394748],[-124.086761,44.394723]]],"type":"Polygon"},{"coordinates":[-124.086931,44.394941],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"415355","lifeCycleStatus":"Planned Outage","nbrOut":5,"timeOff":1794949200000},"type":"Feature"},
 {"geometry":{"coordinates":[-124.080787,44.427424],"type":"Point"},"properties":{"id":"415528","lifeCycleStatus":"Acknowledged","nbrOut":1,"timeOff":1794940973488},"type":"Feature"}
 ]}

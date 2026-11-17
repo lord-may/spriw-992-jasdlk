@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.37592,47.54709],"type":"Point"},"properties":{"cause":"Planned Outage","city":"South Seattle","etrTime":1797117120000,"id":2251582,"identifier":"226573","lastUpdatedTime":1794957364000,"latitude":47.54709,"longitude":-122.37592,"numPeople":1,"polygons":{"hasM":false,"hasZ":false,"rings":[[[-122.37576,47.54684],[-122.37587,47.54678],[-122.37599,47.54677],[-122.37611,47.5468],[-122.37622,47.54688],[-122.37629,47.54699],[-122.37632,47.54711],[-122.37629,47.54723],[-122.37622,47.54733],[-122.37609,47.54742],[-122.37597,47.54744],[-122.37585,47.54742],[-122.37571,47.54733],[-122.37564,47.54723],[-122.37562,47.54708],[-122.37566,47.54695]]],"spatialReference":{"latestWkid":4326,"wkid":4326},"type":"polygon"},"startTime":1794956951000,"state":"WA","status":"Dispatched","title":"Planned Outage","type":"PLANNED_OUTAGE"},"type":"Feature"}
 ]}
