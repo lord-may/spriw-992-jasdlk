@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.083,43.627],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"standard","latitude":43.627,"longitude":-112.083,"outCount":1,"reported":"01:58 AM on 11/18","zip":"83402"},"type":"Feature"}
+{"geometry":{"coordinates":[-112.083,43.627],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 04:30 AM on 11/18","icon":"standard","latitude":43.627,"longitude":-112.083,"outCount":1,"reported":"01:58 AM on 11/18","zip":"83402"},"type":"Feature"}
 ]}
