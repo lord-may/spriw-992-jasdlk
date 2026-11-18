@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.881,42.093],"type":"Point"},"properties":{"cause":"Multiple outages in the area","crewStatus":"Crews Notified","custOut":67,"etr":"Before 01:30 AM on 11/18","icon":"standard","latitude":42.093,"longitude":-111.881,"outCount":2,"reported":"09:23 PM on 11/17","zip":"83263"},"type":"Feature"}
+{"geometry":{"coordinates":[-111.881,42.093],"type":"Point"},"properties":{"cause":"Multiple outages in the area","crewStatus":"Crews Arrived","custOut":67,"etr":"Before 01:30 AM on 11/18","icon":"standard","latitude":42.093,"longitude":-111.881,"outCount":2,"reported":"09:23 PM on 11/17","zip":"83263"},"type":"Feature"},
+{"geometry":{"coordinates":[-112.004,43.44],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":105,"etr":"Before 01:30 AM on 11/18","icon":"standard","latitude":43.44,"longitude":-112.004,"outCount":1,"reported":"10:50 PM on 11/17","zip":"83404"},"type":"Feature"}
 ]}
