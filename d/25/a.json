@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.021285,39.29278],"type":"Point"},"properties":{"cause":"Public - Other, Dig-Up","comment":"Power is out in the Rose Spur Rd area due to a dig-up of underground cable * restoration time unknown * Crews are on site","crewAssigned":true,"id":"388163","nbrOut":2,"planned":false,"timeOff":1795036428000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.017387,39.301776],"type":"Point"},"properties":{"cause":"Public - Other, Dig-Up","comment":"Power is out in the Rose Spur Rd area due to a dig-up of underground cable * restoration time unknown * Crews are on site","crewAssigned":true,"id":"388164","nbrOut":6,"planned":false,"timeOff":1795036428000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.017387,39.301762],"type":"Point"},"properties":{"cause":"Public - Other, Dig-Up","comment":"Power is out in the Rose Spur Rd area due to a dig-up of underground cable * restoration time unknown * Crews are on site","crewAssigned":true,"id":"388168","nbrOut":7,"planned":false,"timeOff":1795039899000},"type":"Feature"}
+
 ]}
