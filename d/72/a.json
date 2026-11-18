@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.833229,45.341337],[-123.824569,45.345763],[-123.827004,45.349803],[-123.837352,45.357271],[-123.852758,45.353591],[-123.833229,45.341337]]],"type":"Polygon"},{"coordinates":[-123.837164,45.349816],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Planned - Construction","crewAssigned":true,"estimateTime":1795048200000,"id":"381525","nbrOut":30,"planned":true,"timeOff":1795022400000},"type":"Feature"}
+{"geometry":{"coordinates":[-123.832124,45.346798],"type":"Point"},"properties":{"cause":"SELECT CAUSE","crewAssigned":false,"id":"381526","nbrOut":1,"planned":false,"timeOff":1795039324000},"type":"Feature"}
 ]}
