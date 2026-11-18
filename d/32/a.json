@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-106.830007,40.476674],"type":"Point"},"properties":{"cause":"Scheduled New Construction","crewAssigned":true,"id":"425641","nbrOut":1,"planned":true,"timeOff":1795032000000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.527369,40.519259],"type":"Point"},"properties":{"crewAssigned":true,"id":"425739","nbrOut":1,"planned":false,"timeOff":1795017773000},"type":"Feature"},
 {"geometry":{"coordinates":[-106.801638,40.46384],"type":"Point"},"properties":{"crewAssigned":true,"id":"425740","nbrOut":1,"planned":false,"timeOff":1795019966000},"type":"Feature"}
 ]}
