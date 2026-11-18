@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.14,41.263],"type":"Point"},"properties":{"cause":"Snow","crewStatus":"Crews Arrived","custOut":172,"etr":"Before 11:30 AM on 11/18","icon":"standard","latitude":41.263,"longitude":-122.14,"outCount":1,"reported":"06:20 AM on 11/18","zip":"96057"},"type":"Feature"},
-{"geometry":{"coordinates":[-122.303,41.32],"type":"Point"},"properties":{"cause":"Damaged Equipment","crewStatus":"Crews Notified","custOut":15,"etr":"Before 03:30 PM on 11/18","icon":"standard","latitude":41.32,"longitude":-122.303,"outCount":1,"reported":"06:24 AM on 11/18","zip":"96067"},"type":"Feature"},
 {"geometry":{"coordinates":[-124.166,41.798],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 04:00 PM on 11/18","icon":"planned","latitude":41.798,"longitude":-124.166,"outCount":1,"reported":"07:55 AM on 11/18","zip":"95531"},"type":"Feature"},
 {"geometry":{"coordinates":[-122.121,41.265],"type":"Point"},"properties":{"cause":"Snow","crewStatus":"Crews Notified","custOut":751,"etr":"Before 11:30 AM on 11/18","icon":"standard","latitude":41.265,"longitude":-122.121,"outCount":1,"reported":"08:45 AM on 11/18","zip":"96017, 96057"},"type":"Feature"}
 ]}
