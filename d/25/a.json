@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.187716,39.456702],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388125","nbrOut":1,"planned":false,"timeOff":1795018616000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.187716,39.456702],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388125","nbrOut":1,"planned":false,"timeOff":1795018616000},"type":"Feature"},
+{"geometry":{"coordinates":[-107.187258,39.456439],"type":"Point"},"properties":{"crewAssigned":false,"id":"388126","nbrOut":1,"planned":false,"timeOff":1795018945000},"type":"Feature"}
 ]}

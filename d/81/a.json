@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.025831,37.675696],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T08:00:01.043-08:00","outageName":"51827125","outagePoint":{"lat":37.67569645786392,"lng":-121.02583118356925},"outageRecID":"2026-11-18-0072","outageStartTime":"2026-11-18T07:59:55.99-08:00","outageWorkStatus":"","streetsAffected":["Debonaire Court"],"verified":false},"type":"Feature"}
+
 ]}
