@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.021285,39.29278],"type":"Point"},"properties":{"crewAssigned":false,"id":"388163","nbrOut":2,"planned":false,"timeOff":1795036428000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.017387,39.301776],"type":"Point"},"properties":{"crewAssigned":false,"id":"388164","nbrOut":6,"planned":false,"timeOff":1795036428000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.021285,39.29278],"type":"Point"},"properties":{"comment":"Power is out in the Rose Spur Rd area. The cause is unknown at this time. Crews are responding and will restore power as quickly and safely as possible.\nNo estimated time of restoration.\nMembers may experience intermittent restoration and outages while we troubleshoot the cause.","crewAssigned":true,"id":"388163","nbrOut":2,"planned":false,"timeOff":1795036428000},"type":"Feature"},
+{"geometry":{"coordinates":[-107.017387,39.301776],"type":"Point"},"properties":{"comment":"Power is out in the Rose Spur Rd area. The cause is unknown at this time. Crews are responding and will restore power as quickly and safely as possible.\nNo estimated time of restoration.\nMembers may experience intermittent restoration and outages while we troubleshoot the cause.","crewAssigned":true,"id":"388164","nbrOut":6,"planned":false,"timeOff":1795036428000},"type":"Feature"},
+{"geometry":{"coordinates":[-107.15915,39.799322],"type":"Point"},"properties":{"crewAssigned":false,"id":"388165","nbrOut":1,"planned":false,"timeOff":1795037713000},"type":"Feature"}
 ]}
