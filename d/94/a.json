@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.491384,64.925599],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T09:20:04-09:00","outageName":"BKS R4 CON_143085","outagePoint":{"lat":64.92559855702561,"lng":-147.49138386601282},"outageRecID":"2026-11-17-0198","outageStartTime":"2026-11-17T09:08:36-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
