@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.22717,34.169517],"type":"Point"},"properties":{"alias":"","consumers_affected":"6","estimated_restore_time":null,"feeder":"0","formatted_ert":null,"incident_id":"G175676","lat":"34.169517150742315","lon":"-118.22716984081477","opt_code":"OH Equipment-Pole","outage_comment":"part of 9GL partial Outage","poly":[{"lat":"34.169517150742315","lon":"-118.22716984081477"}],"start_date":"11/17 04:47 pm","substation":"0"},"type":"Feature"}
+{"geometry":{"coordinates":[-118.22717,34.169517],"type":"Point"},"properties":{"alias":"","consumers_affected":"7","estimated_restore_time":null,"feeder":"0","formatted_ert":null,"incident_id":"G175676","lat":"34.169517150742315","lon":"-118.22716984081477","opt_code":"OH Equipment-Pole","outage_comment":"part of 9GL partial Outage","poly":[{"lat":"34.169517150742315","lon":"-118.22716984081477"}],"start_date":"11/17 04:47 pm","substation":"0"},"type":"Feature"}
 ]}
