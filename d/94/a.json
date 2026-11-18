@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.659398,64.909655],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T18:05:45.403-09:00","outageName":"KAS B3 SER_10035080","outagePoint":{"lat":64.909655318336,"lng":-147.6593982668706},"outageRecID":"2026-11-17-0200","outageStartTime":"2026-11-17T18:05:18-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
