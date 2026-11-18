@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.855784,38.492858],"type":"Point"},"properties":{"cause":"Planned-Maintenance","crewAssigned":true,"estimateTime":1794944700000,"id":"252802","nbrOut":1,"planned":false,"timeOff":1794937114000},"type":"Feature"}
+
 ]}
