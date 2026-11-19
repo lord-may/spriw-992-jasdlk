@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-107.187393,39.45587],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388169","nbrOut":1,"planned":false,"timeOff":1795100780000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.185776,39.456688],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388170","nbrOut":1,"planned":false,"timeOff":1795101150000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.271242,39.47042],"type":"Point"},"properties":{"cause":"Material Or Equipment Fault/Failure","crewAssigned":true,"id":"388172","nbrOut":1,"planned":false,"timeOff":1795122579000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.185776,39.456688],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388170","nbrOut":1,"planned":false,"timeOff":1795101150000},"type":"Feature"}
 ]}
