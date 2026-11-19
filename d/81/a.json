@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.984036,37.694604],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T13:03:39.717-08:00","outageName":"51840605","outagePoint":{"lat":37.69460425709158,"lng":-120.98403591193504},"outageRecID":"2026-11-19-0194","outageStartTime":"2026-11-19T13:03:33.993-08:00","outageWorkStatus":"","streetsAffected":["Haverhill Drive"],"verified":false},"type":"Feature"}
+
 ]}
