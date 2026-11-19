@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.325143,34.163158],"type":"Point"},"properties":{"currentAffected":58,"fieldValues":{"areaName":"N/A","displayID":"J.E.26.11.00089","outageStepOffTime":"2026-11-19T15:17:16Z","publishedEtr":"2026-11-19T20:00:00Z"},"geoJSONPolygon":null,"id":"6aff13097ae09364c94ae9dd","lat":34.1631584994022,"lon":-118.325142640425,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-118.325143,34.163158],"type":"Point"},"properties":{"currentAffected":58,"fieldValues":{"areaName":"N/A","displayID":"J.E.26.11.00089","outageStepOffTime":"2026-11-19T15:17:16Z","publishedEtr":"2026-11-19T21:00:00Z"},"geoJSONPolygon":null,"id":"6aff13097ae09364c94ae9dd","lat":34.1631584994022,"lon":-118.325142640425,"serviceType":"Electric"},"type":"Feature"}
 ]}

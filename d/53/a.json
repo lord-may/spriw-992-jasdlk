@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.112331,46.456754],"type":"Point"},"properties":{"comment":"MAINTENANCE WORK / CREW ON SITE","id":"202378","nbrOut":1,"planned":false,"timeOff":1795108437000},"type":"Feature"},
-{"geometry":{"coordinates":[-119.21879,46.321591],"type":"Point"},"properties":{"comment":"CREW IN ROUTE","id":"202379","nbrOut":1,"planned":false,"timeOff":1795116231936},"type":"Feature"}
+{"geometry":{"coordinates":[-119.112331,46.456754],"type":"Point"},"properties":{"comment":"MAINTENANCE WORK / CREW ON SITE","id":"202378","nbrOut":1,"planned":false,"timeOff":1795108437000},"type":"Feature"}
 ]}
