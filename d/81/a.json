@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.026105,37.690294],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T12:08:55.287-08:00","outageName":"51833953","outagePoint":{"lat":37.690293850487066,"lng":-121.02610494337497},"outageRecID":"2026-11-19-0193","outageStartTime":"2026-11-19T12:06:31-08:00","outageWorkStatus":"","streetsAffected":["La Corunna Place"],"verified":false},"type":"Feature"}
+
 ]}
