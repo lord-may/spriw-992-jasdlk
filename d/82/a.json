@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-149.745384,61.187876],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRAD BALDRIDGE","CUSTOMERS_AFFECTED":"2","EST_RESTORATION":"-","FEEDER":"BFSS 612","LATITUDE":"61.187876","LONGITUDE":"-149.745384","OUTAGE_START":"11/18/2026 16:21","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.727455,61.221081],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"DBSS 142","LATITUDE":"61.221081","LONGITUDE":"-149.727455","OUTAGE_START":"11/18/2026 17:00","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.732696,61.017477],"type":"Point"},"properties":{"CITY":"INDIAN","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HLSS 012","LATITUDE":"61.017477","LONGITUDE":"-149.732696","OUTAGE_START":"11/18/2026 17:17","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
