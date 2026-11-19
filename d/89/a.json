@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.689436,47.057851],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195755","nbrOut":1,"planned":false,"timeOff":1795071734696},"type":"Feature"},
-{"geometry":{"coordinates":[-123.688052,47.059057],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195756","nbrOut":1,"planned":false,"timeOff":1795072055998},"type":"Feature"},
-{"geometry":{"coordinates":[-123.696002,47.086943],"type":"Point"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195757","nbrOut":1,"planned":false,"timeOff":1795072083000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-123.686624,47.028284],[-123.654842,47.117731],[-123.65848,47.116863],[-123.680578,47.102532],[-123.68975,47.094643],[-123.701338,47.082509],[-123.688277,47.029368],[-123.686624,47.028284]]],"type":"Polygon"},{"coordinates":[-123.680965,47.07745],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195758","nbrOut":50,"planned":false,"timeOff":1795071734696},"type":"Feature"}
 ]}
