@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-114.623665,35.112023],"type":"Point"},"properties":{"comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351588","nbrOut":7,"planned":false,"timeOff":1795115640000},"type":"Feature"}
+{"geometry":{"coordinates":[-114.623665,35.112023],"type":"Point"},"properties":{"cause":"Material or Equipment Failure","comment":"We are currently experiencing an outage in your area. Our crews are responding to restore your power. Thank you for your patience.","id":"351588","nbrOut":7,"planned":false,"timeOff":1795115640000},"type":"Feature"}
 ]}

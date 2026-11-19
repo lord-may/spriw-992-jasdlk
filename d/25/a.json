@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.528524,39.613354],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for underground electrical maintenance in the ******* area.","crewAssigned":true,"estimateTime":1795125600000,"id":"388113","nbrOut":3,"planned":false,"timeOff":1795118400000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.187393,39.45587],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388169","nbrOut":1,"planned":false,"timeOff":1795100780000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.185776,39.456688],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388170","nbrOut":1,"planned":false,"timeOff":1795101150000},"type":"Feature"}
 ]}
