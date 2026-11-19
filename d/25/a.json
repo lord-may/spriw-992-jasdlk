@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-107.10835,39.397382],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Carbondale area.","crewAssigned":true,"estimateTime":1795107600000,"id":"388159","nbrOut":14,"planned":false,"timeOff":1795103880000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.187393,39.45587],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388169","nbrOut":1,"planned":false,"timeOff":1795100780000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.185776,39.456688],"type":"Point"},"properties":{"cause":"Scheduled Construction - System Improvement","crewAssigned":true,"id":"388170","nbrOut":1,"planned":false,"timeOff":1795101150000},"type":"Feature"}
 ]}
