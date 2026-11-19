@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-109.926518,34.110283],"type":"Point"},"properties":{"cause":"MEMBER REQUESTED","crewAssigned":true,"id":"536171","nbrOut":1,"planned":false,"timeOff":1795101725000},"type":"Feature"},
 {"geometry":{"coordinates":[-110.481973,34.04238],"type":"Point"},"properties":{"cause":"MEMBER REQUESTED","crewAssigned":true,"id":"536172","nbrOut":1,"planned":false,"timeOff":1795105430000},"type":"Feature"},
-{"geometry":{"coordinates":[-109.641797,34.42506],"type":"Point"},"properties":{"crewAssigned":false,"id":"536174","nbrOut":2,"planned":false,"timeOff":1795107036000},"type":"Feature"}
+{"geometry":{"coordinates":[-109.641797,34.42506],"type":"Point"},"properties":{"cause":"UNKNOWN CAUSE                 ","comment":"We are aware of the outage & crews are responding at this time. We will restore power as soon as possible. We apologize for the inconvenience & thank you for your patience.","crewAssigned":true,"id":"536174","nbrOut":2,"planned":false,"timeOff":1795107036000},"type":"Feature"}
 ]}
