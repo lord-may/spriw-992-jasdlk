@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.686624,47.028284],[-123.654842,47.117731],[-123.65848,47.116863],[-123.680578,47.102532],[-123.68975,47.094643],[-123.701338,47.082509],[-123.688277,47.029368],[-123.686624,47.028284]]],"type":"Polygon"},{"coordinates":[-123.680965,47.07745],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"A first responder is en route to investigate the cause of the outage.","id":"195758","nbrOut":50,"planned":false,"timeOff":1795071734696},"type":"Feature"}
+
 ]}
