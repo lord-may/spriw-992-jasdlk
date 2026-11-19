@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.600805,47.318825],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T10:07:50.34-08:00","outageName":"0765727","outagePoint":{"lat":47.31882513613038,"lng":-122.60080548089527},"outageRecID":"2026-11-19-0469","outageStartTime":"2026-11-19T08:42:22-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
