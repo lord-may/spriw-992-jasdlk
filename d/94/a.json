@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.779135,64.836493],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T19:18:12-09:00","outageName":"CHS B5 SER_10038504","outagePoint":{"lat":64.83649343937348,"lng":-147.77913454470206},"outageRecID":"2026-11-18-0223","outageStartTime":"2026-11-18T19:06:10-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
