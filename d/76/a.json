@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-104.801198,41.117289],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne South","outageStepOffTime":"2026-11-19T04:58:36Z","publishedEtr":"2026-11-19T07:08:39Z"},"geoJSONPolygon":null,"id":"6afe81ffd782ad7fa50c952c","lat":41.11728881,"lon":-104.801198,"serviceType":"Electric"},"type":"Feature"}
 ]}
