@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.732696,61.017477],"type":"Point"},"properties":{"CITY":"INDIAN","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HLSS 012","LATITUDE":"61.017477","LONGITUDE":"-149.732696","OUTAGE_START":"11/18/2026 17:17","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.740913,61.230254],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S20F1","LATITUDE":"61.230254","LONGITUDE":"-149.740913","OUTAGE_START":"11/19/2026 06:25","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.732696,61.017477],"type":"Point"},"properties":{"CITY":"INDIAN","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"HLSS 012","LATITUDE":"61.017477","LONGITUDE":"-149.732696","OUTAGE_START":"11/18/2026 17:17","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
