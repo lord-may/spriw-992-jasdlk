@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-120.700103,39.755337],[-120.696914,39.756926],[-120.659751,39.77579],[-120.666704,39.775928],[-120.694731,39.76301],[-120.696016,39.761608],[-120.700103,39.755337]]],"type":"Polygon"},{"coordinates":[-120.681445,39.766835],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Trees with ice/snow","comment":"Crew is onsite making repairs.","crewAssigned":true,"id":"232625","nbrOut":59,"planned":false,"timeOff":1795102020000},"type":"Feature"}
+
 ]}
