@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.761524,64.813156],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T10:41:57-09:00","outageName":"PGS R3 SER_10009595","outagePoint":{"lat":64.81315619985499,"lng":-147.76152350439204},"outageRecID":"2026-11-19-0227","outageStartTime":"2026-11-19T10:37:12-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

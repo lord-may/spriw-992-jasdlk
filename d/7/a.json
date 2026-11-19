@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.267,41.222],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 02:00 PM on 11/19","icon":"standard","latitude":41.222,"longitude":-122.267,"outCount":1,"reported":"07:08 AM on 11/19","zip":"96025"},"type":"Feature"},
-{"geometry":{"coordinates":[-122.31,41.143],"type":"Point"},"properties":{"cause":"Snow","crewStatus":"Crews Arrived","custOut":70,"etr":"Before 12:00 PM on 11/19","icon":"standard","latitude":41.143,"longitude":-122.31,"outCount":1,"reported":"09:16 PM on 11/18","zip":"96017"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.31,41.143],"type":"Point"},"properties":{"cause":"Snow","crewStatus":"Crews Arrived","custOut":70,"etr":"Before 02:00 PM on 11/19","icon":"standard","latitude":41.143,"longitude":-122.31,"outCount":1,"reported":"09:16 PM on 11/18","zip":"96017"},"type":"Feature"}
 ]}
