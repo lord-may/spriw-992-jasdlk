@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-117.373345,45.880319],[-117.326534,45.883233],[-117.311972,45.892544],[-117.311074,45.89462],[-117.311235,45.897646],[-117.343171,45.896145],[-117.373363,45.880326],[-117.373345,45.880319]]],"type":"Polygon"},{"coordinates":[-117.337987,45.88903],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Scheduled","comment":"SCHEDULED OUTAGE ON 11/19/26 AT 252 154-1 TO THE END FROM 10AM TO 12PM FOR CREW TO INSERT A POLE.","crewAssigned":false,"estimateTime":1795118400000,"id":"324061","nbrOut":10,"planned":false,"timeOff":1795111200000},"type":"Feature"}
 ]}
