@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.24,43.995],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 06:30 AM on 11/20","icon":"standard","latitude":43.995,"longitude":-112.24,"outCount":1,"reported":"03:54 AM on 11/20","zip":"83425"},"type":"Feature"}
 ]}
