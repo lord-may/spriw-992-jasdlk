@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.947451,37.682555],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T08:56:26.473-08:00","outageName":"51851881","outagePoint":{"lat":37.68255452236855,"lng":-120.94745059718217},"outageRecID":"2026-11-20-0200","outageStartTime":"2026-11-20T08:56:21.797-08:00","outageWorkStatus":"","streetsAffected":["Kodiak Drive"],"verified":false},"type":"Feature"}
 ]}
