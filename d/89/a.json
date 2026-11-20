@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.001735,46.714487],"type":"Point"},"properties":{"id":"195760","nbrOut":2,"planned":false,"timeOff":1795126818178},"type":"Feature"}
+{"geometry":{"coordinates":[-124.001735,46.714487],"type":"Point"},"properties":{"id":"195760","nbrOut":2,"planned":false,"timeOff":1795126818178},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-124.167402,47.009323],[-124.166899,47.009672],[-124.167492,47.009697],[-124.167402,47.009323]]],"type":"Polygon"},{"coordinates":[-124.167268,47.009562],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"We are forced to take an outage to make emergency repairs to our system.","id":"195761","nbrOut":14,"planned":false,"timeOff":1795142663380},"type":"Feature"}
 ]}
