@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-149.884176,61.197381],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"DOMINIC HODGE","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"S7F6","LATITUDE":"61.197381","LONGITUDE":"-149.884176","OUTAGE_START":"11/20/2026 08:10","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
-{"geometry":{"coordinates":[-149.117174,60.957675],"type":"Point"},"properties":{"CITY":"GIRDWOOD","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"GWSS 422","LATITUDE":"60.957675","LONGITUDE":"-149.117174","OUTAGE_START":"11/20/2026 10:17","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+{"geometry":{"coordinates":[-149.117174,60.957675],"type":"Point"},"properties":{"CITY":"GIRDWOOD","CREW":"EMMAUS FINAU","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"GWSS 422","LATITUDE":"60.957675","LONGITUDE":"-149.117174","OUTAGE_START":"11/20/2026 10:17","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
