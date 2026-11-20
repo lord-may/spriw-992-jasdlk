@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-109.682067,32.356836],"type":"Point"},"properties":{"CAUSE":"Human Cause/Accident","CUSTOMER_COUNT":1,"GlobalID":"0ae1c845-4e10-4266-842b-292c172d5845","INCIDENT_ID":21535,"MetersRestored":0,"OBJECTID":1,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1795062042000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1795072842000},"type":"Feature"},
-{"geometry":{"coordinates":[-109.779269,32.007328],"type":"Point"},"properties":{"CAUSE":"Planned Outage","CUSTOMER_COUNT":1,"GlobalID":"44ba8824-595a-4c37-8250-8b8e5d84ede5","INCIDENT_ID":21537,"MetersRestored":0,"OBJECTID":2,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1795102686000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1795113486000},"type":"Feature"}
+{"geometry":{"coordinates":[-109.682067,32.356836],"type":"Point"},"properties":{"CAUSE":"Human Cause/Accident","CUSTOMER_COUNT":1,"GlobalID":"46715b78-3cd8-4373-b67e-ca7c9b319439","INCIDENT_ID":21535,"MetersRestored":0,"OBJECTID":1,"REGION":"Willcox","STATUS":"Power Out","TIME_OUTAGE":1795062042000,"TIME_RESTORED":null,"TIME_RESTORED_EST":1795072842000},"type":"Feature"}
 ]}
