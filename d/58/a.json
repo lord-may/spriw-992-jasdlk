@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.163961,47.882131],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"estimateTime":1795129200000,"id":"528717","nbrOut":1,"planned":false,"timeOff":1795121388000},"type":"Feature"},
 {"geometry":{"coordinates":[-117.593306,47.855544],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":false,"id":"528724","nbrOut":1,"planned":false,"timeOff":1795123747000},"type":"Feature"},
 {"geometry":{"coordinates":[-117.348417,47.494082],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"528736","nbrOut":1,"planned":false,"timeOff":1795130616000},"type":"Feature"}
 ]}
