@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-122.845343,46.005908],[-122.847032,46.00967],[-122.846115,46.007293],[-122.845343,46.005908]]],"type":"Polygon"},{"coordinates":[-122.846169,46.007624],"type":"Point"}],"type":"GeometryCollection"},"properties":{"causeGroup":"Emergency Repair","crewAssigned":true,"estimateTime":1795171500000,"id":"291689","nbrOut":4,"timeOff":1795160802000},"type":"Feature"}
+
 ]}
