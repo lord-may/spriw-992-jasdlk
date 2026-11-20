@@ -3,5 +3,5 @@
 {"geometry":{"coordinates":[-111.203788,32.332553],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1794866400000,"id":"390402","nbrOut":6,"planned":true,"timeOff":1795118400000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.251156,32.313788],"type":"Point"},"properties":{"cause":"10 CONSTRUCTION","estimateTime":1795114800000,"id":"390417","nbrOut":1,"planned":true,"timeOff":1795099244000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.217927,32.142914],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1795146224000,"id":"390508","lifeCycleStatus":"Line Crews Assigned","nbrOut":11,"planned":false,"timeOff":1795129474000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.046996,32.438491],"type":"Point"},"properties":{"cause":"Pending Investigation","id":"390511","nbrOut":588,"planned":true,"timeOff":1795152600000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.046996,32.438491],"type":"Point"},"properties":{"cause":"70 VEHICLES","id":"390511","nbrOut":588,"planned":true,"timeOff":1795153680000},"type":"Feature"}
 ]}
