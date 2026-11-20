@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-124.001735,46.714487],"type":"Point"},"properties":{"id":"195760","nbrOut":2,"planned":false,"timeOff":1795126818178},"type":"Feature"},
-{"geometry":{"coordinates":[-123.349675,47.009856],"type":"Point"},"properties":{"id":"195763","nbrOut":1,"planned":false,"timeOff":1795163440000},"type":"Feature"}
+{"geometry":{"coordinates":[-124.001735,46.714487],"type":"Point"},"properties":{"comment":"Equipment damage will require additional repair time. We are working to restore service as soon as possible.","id":"195760","nbrOut":2,"planned":false,"timeOff":1795126818178},"type":"Feature"},
+{"geometry":{"coordinates":[-123.349675,47.009856],"type":"Point"},"properties":{"comment":"Power is out due to a car hitting a pole. We are replacing damaged equipment and will restore service as soon as possible.","id":"195763","nbrOut":1,"planned":false,"timeOff":1795163440000},"type":"Feature"}
 ]}
