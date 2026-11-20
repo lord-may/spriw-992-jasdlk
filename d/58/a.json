@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.248057,47.624174],"type":"Point"},"properties":{"cause":"Planned Outage - Maintenance","comment":"11/20/26 Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"estimateTime":1795215600000,"id":"528695","lifeCycleStatus":"Planned","nbrOut":2,"planned":true,"timeOff":1795197600000},"type":"Feature"},
 {"geometry":{"coordinates":[-117.622017,47.843939],"type":"Point"},"properties":{"cause":"Grid Hardening / Preventative Maint.","comment":"Inland Crews are on site performing scheduled maintenance.\nThank you for your patience and understanding.","crewAssigned":true,"estimateTime":1795219200000,"id":"528883","lifeCycleStatus":"Planned","nbrOut":1,"planned":true,"timeOff":1795208799458},"type":"Feature"}
 ]}
