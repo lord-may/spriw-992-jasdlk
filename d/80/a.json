@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-110.073338,34.509527],"type":"Point"},"properties":{"APSArea":"Northeastern Arizona","Boundary":"3rd Street North to Main St and 2nd West St to Larson Ln","Cause":"Damage to Electrical Equipment","City":"Snowflake","Comments":"We are working to restore the power outage caused by damage to electrical equipment.","MediaLink":null,"OBJECTID":13738,"Ticket":"7187093240","customers":342,"datastatus":"current","etr":1795174200000,"latLong":"34.509526968492_-110.0733381757","off":1795158960000,"outageimpact":"Large","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
