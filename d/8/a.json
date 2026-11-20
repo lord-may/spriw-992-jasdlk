@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-120.547,46.593],"type":"Point"},"properties":{"cause":"Multiple outages in the area","crewStatus":"Crews Notified","custOut":22,"etr":"Before 08:30 PM on 11/19","icon":"standard","latitude":46.593,"longitude":-120.547,"outCount":2,"reported":"01:44 PM on 11/19","zip":"98902"},"type":"Feature"},
-{"geometry":{"coordinates":[-120.526,46.595],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 09:30 PM on 11/19","icon":"standard","latitude":46.595,"longitude":-120.526,"outCount":1,"reported":"03:10 PM on 11/19","zip":"98902"},"type":"Feature"},
 {"geometry":{"coordinates":[-118.111,46.294],"type":"Point"},"properties":{"cause":"Planned Maintenance","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"planned","latitude":46.294,"longitude":-118.111,"outCount":1,"reported":"09:44 AM on 11/19","zip":"99328"},"type":"Feature"}
 ]}
