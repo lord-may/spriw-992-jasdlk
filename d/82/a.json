@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.918565,61.146199],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"JLSS 112","LATITUDE":"61.146199","LONGITUDE":"-149.918565","OUTAGE_START":"11/21/2026 09:49","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+
 ]}
