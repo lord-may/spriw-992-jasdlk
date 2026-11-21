@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.857874,47.310039],"type":"Point"},"properties":{"cause":"Service Order Related Outage","crewAssigned":true,"id":"368867","nbrOut":1,"timeOff":1795191270000},"type":"Feature"},
 {"geometry":{"coordinates":[-123.021107,47.212813],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368869","nbrOut":1,"timeOff":1795217609846},"type":"Feature"}
 ]}
