@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-123.131923,47.242265],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":false,"id":"368873","nbrOut":31,"timeOff":1795264095000},"type":"Feature"}
 ]}
