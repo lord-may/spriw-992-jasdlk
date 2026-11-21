@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.08451,33.631386],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Greenway Parkway to 7th Dr and 11th Ave to 6th Dr","Cause":"Planned outage","City":"Phoenix","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13785,"Ticket":"7187093520","customers":44,"datastatus":"current","etr":1795260600000,"latLong":"33.63138643571_-112.0845095162","off":1795251180000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
 ]}
