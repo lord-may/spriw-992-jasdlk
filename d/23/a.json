@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.423735,38.548922],"type":"Point"},"properties":{"AFFECTEDAREA":"Oak Park","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26112000155","OUTAGEBEGINTIME":"Today at  2:11 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"20 - ASSESSING","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.423734663948","Y_COORD":"38.5489222412916","name":"1","style":"Style3"},"type":"Feature"},
-{"geometry":{"coordinates":[-121.513598,38.530269],"type":"Point"},"properties":{"AFFECTEDAREA":"Land Park","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26112000165","OUTAGEBEGINTIME":"Today at  3:37 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.513597547338","Y_COORD":"38.5302694144708","name":"1","style":"Style3"},"type":"Feature"}
+
 ]}
