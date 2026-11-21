@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-105.395454,39.925842],"type":"Point"},"properties":{"AVGLAT":"39.925842000000003","AVGLONG":"-105.395454000000001","CASESTAT":"1","COORDCOUNT":"1","COORDLIST":"39.9258418228117,-105.395454167932","CURCUST":"1","DESC":"","DESC_CAUSE":"Unknown","INITCUST":"1","NOTES":"","OUTTIME":"2026-11-21 09:55:33","PLANNED":"0","PUBLICMSG":"","RESTORETIM":"","RESTRANGE":"","SERIAL":"27602","TYPE":"0","TypeSort":"3","WORKSTAT":"0"},"type":"Feature"}
 ]}

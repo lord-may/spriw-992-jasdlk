@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.450143,33.431879],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Pima St.","Cause":"Outage Reported in Area","City":"Goodyear","Comments":"Multiple customers have reported an outage in this area. We are investigating and will provide an update once we know more.  Thank you for your patience.","MediaLink":null,"OBJECTID":13754,"Ticket":"7187093529","customers":6,"datastatus":"current","etr":1795265100000,"latLong":"33.431878957462_-112.4501428757","off":1795254900000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
