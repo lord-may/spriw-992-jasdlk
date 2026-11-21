@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.909342,38.449654],"type":"Point"},"properties":{"cause":"Weather-Snow, Ice (not trees)","crewAssigned":true,"estimateTime":1795288500000,"id":"252901","nbrOut":2,"planned":false,"timeOff":1795266699579},"type":"Feature"}
+
 ]}
