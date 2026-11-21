@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.137,43.308],"type":"Point"},"properties":{"cause":"Pole Fire","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 03:30 PM on 11/21","icon":"standard","latitude":43.308,"longitude":-112.137,"outCount":1,"reported":"04:05 AM on 11/21","zip":"83236"},"type":"Feature"},
-{"geometry":{"coordinates":[-111.944,43.643],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 12:00 PM on 11/21","icon":"standard","latitude":43.643,"longitude":-111.944,"outCount":1,"reported":"09:27 AM on 11/21","zip":"83442"},"type":"Feature"},
-{"geometry":{"coordinates":[-111.983,43.643],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 01:30 PM on 11/21","icon":"standard","latitude":43.643,"longitude":-111.983,"outCount":1,"reported":"10:42 AM on 11/21","zip":"83442"},"type":"Feature"}
+{"geometry":{"coordinates":[-112.137,43.308],"type":"Point"},"properties":{"cause":"Pole Fire","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 03:30 PM on 11/21","icon":"standard","latitude":43.308,"longitude":-112.137,"outCount":1,"reported":"04:05 AM on 11/21","zip":"83236"},"type":"Feature"}
 ]}
