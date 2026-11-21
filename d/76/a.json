@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.622484,38.263068],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Pueblo South","outageStepOffTime":"2026-11-21T01:30:23Z","publishedEtr":"2026-11-21T03:40:23Z"},"geoJSONPolygon":null,"id":"6b00f42fd782ad7fa50f24e2","lat":38.26306763,"lon":-104.6224845,"serviceType":"Electric"},"type":"Feature"}
+
 ]}
