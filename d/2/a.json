@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-117.3274,33.4445],[-117.3249,33.44469],[-117.3218,33.4465],[-117.3162,33.4613],[-117.3137,33.4688],[-117.3137,33.4701],[-117.3154,33.4715],[-117.3397,33.4673],[-117.3397,33.458],[-117.3381,33.4499],[-117.3274,33.4445]]],"type":"Polygon"},{"coordinates":[-117.32753,33.4589],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"The cause of the outage is unknown and still under investigation.","es-US":"Se desconocen las causas del apagón y aún se están investigando."},"circuits":"520","cluster":false,"comments":null,"communities":"De Luz","crew_icon":false,"crew_status":null,"cust_a":{"val":0},"customersOut":"95","etr":"2026-11-21T21:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-21T17:29:12Z","title":"Area Outage"},"type":"Feature"}
+
 ]}

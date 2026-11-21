@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.710874,64.911839],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":48,"customersOutNow":48,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T10:23:40.117-09:00","outageName":"MOS R4 FUS_3350","outagePoint":{"lat":64.91183868228407,"lng":-147.71087378097872},"outageRecID":"2026-11-21-0244","outageStartTime":"2026-11-21T10:21:23-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
