@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-115.269067,36.166585],"type":"Point"},"properties":{"CAUSEDESC":"Motor Vehicle Accident","ERTDATETIME":"11/20/2026 09:45:00 PM","EVENTID":"1870499","LATITUDE":36.1665853,"LONGITUDE":-115.2690675,"NUMCUSTDEENERGIZED":4,"STARTDATETIME":"11/20/2026 04:31:32 PM","XCORD":2151192,"YCORD":13135871},"type":"Feature"},
-{"geometry":{"coordinates":[-118.555959,39.528085],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1870531","LATITUDE":39.528085,"LONGITUDE":-118.5559594,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"11/20/2026 07:47:39 PM","XCORD":1201676,"YCORD":14358718},"type":"Feature"}
+{"geometry":{"coordinates":[-118.555959,39.528085],"type":"Point"},"properties":{"CAUSEDESC":"Pole-mounted Equipment Failure","ERTDATETIME":null,"EVENTID":"1870531","LATITUDE":39.528085,"LONGITUDE":-118.5559594,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"11/20/2026 07:47:39 PM","XCORD":1201676,"YCORD":14358718},"type":"Feature"}
 ]}

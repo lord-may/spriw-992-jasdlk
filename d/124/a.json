@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.995664,46.662276],"type":"Point"},"properties":{"cause":"000 Power supply","code":"000","crewAssigned":true,"customersOutInitially":430,"customersOutNow":53,"customersRestored":377,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-11-20T10:19:31-08:00","outageModifiedTime":"2026-11-20T20:43:26-08:00","outageName":"2026-11-20-0055","outagePoint":{"lat":46.66227608480907,"lng":-120.99566428476265},"outageRecID":"2026-11-20-0055","outageStartTime":"2026-11-20T10:19:00-08:00","outageWorkStatus":"Patrol in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
