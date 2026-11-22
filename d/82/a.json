@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.830257,61.110016],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"5","EST_RESTORATION":"-","FEEDER":"HFSS 212","LATITUDE":"61.110016","LONGITUDE":"-149.830257","OUTAGE_START":"11/22/2026 14:01","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
+
 ]}
