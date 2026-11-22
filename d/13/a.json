@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-118.20423,44.462395],"type":"Point"},"properties":{"isLoadShedOutage":false,"isPlannedOutage":false,"isPspsOutage":false,"latitude":44.46239472,"longitude":-118.20423018,"omsCustomerCount":240,"omsEstimatedOutageRestorationDate":"2026-11-22T01:30:00","omsEstimatedTimeToRestorationMessage":"Nov 22, 1:30 AM","omsFeederName":null,"omsOutageId":2600002406,"omsOutageStartDate":"2026-11-21T21:58:45","omsOutageStartDateMessage":"Nov 21, 9:58 PM","omsStatusCode":null,"omsStatusDescription":"On-site","outageBoundary":[],"outageCity":[],"outageCounty":null,"outageMapCode":"Under Investigation","outageRegion":null,"outageState":null,"outageTypeId":1,"outageZip":[],"probableCause":"Under Investigation"},"type":"Feature"}
 ]}
