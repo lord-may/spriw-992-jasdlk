@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.763274,64.816749],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":31,"customersOutNow":31,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T09:08:26-09:00","outageName":"PGS R3 FUS_3606","outagePoint":{"lat":64.81674946715744,"lng":-147.7632741570863},"outageRecID":"2026-11-22-0248","outageStartTime":"2026-11-22T09:03:22-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
