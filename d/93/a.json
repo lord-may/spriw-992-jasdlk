@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.990436,36.13945],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T16:50:51.713-08:00","outageName":"5557D00321","outagePoint":{"lat":36.13945023808126,"lng":-115.99043621814062},"outageRecID":"2026-11-21-0144","outageStartTime":"2026-11-21T16:50:40-08:00","outageWorkStatus":"","streetsAffected":["E HERITAGE"],"verified":false},"type":"Feature"}
 ]}
