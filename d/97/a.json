@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.195833,47.364963],"type":"Point"},"properties":{"AffectedCustomers":14,"Cause":"Under Investigation","CommunityName":"Malaga/Three Lakes","CrewDispatched":"","EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1845,"OutageID":"6b0325ef161aab79513b150a","ProjectedDuration":null,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 22, 09:16 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 22, 09:16 AM","Status":"Active"},"type":"Feature"}
 ]}
