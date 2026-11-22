@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.298667,44.088578],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Restored Pending Calls","geographicAorIDs":"Rapid City Central","outageStepOffTime":"2026-11-22T15:19:03Z","publishedEtr":"2026-11-22T17:19:07Z"},"geoJSONPolygon":null,"id":"6b0307ebd782ad7fa50f6b9c","lat":44.08857763,"lon":-103.2986673,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-104.891414,41.146299],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne North","outageStepOffTime":"2026-11-22T16:31:15Z","publishedEtr":"2026-11-22T18:31:19Z"},"geoJSONPolygon":null,"id":"6b0318d7d782ad7fa50f6c68","lat":41.14629861,"lon":-104.8914145,"serviceType":"Electric"},"type":"Feature"}
 ]}
