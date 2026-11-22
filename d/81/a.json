@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.018173,37.640974],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":66,"customersOutNow":66,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T17:28:58.957-08:00","outageName":"OF8E9-7","outagePoint":{"lat":37.64097392080977,"lng":-121.01817261016154},"outageRecID":"2026-11-21-0222","outageStartTime":"2026-11-21T17:25:18.973-08:00","outageWorkStatus":"","streetsAffected":["Dewayne Court","Laurel Avenue","Luinda Way","Rachelle Circle","Rachelle Drive","Travis Lane"],"verified":true},"type":"Feature"}
 ]}
