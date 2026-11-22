@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.607259,64.913987],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T05:26:34.603-09:00","outageName":"KAS B5 TRA_329383","outagePoint":{"lat":64.913986916724,"lng":-147.60725902849777},"outageRecID":"2026-11-22-0247","outageStartTime":"2026-11-22T05:17:45-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
