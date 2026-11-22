@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-116.031612,36.23375],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T02:32:40.843-08:00","outageName":"5556A9363","outagePoint":{"lat":36.23375048378253,"lng":-116.03161208674372},"outageRecID":"2026-11-22-0145","outageStartTime":"2026-11-22T02:32:30-08:00","outageWorkStatus":"","streetsAffected":["W IRENE"],"verified":false},"type":"Feature"}
+
 ]}
