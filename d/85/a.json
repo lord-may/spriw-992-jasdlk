@@ -1,9 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.96737,46.302349],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795474800000,"id":"291586","nbrOut":1,"timeOff":1795467600000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.928293,46.329215],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795478400000,"id":"291587","nbrOut":1,"timeOff":1795471200000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.805898,45.990675],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795474800000,"id":"291603","nbrOut":2,"timeOff":1795424400000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.845154,46.295082],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795471200000,"id":"291626","nbrOut":1,"timeOff":1795451400000},"type":"Feature"},
-{"geometry":{"coordinates":[-122.845154,46.295082],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795471200000,"id":"291627","nbrOut":1,"timeOff":1795451400000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-122.912079,46.173447],[-122.912034,46.173454],[-122.911602,46.173485],[-122.911513,46.173491],[-122.910399,46.173615],[-122.911001,46.173802],[-122.912079,46.173447]]],"type":"Polygon"},{"coordinates":[-122.911171,46.173615],"type":"Point"}],"type":"GeometryCollection"},"properties":{"causeGroup":"Investigating","crewAssigned":true,"estimateTime":1795478400000,"id":"291739","nbrOut":17,"timeOff":1795471147493},"type":"Feature"},
-{"geometry":{"coordinates":[-122.911423,46.173329],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":false,"estimateTime":1795482900000,"id":"291740","nbrOut":1,"timeOff":1795471662000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.805898,45.990675],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795474800000,"id":"291603","nbrOut":2,"timeOff":1795424400000},"type":"Feature"}
 ]}
