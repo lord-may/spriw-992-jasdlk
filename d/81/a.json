@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-120.973418,37.636626],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T09:35:12.997-08:00","outageName":"51874326","outagePoint":{"lat":37.63662608377138,"lng":-120.9734182072876},"outageRecID":"2026-11-23-0232","outageStartTime":"2026-11-23T09:34:50-08:00","outageWorkStatus":"","streetsAffected":["South Santa Cruz Avenue"],"verified":false},"type":"Feature"}
+
 ]}
