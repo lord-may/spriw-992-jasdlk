@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.33728,45.579323],"type":"Point"},"properties":{"affectedCustomerCount":2,"cause":"Tree into power lines","estimatedRestoration":"2026-11-23T14:00:00.000-08:00","key":"41910","lat":45.579323,"lon":-122.33728,"reported":"2026-11-23T10:25:00.000-08:00","status":null},"type":"Feature"}
+{"geometry":{"coordinates":[-122.33728,45.579323],"type":"Point"},"properties":{"affectedCustomerCount":2,"cause":"Tree into power lines","estimatedRestoration":"2026-11-23T15:00:00.000-08:00","key":"41910","lat":45.579323,"lon":-122.33728,"reported":"2026-11-23T10:25:00.000-08:00","status":null},"type":"Feature"}
 ]}
