@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.54691,45.8104],"type":"Point"},"properties":{"affectedCustomerCount":4,"cause":null,"estimatedRestoration":null,"key":"41906","lat":45.8104,"lon":-122.54691,"reported":"2026-11-22T16:19:00.000-08:00","status":null},"type":"Feature"}
 ]}

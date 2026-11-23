@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-116.015909,36.220265],"type":"Point"},"properties":{"cause":"600 Small animal/bird","code":"600","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T16:35:39-08:00","outageName":"F2567","outagePoint":{"lat":36.22026457505403,"lng":-116.01590868599415},"outageRecID":"2026-11-22-0149","outageStartTime":"2026-11-22T15:46:56-08:00","outageWorkStatus":"","streetsAffected":["W BASIN"],"verified":true},"type":"Feature"}
+
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-104.821046,41.114681],"type":"Point"},"properties":{"currentAffected":4,"fieldValues":{"currentAffected":"4","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne South","outageStepOffTime":"2026-11-23T00:42:10Z","publishedEtr":"2026-11-23T02:42:13Z"},"geoJSONPolygon":null,"id":"6b038be5d782ad7fa50f6f8c","lat":41.11468118,"lon":-104.8210457,"serviceType":"Electric"},"type":"Feature"},
+{"geometry":{"coordinates":[-104.821527,41.114099],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne South","outageStepOffTime":"2026-11-23T00:46:08Z","publishedEtr":"2026-11-23T02:46:09Z"},"geoJSONPolygon":null,"id":"6b038cd1d782ad7fa50f6fa3","lat":41.1140993,"lon":-104.8215273,"serviceType":"Electric"},"type":"Feature"}
 ]}
