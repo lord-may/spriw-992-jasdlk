@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-118.33794,34.026918],"type":"Point"},"properties":{"CENTROID_LAT":34.026918,"CENTROID_LNG":-118.33794,"CITY_NAM":"WEST ADAMS","COUNT_IN_RANK":54,"COUNT_OTHERS":null,"ETR_DATETIME":1795440600000,"ETR_DATETIME_CHAR":"11/23/2026 13:30","FAC_JOB_STATUS_NAM":"CREWS WORKING","OBJECTID":268812,"OUTAGE_RANK":1},"type":"Feature"}
 ]}
