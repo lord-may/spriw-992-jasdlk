@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.48261,64.919289],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T11:53:17-09:00","outageName":"BKS R4 SER_5824530","outagePoint":{"lat":64.9192892097804,"lng":-147.48260959388645},"outageRecID":"2026-11-23-0255","outageStartTime":"2026-11-23T11:40:39-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
