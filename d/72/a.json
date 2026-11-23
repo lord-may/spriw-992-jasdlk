@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-123.928585,45.559628],[-123.926295,45.604613],[-123.926303,45.604626],[-123.926303,45.604638],[-123.943237,45.614536],[-123.943327,45.614448],[-123.944225,45.613204],[-123.945509,45.610282],[-123.95611,45.57032],[-123.928585,45.559628]]],"type":"Polygon"},{"coordinates":[-123.939194,45.58597],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Equipment Failure","crewAssigned":true,"id":"381654","nbrOut":1230,"planned":false,"timeOff":1795465862925},"type":"Feature"}
+
 ]}
