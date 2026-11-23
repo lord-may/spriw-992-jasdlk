@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.011607,33.594736],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Cactus Rd to 32nd St","Cause":"Damage to Electrical Equipment","City":"Phoenix","Comments":"We are working to restore the power outage caused by damage to electrical equipment.","MediaLink":null,"OBJECTID":13767,"Ticket":"7187093789","customers":6,"datastatus":"current","etr":1795395600000,"latLong":"33.594735793103_-112.0116065603","off":1795385640000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
