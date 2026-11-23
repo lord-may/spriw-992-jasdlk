@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-111.203788,32.332553],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1794866400000,"id":"390402","nbrOut":6,"planned":true,"timeOff":1795118400000},"type":"Feature"},
 {"geometry":{"coordinates":[-111.251156,32.313788],"type":"Point"},"properties":{"cause":"10 CONSTRUCTION","estimateTime":1795114800000,"id":"390417","nbrOut":1,"planned":true,"timeOff":1795099244000},"type":"Feature"},
-{"geometry":{"coordinates":[-111.242451,32.313203],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1795474779000,"id":"390553","lifeCycleStatus":"Line Crews Assigned","nbrOut":1,"planned":false,"timeOff":1795463979698},"type":"Feature"},
-{"geometry":{"coordinates":[-111.075041,32.153273],"type":"Point"},"properties":{"cause":"11 MAINTENANCE","estimateTime":1795475444000,"id":"390554","lifeCycleStatus":"Crews Onsite investigating","nbrOut":1,"planned":false,"timeOff":1795464644000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.242451,32.313203],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1795474779000,"id":"390553","lifeCycleStatus":"Line Crews Assigned","nbrOut":1,"planned":false,"timeOff":1795463979698},"type":"Feature"}
 ]}
