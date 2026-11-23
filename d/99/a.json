@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.372871,47.07094],"type":"Point"},"properties":{"Cause":"Current Outage","Created":1795388055000,"CustAffected":4,"ETR":null,"OBJECTID":1,"OutageID":2001186400,"Outage_Cause_Details":"Current Outage","Status":"Outage Reported"},"type":"Feature"},
-{"geometry":{"coordinates":[-122.49277,47.276329],"type":"Point"},"properties":{"Cause":"Current Outage","Created":1795392905000,"CustAffected":12,"ETR":null,"OBJECTID":2,"OutageID":2001186402,"Outage_Cause_Details":"Current Outage","Status":"Outage Reported"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.372871,47.07094],"type":"Point"},"properties":{"Cause":"Current Outage","Created":1795384204000,"CustAffected":4,"ETR":null,"OBJECTID":1,"OutageID":2001186397,"Outage_Cause_Details":"Current Outage","Status":"Crew is En Route"},"type":"Feature"}
 ]}
