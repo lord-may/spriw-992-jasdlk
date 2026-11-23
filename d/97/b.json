@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-120.21501,47.89419],[-120.214436,47.894143],[-120.21351,47.899309],[-120.214084,47.899355],[-120.21501,47.89419]]],"type":"Polygon"},"properties":{"AffectedCustomers":25,"Cause":"Scheduled work being conducted in the area","CommunityName":"South Shore Lake Chelan","CrewDispatched":null,"EndTimeFormatted":"Nov 23, 01:36 PM","EstimatedEndTime":null,"OBJECTID":1849,"OutageID":"6b0487b2161aab79513b273b","ProjectedDuration":null,"Shape__Area":268973.9077758789,"Shape__Length":4079.112972879772,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":null,"SpanishEndTimeFormatted":"Nov 23, 01:36 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 23, 10:34 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 23, 10:34 AM","Status":"Active"},"type":"Feature"}
 ]}
