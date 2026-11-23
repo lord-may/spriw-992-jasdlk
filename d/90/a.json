@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.864935,47.203555],"type":"Point"},"properties":{"cause":"Under Investigation","crewAssigned":true,"id":"368922","nbrOut":63,"timeOff":1795400203000},"type":"Feature"}
+{"geometry":{"coordinates":[-122.864935,47.203555],"type":"Point"},"properties":{"cause":"220 UG Cable Fault","crewAssigned":true,"id":"368922","nbrOut":63,"timeOff":1795400203000},"type":"Feature"}
 ]}
