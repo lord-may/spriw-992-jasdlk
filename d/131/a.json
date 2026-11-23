@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.851988,40.405662],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-23T16:51:29.967-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T14:51:29.993-07:00","outageName":"T_1144","outagePoint":{"lat":40.40566224977008,"lng":-111.85198755243357},"outageRecID":"2026-11-23-0063","outageStartTime":"2026-11-23T14:45:28-07:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["N 180 W","N NUTTALL DR"],"verified":false},"type":"Feature"}
 ]}
