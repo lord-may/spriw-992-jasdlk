@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.363635,44.082544],"type":"Point"},"properties":{"currentAffected":26,"fieldValues":{"currentAffected":"26","energizationStatus":"Verified","geographicAorIDs":"Rapid City Central","outageStepOffTime":"2026-11-23T17:46:26Z","publishedEtr":"2026-11-23T19:38:42Z"},"geoJSONPolygon":null,"id":"6b047c7ad782ad7fa50fe413","lat":44.08254366,"lon":-103.3636354,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-103.363635,44.082544],"type":"Point"},"properties":{"currentAffected":26,"fieldValues":{"currentAffected":"26","energizationStatus":"Restored Pending Calls","geographicAorIDs":"Rapid City Central","outageStepOffTime":"2026-11-23T17:46:26Z","publishedEtr":"2026-11-23T19:38:42Z"},"geoJSONPolygon":null,"id":"6b047c7ad782ad7fa50fe413","lat":44.08254366,"lon":-103.3636354,"serviceType":"Electric"},"type":"Feature"}
 ]}

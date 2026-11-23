@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.985699,38.448683],"type":"Point"},"properties":{"cause":"Planned-Maintenance","comment":"There will be a planned outage in your area, thank you for your patience.\n\nDate:11/23/26\nTime:09:00 a.m.\nEstimated Duration:6 hours","crewAssigned":true,"estimateTime":1795471200000,"id":"252777","nbrOut":2,"planned":false,"timeOff":1795452021000},"type":"Feature"},
-{"geometry":{"coordinates":[-108.107465,38.678868],"type":"Point"},"properties":{"cause":"Cause unknown","crewAssigned":true,"estimateTime":1795466700000,"id":"252920","nbrOut":2,"planned":false,"timeOff":1795459364000},"type":"Feature"}
+
 ]}
