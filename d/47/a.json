@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-109.989229,34.164992],"type":"Point"},"properties":{"cause":"CONSTRUCTION                  ","crewAssigned":true,"id":"536207","nbrOut":3,"planned":false,"timeOff":1795465891000},"type":"Feature"}
 ]}
