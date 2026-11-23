@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"geometries":[{"coordinates":[[[-122.911486,46.26869],[-122.911423,46.268932],[-122.911719,46.268951],[-122.911486,46.26869]]],"type":"Polygon"},{"coordinates":[-122.91154,46.268857],"type":"Point"}],"type":"GeometryCollection"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795456800000,"id":"291582","nbrOut":3,"timeOff":1795449600000},"type":"Feature"},
+{"geometry":{"coordinates":[-122.911944,46.268479],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795456800000,"id":"291583","nbrOut":2,"timeOff":1795449600000},"type":"Feature"},
 {"geometry":{"coordinates":[-122.805898,45.990675],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795474800000,"id":"291603","nbrOut":2,"timeOff":1795424400000},"type":"Feature"}
 ]}
