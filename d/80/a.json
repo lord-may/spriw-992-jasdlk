@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.002971,33.452256],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Van Buren St. and 36th St.","Cause":"Outage Reported in Area","City":"Phoenix","Comments":"Multiple customers have reported an outage in this area. We are investigating and will provide an update once we know more.  Thank you for your patience.","MediaLink":null,"OBJECTID":13778,"Ticket":"7187094061","customers":17,"datastatus":"current","etr":1795465500000,"latLong":"33.452255756262_-112.0029710314","off":1795457400000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
