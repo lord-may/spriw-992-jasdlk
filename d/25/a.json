@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.111386,39.324329],"type":"Point"},"properties":{"cause":"Unknown Cause","comment":"Power is out in the Sopris Creek Rd area. The cause is unknown at this time. Crews are responding and will restore power as quickly and safely as possible.\nNo estimated time of restoration.\nMembers may experience intermittent restoration and outages while we troubleshoot the cause.","crewAssigned":true,"id":"388250","nbrOut":42,"planned":false,"timeOff":1795525745000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.393282,39.640732],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for maintenance in the Forest Rd area.","crewAssigned":true,"estimateTime":1795543200000,"id":"388174","nbrOut":2,"planned":false,"timeOff":1795536000000},"type":"Feature"}
 ]}
