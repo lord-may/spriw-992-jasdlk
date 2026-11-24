@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-122.675337,47.174155],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","id":"262227","nbrOut":2,"planned":true,"timeOff":1793131086000},"type":"Feature"},
-{"geometry":{"coordinates":[-121.964733,47.640924],"type":"Point"},"properties":{"cause":"New Outage, Cause Unknown","id":"263428","nbrOut":1,"planned":false,"timeOff":1795528260000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-121.96149,47.633328],[-121.959271,47.633364],[-121.951672,47.639672],[-121.951555,47.640101],[-121.951789,47.642008],[-121.955535,47.646075],[-121.972513,47.651001],[-121.968506,47.638382],[-121.968039,47.63739],[-121.96397,47.633631],[-121.96149,47.633328]]],"type":"Polygon"},{"coordinates":[-121.962137,47.641802],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"New Outage, Cause Unknown","comment":"We are aware of an outage in your area. Crews have been dispatched. There is no current ETR.","id":"263440","nbrOut":268,"planned":false,"timeOff":1795528112812},"type":"Feature"}
 ]}
