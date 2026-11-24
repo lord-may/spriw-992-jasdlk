@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.023049,37.675137],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T14:07:04.827-08:00","outageName":"51827109","outagePoint":{"lat":37.67513696657922,"lng":-121.0230489849405},"outageRecID":"2026-11-24-0248","outageStartTime":"2026-11-24T14:06:41-08:00","outageWorkStatus":"","streetsAffected":["Debonaire Drive"],"verified":false},"type":"Feature"}
 ]}

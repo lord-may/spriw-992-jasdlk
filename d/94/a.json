@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-148.052611,64.81225],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T13:17:30.583-09:00","outageName":"ETS R1 SER_10008343","outagePoint":{"lat":64.81224957379304,"lng":-148.05261085423254},"outageRecID":"2026-11-24-0260","outageStartTime":"2026-11-24T13:13:21-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
