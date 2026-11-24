@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-147.547236,64.80093],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T14:12:49-09:00","outageName":"SFS R2 TRA_324130","outagePoint":{"lat":64.80092968236497,"lng":-147.5472361483523},"outageRecID":"2026-11-23-0257","outageStartTime":"2026-11-23T14:07:41-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
