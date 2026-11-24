@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-111.902244,40.434675],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-24T18:45:52.783-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T16:45:52.817-07:00","outageName":"T_3355","outagePoint":{"lat":40.43467454037745,"lng":-111.90224395151796},"outageRecID":"2026-11-24-0064","outageStartTime":"2026-11-24T16:45:34-07:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["N PRAIRIE GRASS DR","N PRAIRIE GRASS RD"],"verified":false},"type":"Feature"}
 ]}
