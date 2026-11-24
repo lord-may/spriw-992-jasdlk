@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.06198,33.51249],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Colter St. to Fern Dr. and 8th Pl. to 10th St.","Cause":"Planned outage","City":"Phoenix","Comments":"Scheduled maintenance or upgrades are being performed to improve reliability in the area.","MediaLink":null,"OBJECTID":13812,"Ticket":"7187094143","customers":7,"datastatus":"current","etr":1795518000000,"latLong":"33.512490406904_-112.0619800384","off":1795507020000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Planned Outage"},"type":"Feature"}
 ]}
