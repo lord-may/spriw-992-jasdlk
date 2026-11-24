@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.43856,38.455751],"type":"Point"},"properties":{"AFFECTEDAREA":"Cosumnes River","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26112300152","OUTAGEBEGINTIME":"Today at  10:35 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.438559524317","Y_COORD":"38.4557509875412","name":"1","style":"Style3"},"type":"Feature"}
+
 ]}
