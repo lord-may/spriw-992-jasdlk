@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.203581,39.073854],"type":"Point"},"properties":{"cause":"Planned Tree Trimming","comment":"Planned power outage for tree trimming in the Marble area.","crewAssigned":true,"estimateTime":1795555800000,"id":"388124","nbrOut":191,"planned":false,"timeOff":1795550400000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.101774,39.398284],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"id":"388276","nbrOut":1,"planned":false,"timeOff":1795541902000},"type":"Feature"}
+
 ]}
