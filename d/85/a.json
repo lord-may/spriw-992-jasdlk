@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.755188,46.112613],"type":"Point"},"properties":{"causeGroup":"Planned Outage","crewAssigned":true,"estimateTime":1795556700000,"id":"291746","nbrOut":1,"timeOff":1795545719000},"type":"Feature"}
 ]}
