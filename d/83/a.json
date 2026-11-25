@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.582798,39.73979],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1871282","LATITUDE":39.73979,"LONGITUDE":-119.582798,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"11/25/2026 11:27:43 AM","XCORD":914320,"YCORD":14442478},"type":"Feature"},
-{"geometry":{"coordinates":[-115.822667,40.849307],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1871283","LATITUDE":40.8493067,"LONGITUDE":-115.8226673,"NUMCUSTDEENERGIZED":2,"STARTDATETIME":"11/25/2026 11:41:09 AM","XCORD":1966016,"YCORD":14838241},"type":"Feature"}
+{"geometry":{"coordinates":[-119.582798,39.73979],"type":"Point"},"properties":{"CAUSEDESC":"Under Investigation","ERTDATETIME":null,"EVENTID":"1871282","LATITUDE":39.73979,"LONGITUDE":-119.582798,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"11/25/2026 11:27:43 AM","XCORD":914320,"YCORD":14442478},"type":"Feature"}
 ]}

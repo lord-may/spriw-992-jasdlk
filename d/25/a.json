@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.011054,39.305647],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the E Sopris Crk Rd area.","crewAssigned":true,"estimateTime":1795644000000,"id":"388237","nbrOut":3,"planned":false,"timeOff":1795636800000},"type":"Feature"}
+{"geometry":{"coordinates":[-107.011054,39.305647],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the E Sopris Crk Rd area.","crewAssigned":true,"estimateTime":1795644000000,"id":"388237","nbrOut":3,"planned":false,"timeOff":1795636800000},"type":"Feature"},
+{"geometry":{"coordinates":[-107.026082,39.365435],"type":"Point"},"properties":{"cause":"Customer Caused","crewAssigned":true,"id":"388316","nbrOut":1,"planned":false,"timeOff":1795637606000},"type":"Feature"}
 ]}
