@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-115.092913,36.158059],"type":"Point"},"properties":{"CAUSEDESC":"Motor Vehicle Accident","ERTDATETIME":"11/24/2026 10:30:00 PM","EVENTID":"1871205","LATITUDE":36.1580589,"LONGITUDE":-115.0929134,"NUMCUSTDEENERGIZED":4,"STARTDATETIME":"11/24/2026 04:28:25 PM","XCORD":2203239,"YCORD":13133742},"type":"Feature"}
+
 ]}
