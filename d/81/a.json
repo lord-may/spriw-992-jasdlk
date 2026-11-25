@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.000411,37.690713],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T16:30:27.537-08:00","outageName":"51845140","outagePoint":{"lat":37.69071307582659,"lng":-121.00041096613388},"outageRecID":"2026-11-24-0249","outageStartTime":"2026-11-24T16:30:00-08:00","outageWorkStatus":"","streetsAffected":["Columbine Drive"],"verified":false},"type":"Feature"}
 ]}
