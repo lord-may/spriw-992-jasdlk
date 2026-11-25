@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-149.932208,61.15207],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"BRIAN KOECHER","CUSTOMERS_AFFECTED":"100","EST_RESTORATION":"-","FEEDER":"JLSS 122","LATITUDE":"61.15207","LONGITUDE":"-149.932208","OUTAGE_START":"11/24/2026 23:32","OUTAGE_STATUS":"Crew Dispatched","STAGE":"Accepted"},"type":"Feature"},
 {"geometry":{"coordinates":[-149.807756,61.153469],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"","CUSTOMERS_AFFECTED":"9","EST_RESTORATION":"-","FEEDER":"DLSS 212","LATITUDE":"61.153469","LONGITUDE":"-149.807756","OUTAGE_START":"11/25/2026 01:54","OUTAGE_STATUS":"Reported","STAGE":"Unassigned"},"type":"Feature"}
 ]}
