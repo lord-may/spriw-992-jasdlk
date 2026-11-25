@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.134926,37.428076],"type":"Point"},"properties":{"cause":"Equipment Replacement","code":"102","crewAssigned":false,"customersOutInitially":32,"customersOutNow":32,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-24T17:01:26-08:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-24T08:03:44.38-08:00","outageName":"PB20","outagePoint":{"lat":37.42807608727214,"lng":-122.13492647581833},"outageRecID":"2026-11-24-0054","outageStartTime":"2026-11-24T08:01:26-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
