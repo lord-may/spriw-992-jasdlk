@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.335368,38.401979],"type":"Point"},"properties":{"AFFECTEDAREA":"Elk Grove","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1424","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Today at  11:45 PM","EVENTNUMBER":"J26112400127","OUTAGEBEGINTIME":"Today at  10:12 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.335368014613","Y_COORD":"38.4019788578339","name":"1424","style":"Style4"},"type":"Feature"}
 ]}
