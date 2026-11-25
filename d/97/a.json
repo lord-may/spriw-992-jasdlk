@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.70231,47.829857],"type":"Point"},"properties":{"AffectedCustomers":23,"Cause":"Scheduled work being conducted in the area","CommunityName":"Fish Lake","CrewDispatched":"","EndTimeFormatted":"Nov 25, 12:31 PM","EstimatedEndTime":null,"OBJECTID":1847,"OutageID":"6b071b59161aab79513b3b0e","ProjectedDuration":null,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Nov 25, 12:31 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 25, 09:31 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 25, 09:31 AM","Status":"Active"},"type":"Feature"}
 ]}

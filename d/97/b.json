@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-120.701335,47.83103],[-120.703439,47.830966],[-120.703284,47.828683],[-120.70118,47.828748],[-120.701335,47.83103]]],"type":"Polygon"},"properties":{"AffectedCustomers":23,"Cause":"Scheduled work being conducted in the area","CommunityName":"Fish Lake","CrewDispatched":"","EndTimeFormatted":"Nov 25, 12:31 PM","EstimatedEndTime":null,"OBJECTID":1850,"OutageID":"6b071b59161aab79513b3b0e","ProjectedDuration":null,"Shape__Area":431171.73681640625,"Shape__Length":2701.589404530612,"SpanishCause":"Trabajo de reparación en esta área","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Nov 25, 12:31 PM","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 25, 09:31 AM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 25, 09:31 AM","Status":"Active"},"type":"Feature"}
 ]}
