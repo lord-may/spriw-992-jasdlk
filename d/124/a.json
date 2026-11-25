@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-119.399684,46.348296],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-25T11:08:58.327-08:00","outageName":"2026-11-25-0109","outagePoint":{"lat":46.348295987305974,"lng":-119.39968408650407},"outageRecID":"2026-11-25-0109","outageStartTime":"2026-11-25T11:05:24-08:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
