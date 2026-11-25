@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-121.000091,37.690887],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T20:39:29.68-08:00","outageName":"UT9230","outagePoint":{"lat":37.690886708237,"lng":-121.00009133816963},"outageRecID":"2026-11-24-0250","outageStartTime":"2026-11-24T20:38:08-08:00","outageWorkStatus":"","streetsAffected":["Columbine Drive","Grace Avenue"],"verified":true},"type":"Feature"}
+
 ]}
