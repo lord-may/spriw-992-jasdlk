@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.973685,46.69279],"type":"Point"},"properties":{"id":"202829","nbrOut":2,"planned":false,"timeOff":1795645800000},"type":"Feature"},
+{"geometry":{"coordinates":[-118.973685,46.69279],"type":"Point"},"properties":{"comment":"CONSTRUCTION / PATS CREW","id":"202829","nbrOut":2,"planned":false,"timeOff":1795645800000},"type":"Feature"},
 {"geometry":{"coordinates":[-119.014863,46.336435],"type":"Point"},"properties":{"id":"202830","nbrOut":1,"planned":false,"timeOff":1795646992000},"type":"Feature"}
 ]}
