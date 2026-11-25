@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-115.051301,36.152325],"type":"Point"},"properties":{"CAUSEDESC":"Underground Equipment Failure","ERTDATETIME":null,"EVENTID":"1871229","LATITUDE":36.152325,"LONGITUDE":-115.0513009,"NUMCUSTDEENERGIZED":1,"STARTDATETIME":"11/25/2026 01:00:36 AM","XCORD":2215563,"YCORD":13131899},"type":"Feature"}
 ]}
