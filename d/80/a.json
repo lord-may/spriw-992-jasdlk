@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.167311,33.530332],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Sierra Vista Dr. to Bethany Home Rd. and 60th Ave. to 49th Ave.","Cause":"Being Investigated","City":"Glendale","Comments":"We are assessing the issue and will provide an update once we know more. Thank you for your patience.","MediaLink":null,"OBJECTID":13792,"Ticket":"7187094412","customers":586,"datastatus":"current","etr":1795604400000,"latLong":"33.530331834302_-112.1673105192","off":1795589820000,"outageimpact":"Large","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}
