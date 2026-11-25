@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.991,41.514],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 12:00 PM on 11/25","icon":"standard","latitude":41.514,"longitude":-123.991,"outCount":1,"reported":"08:42 AM on 11/25","zip":"95548"},"type":"Feature"}
+
 ]}
