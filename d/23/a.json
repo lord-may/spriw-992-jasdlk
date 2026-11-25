@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.482252,38.580454],"type":"Point"},"properties":{"AFFECTEDAREA":"Downtown Sacramento","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26112500038","OUTAGEBEGINTIME":"Today at  9:38 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.482251716855","Y_COORD":"38.5804536028686","name":"1","style":"Style3"},"type":"Feature"},
+{"geometry":{"coordinates":[-121.431092,38.448324],"type":"Point"},"properties":{"AFFECTEDAREA":"Cosumnes River","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26112500039","OUTAGEBEGINTIME":"Today at  9:47 AM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.431091855959","Y_COORD":"38.4483244624309","name":"1","style":"Style3"},"type":"Feature"}
 ]}
