@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.035299,39.371345],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Basalt area.","crewAssigned":true,"estimateTime":1795626000000,"id":"388074","nbrOut":6,"planned":false,"timeOff":1795622100000},"type":"Feature"},
-{"geometry":{"coordinates":[-107.035308,39.371359],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","comment":"Planned power outage for overhead maintenance in the Basalt area.","crewAssigned":true,"estimateTime":1795626000000,"id":"388075","nbrOut":9,"planned":false,"timeOff":1795622100000},"type":"Feature"},
 {"geometry":{"coordinates":[-106.918321,39.211099],"type":"Point"},"properties":{"cause":"Member Requested Outage","crewAssigned":true,"id":"388311","nbrOut":2,"planned":false,"timeOff":1795622946000},"type":"Feature"},
 {"geometry":{"coordinates":[-107.280342,39.477375],"type":"Point"},"properties":{"cause":"Scheduled Maintenance","crewAssigned":true,"id":"388314","nbrOut":2,"planned":false,"timeOff":1795623235000},"type":"Feature"}
 ]}
