@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.465286,34.18725],"type":"Point"},"properties":{"CENTROID_LAT":34.18725,"CENTROID_LNG":-118.46528599999999,"CITY_NAM":"VAN NUYS","COUNT_IN_RANK":0,"COUNT_OTHERS":null,"ETR_DATETIME":1795586400000,"ETR_DATETIME_CHAR":"11/25/2026 06:00","FAC_JOB_STATUS_NAM":"ASSIGNED","OBJECTID":268993,"OUTAGE_RANK":1},"type":"Feature"}
+
 ]}
