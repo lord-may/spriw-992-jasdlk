@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.49851,45.74048],"type":"Point"},"properties":{"affectedCustomerCount":2,"cause":"Birds and animals","estimatedRestoration":null,"key":"41918","lat":45.74048,"lon":-122.49851,"reported":"2026-11-25T07:58:00.000-08:00","status":null},"type":"Feature"}
+{"geometry":{"coordinates":[-122.66005,45.674637],"type":"Point"},"properties":{"affectedCustomerCount":17,"cause":"Planned Maintenance","estimatedRestoration":"2026-11-25T15:00:00.000-08:00","key":"41919","lat":45.674637,"lon":-122.66005,"reported":"2026-11-25T08:46:00.000-08:00","status":null},"type":"Feature"},
+{"geometry":{"coordinates":[-122.69976,45.81591],"type":"Point"},"properties":{"affectedCustomerCount":1,"cause":"Planned Maintenance","estimatedRestoration":"2026-11-25T11:00:00.000-08:00","key":"41920","lat":45.81591,"lon":-122.69976,"reported":"2026-11-25T08:50:00.000-08:00","status":null},"type":"Feature"},
+{"geometry":{"coordinates":[-122.31641,45.575256],"type":"Point"},"properties":{"affectedCustomerCount":2,"cause":"Planned Maintenance","estimatedRestoration":null,"key":"41921","lat":45.575256,"lon":-122.31641,"reported":"2026-11-25T08:57:00.000-08:00","status":null},"type":"Feature"}
 ]}
