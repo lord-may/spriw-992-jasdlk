@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-122.591397,47.281542],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T11:07:56.423-08:00","outageName":"6308530","outagePoint":{"lat":47.28154247735492,"lng":-122.59139662252633},"outageRecID":"2026-11-25-0491","outageStartTime":"2026-11-25T10:55:02-08:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
