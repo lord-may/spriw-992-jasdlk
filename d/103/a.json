@@ -10,12 +10,13 @@
 {"geometry":{"coordinates":[-122.680897,48.021449],"type":"Point"},"properties":{"id":"336571","nbrOut":1,"timeOff":1795683397893},"type":"Feature"},
 {"geometry":{"coordinates":[-122.701774,48.070401],"type":"Point"},"properties":{"id":"336572","nbrOut":2,"timeOff":1795683397958},"type":"Feature"},
 {"geometry":{"coordinates":[-122.690419,48.077411],"type":"Point"},"properties":{"id":"336574","nbrOut":1,"timeOff":1795683601397},"type":"Feature"},
-{"geometry":{"coordinates":[-122.692575,48.06809],"type":"Point"},"properties":{"id":"336575","nbrOut":2,"timeOff":1795683697864},"type":"Feature"},
+{"geometry":{"coordinates":[-122.692575,48.06809],"type":"Point"},"properties":{"id":"336575","nbrOut":2,"timeOff":1795683600000},"type":"Feature"},
 {"geometry":{"coordinates":[-122.686673,48.065322],"type":"Point"},"properties":{"id":"336576","nbrOut":1,"timeOff":1795683741552},"type":"Feature"},
 {"geometry":{"coordinates":[-122.701154,48.074602],"type":"Point"},"properties":{"id":"336577","nbrOut":1,"timeOff":1795683753112},"type":"Feature"},
 {"geometry":{"coordinates":[-122.712383,48.082159],"type":"Point"},"properties":{"id":"336578","nbrOut":35,"timeOff":1795683040582},"type":"Feature"},
 {"geometry":{"coordinates":[-122.69121,48.041628],"type":"Point"},"properties":{"id":"336579","nbrOut":2,"timeOff":1795683843790},"type":"Feature"},
 {"geometry":{"coordinates":[-122.691246,48.04015],"type":"Point"},"properties":{"id":"336580","nbrOut":1,"timeOff":1795683965135},"type":"Feature"},
 {"geometry":{"coordinates":[-122.686862,48.066733],"type":"Point"},"properties":{"id":"336581","nbrOut":2,"timeOff":1795683996337},"type":"Feature"},
-{"geometry":{"coordinates":[-122.701558,48.085783],"type":"Point"},"properties":{"id":"336582","nbrOut":1,"timeOff":1795684021020},"type":"Feature"}
+{"geometry":{"coordinates":[-122.701558,48.085783],"type":"Point"},"properties":{"id":"336582","nbrOut":1,"timeOff":1795684021020},"type":"Feature"},
+{"geometry":{"coordinates":[-122.69112,48.059234],"type":"Point"},"properties":{"id":"336583","nbrOut":1,"timeOff":1795685216941},"type":"Feature"}
 ]}
