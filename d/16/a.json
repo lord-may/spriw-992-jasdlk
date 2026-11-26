@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-114.289867,48.320551],"type":"Point"},"properties":{"cause":"710 Motor vehicle","code":"710","crewAssigned":true,"customersOutInitially":16,"customersOutNow":16,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T01:12:08.307-08:00","outageName":"","outagePoint":{"lat":48.32055072174386,"lng":-114.28986744387946},"outageRecID":"2026-11-26-0151","outageStartTime":"2026-11-25T23:13:40-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
