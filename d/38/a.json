@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.251156,32.313788],"type":"Point"},"properties":{"cause":"10 CONSTRUCTION","estimateTime":1795114800000,"id":"390417","nbrOut":1,"planned":true,"timeOff":1795099244000},"type":"Feature"}
+{"geometry":{"coordinates":[-111.251156,32.313788],"type":"Point"},"properties":{"cause":"10 CONSTRUCTION","estimateTime":1795114800000,"id":"390417","nbrOut":1,"planned":true,"timeOff":1795099244000},"type":"Feature"},
+{"geometry":{"coordinates":[-111.122256,31.950464],"type":"Point"},"properties":{"cause":"Pending Investigation","estimateTime":1795728968000,"id":"390595","lifeCycleStatus":"Line Crews Assigned","nbrOut":1,"planned":false,"timeOff":1795718168000},"type":"Feature"}
 ]}
