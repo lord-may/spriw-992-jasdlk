@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-123.416,43.083],"type":"Point"},"properties":{"cause":"Vehicle Accident","crewStatus":"Crews Notified","custOut":65,"etr":"Before 07:00 PM on 11/25","icon":"standard","latitude":43.083,"longitude":-123.416,"outCount":1,"reported":"02:17 PM on 11/25","zip":"97496"},"type":"Feature"},
 {"geometry":{"coordinates":[-123.085,43.304],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Before 08:30 PM on 11/25","icon":"standard","latitude":43.304,"longitude":-123.085,"outCount":1,"reported":"05:10 PM on 11/25","zip":"97443"},"type":"Feature"},
-{"geometry":{"coordinates":[-122.667,45.597],"type":"Point"},"properties":{"cause":"Trees","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 09:00 PM on 11/26","icon":"standard","latitude":45.597,"longitude":-122.667,"outCount":1,"reported":"05:48 PM on 11/25","zip":"97211"},"type":"Feature"}
+{"geometry":{"coordinates":[-122.667,45.597],"type":"Point"},"properties":{"cause":"Trees","crewStatus":"Crews Arrived","custOut":1,"etr":"Before 09:00 PM on 11/26","icon":"standard","latitude":45.597,"longitude":-122.667,"outCount":1,"reported":"05:48 PM on 11/25","zip":"97211"},"type":"Feature"},
+{"geometry":{"coordinates":[-124.019,44.941],"type":"Point"},"properties":{"cause":"Investigating","crewStatus":"Crews Notified","custOut":1,"etr":"Assessing","icon":"standard","latitude":44.941,"longitude":-124.019,"outCount":1,"reported":"06:00 PM on 11/25","zip":"97367"},"type":"Feature"}
 ]}
