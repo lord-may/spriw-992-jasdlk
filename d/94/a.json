@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-147.683354,64.843929],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T18:59:07.337-09:00","outageName":"HAS R3 SER_4525665","outagePoint":{"lat":64.84392939339064,"lng":-147.68335407141956},"outageRecID":"2026-11-25-0269","outageStartTime":"2026-11-25T18:58:46-09:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
