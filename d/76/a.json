@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-103.827368,43.301899],"type":"Point"},"properties":{"currentAffected":47,"fieldValues":{"currentAffected":"47","energizationStatus":"Predicted","geographicAorIDs":"Southern Hills South","outageStepOffTime":"2026-11-26T05:02:34Z","publishedEtr":"2026-11-26T07:14:39Z"},"geoJSONPolygon":null,"id":"6b07bde7d782ad7fa513de92","lat":43.30189936,"lon":-103.8273682,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-103.827368,43.301899],"type":"Point"},"properties":{"currentAffected":47,"fieldValues":{"currentAffected":"47","energizationStatus":"Verified","geographicAorIDs":"Southern Hills South","outageStepOffTime":"2026-11-26T05:02:34Z","publishedEtr":"2026-11-26T07:14:39Z"},"geoJSONPolygon":null,"id":"6b07bde7d782ad7fa513de92","lat":43.30189936,"lon":-103.8273682,"serviceType":"Electric"},"type":"Feature"}
 ]}
