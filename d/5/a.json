@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-118.230199,33.761767],"type":"Point"},"properties":{"Circuit_Number":null,"CityName":"LONG BEACH","CountyName":"LOS ANGELES","CrewStatusCd":4,"CrewStatusCdDesc":"Work is in progress.","DistrictNo":"46","ERT":"11/26/2026 03:00:00 PM","ERTCd":6,"ERT_LOC":"Most up by ","Flag":1,"Future_RO_Groups":null,"IncidentId":137006343,"IncidentType":"Not Available","JobStatus":"W","LastChngDateTime":"11/26/2026 11:56:03 AM","MemoCauseCd":16,"MemoCauseCdDesc":"Equipment Problems","NoOfAffectedCust_Inci":15,"OanNo":800595675,"OutageStartDateTime":1795693766000,"OutageType":null,"ProblemCode":"07","RO_Group_Numbers":null,"ResultCd":0,"ResultCdDesc":"Not Available","SectorNo":"LIGHTHIPE","Status":"ACTIVE","VTK":null,"ZipcodeName":"90802","created_date":null,"created_user":null,"last_edited_date":null,"last_edited_user":null},"type":"Feature"}
 ]}
