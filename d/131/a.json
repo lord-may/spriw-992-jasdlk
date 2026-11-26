@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-111.864408,40.425693],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T12:12:04.757-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T10:12:04.79-07:00","outageName":"T_2214","outagePoint":{"lat":40.42569337826666,"lng":-111.8644075616284},"outageRecID":"2026-11-26-0065","outageStartTime":"2026-11-26T10:05:36-07:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["N 980 W FOX RUN PARK","W 3020 N"],"verified":false},"type":"Feature"}
+
 ]}
