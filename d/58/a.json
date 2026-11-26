@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-117.466213,47.482415],"type":"Point"},"properties":{"cause":"Cause Being Investigated","comment":"ASR on site - Inland Power is aware of an outage in your area and is working safely to restore power as quickly as possible.\n\nThank you for your patience and understanding.","crewAssigned":true,"id":"528971","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1795715335000},"type":"Feature"}
+{"geometry":{"coordinates":[-117.203411,47.815323],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"528972","nbrOut":1,"planned":false,"timeOff":1795720147000},"type":"Feature"},
+{"geometry":{"coordinates":[-117.208872,47.816331],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"528973","nbrOut":1,"planned":false,"timeOff":1795720851901},"type":"Feature"}
 ]}
