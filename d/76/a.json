@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-103.232818,44.109207],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Rapid City Central","outageStepOffTime":"2026-11-26T04:23:51Z","publishedEtr":"2026-11-26T06:33:52Z"},"geoJSONPolygon":null,"id":"6b07b458d782ad7fa513de67","lat":44.10920696,"lon":-103.232818,"serviceType":"Electric"},"type":"Feature"}
 ]}
