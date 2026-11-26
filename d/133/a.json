@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.157158,37.451712],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T14:22:53-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T09:23:00.77-08:00","outageName":"QR23","outagePoint":{"lat":37.45171206259427,"lng":-122.15715792821322},"outageRecID":"2026-11-26-0059","outageStartTime":"2026-11-26T09:22:53-08:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
