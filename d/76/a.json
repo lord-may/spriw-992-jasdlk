@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-104.756008,41.183696],"type":"Point"},"properties":{"currentAffected":9,"fieldValues":{"currentAffected":"9","energizationStatus":"Predicted","geographicAorIDs":"Cheyenne North","outageStepOffTime":"2026-11-26T15:11:44Z","publishedEtr":"2026-11-26T17:01:46Z"},"geoJSONPolygon":null,"id":"6b084c32d782ad7fa513eefa","lat":41.18369565,"lon":-104.7560077,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-104.756008,41.183696],"type":"Point"},"properties":{"currentAffected":9,"fieldValues":{"currentAffected":"9","energizationStatus":"Restored Pending Calls","geographicAorIDs":"Cheyenne North","outageStepOffTime":"2026-11-26T15:11:44Z","publishedEtr":"2026-11-26T17:01:46Z"},"geoJSONPolygon":null,"id":"6b084c32d782ad7fa513eefa","lat":41.18369565,"lon":-104.7560077,"serviceType":"Electric"},"type":"Feature"}
 ]}
