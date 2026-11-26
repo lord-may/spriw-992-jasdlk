@@ -1,3 +1,7 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-117.327226,47.835703],[-117.286514,47.845314],[-117.285166,47.846242],[-117.279696,47.854308],[-117.324522,47.856116],[-117.3278,47.855507],[-117.333065,47.845862],[-117.331663,47.84116],[-117.327226,47.835703]]],"type":"Polygon"},{"coordinates":[-117.310068,47.847659],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause Being Investigated","comment":"Inland Power is aware of a power outage in your area.\n\nWe will provide an updated estimated time of restoration as soon as it becomes available.\n\nThank you for your patience and understanding.","crewAssigned":true,"id":"528964","lifeCycleStatus":"Crew Assigned","nbrOut":54,"planned":false,"timeOff":1795704561000},"type":"Feature"},
+{"geometry":{"coordinates":[-117.416356,48.019076],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"528965","nbrOut":1,"planned":false,"timeOff":1795704994823},"type":"Feature"},
+{"geometry":{"coordinates":[-117.283621,47.853036],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"528966","nbrOut":1,"planned":false,"timeOff":1795705317615},"type":"Feature"},
+{"geometry":{"coordinates":[-117.284915,47.85655],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"528967","nbrOut":1,"planned":false,"timeOff":1795704562000},"type":"Feature"},
+{"geometry":{"coordinates":[-117.284079,47.852626],"type":"Point"},"properties":{"cause":"Cause Being Investigated","crewAssigned":false,"id":"528968","nbrOut":1,"planned":false,"timeOff":1795704562000},"type":"Feature"}
 ]}
