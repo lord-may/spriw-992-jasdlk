@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-114.655317,32.724946],"type":"Point"},"properties":{"APSArea":"Southwestern Arizona","Boundary":"1st St to West Main Canal and East St to 27th Dr","Cause":"Vehicle accident","City":"Yuma","Comments":"We are working to restore the power outage caused by a vehicle that damaged our equipment.","MediaLink":null,"OBJECTID":13837,"Ticket":"7187094829","customers":30,"datastatus":"current","etr":1795795200000,"latLong":"32.724945543859_-114.655316944","off":1795780800000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}
