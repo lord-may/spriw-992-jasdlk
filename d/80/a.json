@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-112.09207,33.459018],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Rosevelt St. and 16th Ave. to Grand Ave.","Cause":"Damage to Electrical Equipment","City":"Phoenix","Comments":"We are working to restore the power outage caused by damage to electrical equipment.","MediaLink":null,"OBJECTID":13800,"Ticket":"7187094764","customers":62,"datastatus":"current","etr":1795747500000,"latLong":"33.459017628731_-112.0920701986","off":1795734660000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
 ]}
