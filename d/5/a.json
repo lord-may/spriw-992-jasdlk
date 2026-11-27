@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-118.368006,33.958705],"type":"Point"},"properties":{"Circuit_Number":null,"CityName":"INGLEWOOD","CountyName":"LOS ANGELES","CrewStatusCd":2,"CrewStatusCdDesc":"We have notified our repair crews. ","DistrictNo":"44","ERT":"Not Available","ERTCd":2,"ERT_LOC":"Most up by 11/26/2026 06:30:00 PM","Flag":1,"Future_RO_Groups":null,"IncidentId":137006971,"IncidentType":"Not Available","JobStatus":"F","LastChngDateTime":"11/26/2026 05:48:34 PM","MemoCauseCd":15,"MemoCauseCdDesc":"Analyzing Problem","NoOfAffectedCust_Inci":8745,"OanNo":800595821,"OutageStartDateTime":1795713300000,"OutageType":null,"ProblemCode":"03","RO_Group_Numbers":null,"ResultCd":0,"ResultCdDesc":"Not Available","SectorNo":"EL NIDO","Status":"ACTIVE","VTK":null,"ZipcodeName":"90301","created_date":null,"created_user":null,"last_edited_date":null,"last_edited_user":null},"type":"Feature"}
 ]}
