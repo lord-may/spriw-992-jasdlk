@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-112.360001,33.493012],"type":"Point"},"properties":{"APSArea":"Metro Phoenix","Boundary":"Wigwam Blvd to Maya Dr. and Inca Dr. to Desert Ave.","Cause":"Outage Reported in Area","City":"Litchfield Park","Comments":"Multiple customers have reported an outage in this area. We are investigating and will provide an update once we know more.  Thank you for your patience.","MediaLink":null,"OBJECTID":13799,"Ticket":"7186094759","customers":7,"datastatus":"current","etr":1795742100000,"latLong":"33.49301191073_-112.3600013992","off":1795729200000,"outageimpact":"Medium","outagestatus":0,"outagetype":"Unplanned Outage"},"type":"Feature"}
+
 ]}
