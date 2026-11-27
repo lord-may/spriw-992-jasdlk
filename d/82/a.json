@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-149.904403,61.187927],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JASON CARTER","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"WPSS 442","LATITUDE":"61.187927","LONGITUDE":"-149.904403","OUTAGE_START":"11/26/2026 19:52","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.901791,61.194725],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JASON CARTER","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"WPSS 442","LATITUDE":"61.194725","LONGITUDE":"-149.901791","OUTAGE_START":"11/26/2026 19:53","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"},
+{"geometry":{"coordinates":[-149.900965,61.19385],"type":"Point"},"properties":{"CITY":"ANCHORAGE","CREW":"JASON CARTER","CUSTOMERS_AFFECTED":"1","EST_RESTORATION":"-","FEEDER":"WPSS 442","LATITUDE":"61.19385","LONGITUDE":"-149.900965","OUTAGE_START":"11/26/2026 19:55","OUTAGE_STATUS":"Crew On Site","STAGE":"Working"},"type":"Feature"}
 ]}
