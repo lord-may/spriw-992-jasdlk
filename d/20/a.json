@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-118.220178,34.122112],"type":"Point"},"properties":{"CENTROID_LAT":34.122112,"CENTROID_LNG":-118.220178,"CITY_NAM":"EAGLE ROCK","COUNT_IN_RANK":18,"COUNT_OTHERS":null,"ETR_DATETIME":1795757400000,"ETR_DATETIME_CHAR":"11/27/2026 05:30","FAC_JOB_STATUS_NAM":"CREWS WORKING","OBJECTID":269101,"OUTAGE_RANK":1},"type":"Feature"}
+
 ]}
