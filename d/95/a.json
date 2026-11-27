@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-122.575331,47.371963],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":170,"customersOutNow":170,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T19:35:41.717-08:00","outageName":"OH_7207","outagePoint":{"lat":47.37196265322122,"lng":-122.5753311468371},"outageRecID":"2026-11-26-0505","outageStartTime":"2026-11-26T19:35:29-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
