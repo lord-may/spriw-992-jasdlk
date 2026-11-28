@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-120.048652,47.851092],"type":"Point"},"properties":{"AffectedCustomers":12,"Cause":"Under Investigation","CommunityName":"Chelan","CrewDispatched":"","EndTimeFormatted":"Pending Assessment","EstimatedEndTime":null,"OBJECTID":1849,"OutageID":"6b0a1d42161aab79513b44db","ProjectedDuration":null,"SpanishCause":"Se esta investigando","SpanishCrewDispatched":"","SpanishEndTimeFormatted":"Evaluación pendiente","SpanishProjectedDuration":null,"SpanishStartTimeFormatted":"Nov 27, 03:45 PM","SpanishStatus":null,"StartTime":null,"StartTimeFormatted":"Nov 27, 03:45 PM","Status":"Active"},"type":"Feature"}
 ]}
