@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.208246,38.737354],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Canon City","outageStepOffTime":"2026-11-28T04:50:44Z","publishedEtr":"2026-11-28T07:00:47Z"},"geoJSONPolygon":null,"id":"6b0a5da7d782ad7fa5143ec4","lat":38.73735411,"lon":-105.2082463,"serviceType":"Electric"},"type":"Feature"}
+{"geometry":{"coordinates":[-105.207823,38.737021],"type":"Point"},"properties":{"currentAffected":1,"fieldValues":{"currentAffected":"1","energizationStatus":"Predicted","geographicAorIDs":"Canon City","outageStepOffTime":"2026-11-28T04:50:44Z","publishedEtr":"2026-11-28T07:00:47Z"},"geoJSONPolygon":null,"id":"6b0a5da7d782ad7fa5143ec4","lat":38.73702105,"lon":-105.2078234,"serviceType":"Electric"},"type":"Feature"}
 ]}
