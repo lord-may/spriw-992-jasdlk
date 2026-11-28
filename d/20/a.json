@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-118.413918,34.149378],"type":"Point"},"properties":{"CENTROID_LAT":34.149378,"CENTROID_LNG":-118.413918,"CITY_NAM":"STUDIO CITY","COUNT_IN_RANK":1005,"COUNT_OTHERS":null,"ETR_DATETIME":1795845600000,"ETR_DATETIME_CHAR":"11/28/2026 06:00","FAC_JOB_STATUS_NAM":"REPORTED OUTAGE","OBJECTID":269164,"OUTAGE_RANK":1},"type":"Feature"}
 ]}
