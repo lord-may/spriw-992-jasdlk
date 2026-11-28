@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-121.336921,38.610744],"type":"Point"},"properties":{"AFFECTEDAREA":"Carmichael","CALLCOUNT":"0","CAUSE_CODE":"","CUSTOMERSIMPACTED":"1","CoordGeocodeStatus":"","ESTIMATEDRESTORATIONTIME":"Not yet known","EVENTNUMBER":"J26112700038","OUTAGEBEGINTIME":"Today at  8:27 PM","OUTAGEDESCRIPTION":"Not yet known","OUTAGE_STATUS":"10 - OUTAGE REPORTED","PLANNEDOUTAGE":"Unplanned","X_COORD":"-121.336921229754","Y_COORD":"38.6107440761355","name":"1","style":"Style3"},"type":"Feature"}
 ]}
